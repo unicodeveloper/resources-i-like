@@ -5,3 +5,4 @@
   * [laraveldaily.com](http://laraveldaily.com)
   * [learninglaravel.net](http://learninglaravel.net)
   * [laravelcoding.com](http://laravelcoding.com/blog)
+  * [culttt.com](http://culttt.com/)
