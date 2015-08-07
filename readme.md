@@ -1,5 +1,5 @@
 # Learning Resources
 
 ## Laravel
-  * dunebook.com
-  * laraveldaily.com
+  * [dunebook.com](http://dunebook.com/category/useful-resources-for-laravel/)
+  * [laraveldaily.com](http://laraveldaily.com)
