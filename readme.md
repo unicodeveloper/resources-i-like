@@ -1,4 +1,4 @@
-# Resources I absolutely love
+# Learning Resources
 
 ## Laravel
   * dunebook.com
