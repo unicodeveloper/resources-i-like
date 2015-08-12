@@ -10,10 +10,15 @@
 
 ### Tools I have Found Useful For Quick Saas Apps ( RAD )
   * [Laravel 5 package that makes OAuth authentication against several providers dead simple](https://github.com/adamwathan/eloquent-oauth-l5)
+  * [Laravel Socialite](https://github.com/laravel/socialite)
+  * [A collection of providers for Laravel Socialite](http://socialiteproviders.github.io/)
 
 ### Specific Resource
   * [How To Set Up Your Mac Local PHP Development](http://ericlbarnes.com/set-mac-local-php-development/)
   * [Mac Yosemite Dev Machine Setup](https://gist.github.com/taylorotwell/db67dd369b00022850b4)
+  * [Complete Laravel Socialite Tutorial](http://www.codeanchor.net/blog/complete-laravel-socialite-tutorial/)
+  * [Github Authentication For Login With Laravel Socialite](https://mattstauffer.co/blog/using-github-authentication-for-login-with-laravel-socialite)
+  * []()
 
 ## Ionic
 
