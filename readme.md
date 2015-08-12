@@ -18,7 +18,8 @@
   * [Mac Yosemite Dev Machine Setup](https://gist.github.com/taylorotwell/db67dd369b00022850b4)
   * [Complete Laravel Socialite Tutorial](http://www.codeanchor.net/blog/complete-laravel-socialite-tutorial/)
   * [Github Authentication For Login With Laravel Socialite](https://mattstauffer.co/blog/using-github-authentication-for-login-with-laravel-socialite)
-  * []()
+  * [Export Data from Eloquent to CSV](https://mattstauffer.co/blog/export-an-eloquent-collection-to-a-csv-with-league-csv)
+
 
 ## Ionic
 
