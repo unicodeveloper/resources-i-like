@@ -19,6 +19,8 @@
   * [Complete Laravel Socialite Tutorial](http://www.codeanchor.net/blog/complete-laravel-socialite-tutorial/)
   * [Github Authentication For Login With Laravel Socialite](https://mattstauffer.co/blog/using-github-authentication-for-login-with-laravel-socialite)
   * [Export Data from Eloquent to CSV](https://mattstauffer.co/blog/export-an-eloquent-collection-to-a-csv-with-league-csv)
+  * [Custom Error Pages For Laravel 4](https://driesvints.com/blog/laravel-4-quick-tip-custom-error-pages)
+  * [Custom Error Pages For Laravel 5](https://mattstauffer.co/blog/laravel-5.0-custom-error-pages)
 
 
 ## Ionic
@@ -27,3 +29,6 @@
   * [170+ Ionic Framework Resources](http://mcgivery.com/100-ionic-framework-resources/)
   * [Using Local Notifications in Your Ionic Framework App](http://devdactic.com/local-notifications-ionic/)
   * [How to handle User Authentication With AngularJs in your Ionic App](http://devdactic.com/user-auth-angularjs-ionic/)
+
+## Successful Developer Strategies
+  * [Successful Developer Career Strategies](http://www.outlierdeveloper.com/qa-successful-developer-career-strategies/)
