@@ -33,3 +33,8 @@
 
 ## Successful Developer Strategies
   * [Successful Developer Career Strategies](http://www.outlierdeveloper.com/qa-successful-developer-career-strategies/)
+
+## Database
+
+### Specific Resource
+ * [Database Modelling Answers to several Systems](http://www.databaseanswers.org/data_models/)
