@@ -39,3 +39,7 @@
 
 ### Specific Resource
  * [Database Modelling Answers to several Systems](http://www.databaseanswers.org/data_models/)
+
+## DevOps
+ * [High Scalability](https://highscalability.wordpress.com/)
+ * [Highly Scalable](http://highscalability.com/)
