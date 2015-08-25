@@ -46,3 +46,6 @@
  * [High Scalability](https://highscalability.wordpress.com/)
  * [Highly Scalable](http://highscalability.com/)
  * [Ops School](http://www.opsschool.org)
+
+## Open Source
+ * [Up for Grabs : Open Source Projects that require contribution](http://up-for-grabs.net/#/)
