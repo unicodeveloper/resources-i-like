@@ -32,6 +32,7 @@
   * [170+ Ionic Framework Resources](http://mcgivery.com/100-ionic-framework-resources/)
   * [Using Local Notifications in Your Ionic Framework App](http://devdactic.com/local-notifications-ionic/)
   * [How to handle User Authentication With AngularJs in your Ionic App](http://devdactic.com/user-auth-angularjs-ionic/)
+  * [Ultimate angularjs and Ionic Performance Cheat Sheet](http://julienrenaux.fr/2015/08/24/ultimate-angularjs-and-ionic-performance-cheat-sheet/)
 
 ## Successful Developer Strategies
   * [Successful Developer Career Strategies](http://www.outlierdeveloper.com/qa-successful-developer-career-strategies/)
