@@ -1,5 +1,10 @@
 # Learning Resources
 
+## PHP
+
+### Specific Resource
+  * [Nodejs-Free PHP Front end Asset Management](http://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node)
+
 ## Laravel
   * [dunebook.com](http://dunebook.com/category/useful-resources-for-laravel/)
   * [laraveldaily.com](http://laraveldaily.com)
