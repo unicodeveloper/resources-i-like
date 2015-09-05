@@ -3,7 +3,7 @@
 ## PHP
 
   * [PHP The Right Way](http://www.phptherightway.com)
-
+  * [Best Practices for Modern PHP Development](https://www.airpair.com/php/posts/best-practices-for-modern-php-development)
 ### Specific Resource
   * [Nodejs-Free PHP Front end Asset Management](http://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node)
 
