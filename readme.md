@@ -16,6 +16,7 @@
   * [codecourse.com](https://www.codecourse.com/)
   * [laracasts.com](https://laracasts.com)
   * [goodheads.io](http://goodheads.io)
+  * [rebuildinglaravel.com](http://rebuildinglaravel.com/)
 
 ### Tools I have Found Useful For Quick Saas Apps ( RAD )
   * [Laravel 5 package that makes OAuth authentication against several providers dead simple](https://github.com/adamwathan/eloquent-oauth-l5)
