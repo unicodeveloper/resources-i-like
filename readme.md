@@ -2,6 +2,8 @@
 
 ## PHP
 
+  * [PHP The Right Way](http://www.phptherightway.com)
+
 ### Specific Resource
   * [Nodejs-Free PHP Front end Asset Management](http://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node)
 
