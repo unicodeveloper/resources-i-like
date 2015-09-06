@@ -4,10 +4,12 @@
 
   * [PHP The Right Way](http://www.phptherightway.com)
   * [PHP Dependency Injection](http://php-di.org/)
-  * [Best Practices for Modern PHP Development](https://www.airpair.com/php/posts/best-practices-for-modern-php-development)
+
 ### Specific Resource
+  * [Great, Gentle and Subtle Introduction to PHP](http://daylerees.com/php-pandas/)
   * [Nodejs-Free PHP Front end Asset Management](http://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node)
   * [PHP Cheatsheet](http://www.blueshoes.org/en/developer/php_cheat_sheet )
+  * [Best Practices for Modern PHP Development](https://www.airpair.com/php/posts/best-practices-for-modern-php-development)
 
 ## Laravel
   * [dunebook.com](http://dunebook.com/category/useful-resources-for-laravel/)
