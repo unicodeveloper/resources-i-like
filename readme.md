@@ -13,6 +13,9 @@
   * [PHP Cheatsheet](http://www.blueshoes.org/en/developer/php_cheat_sheet )
   * [Best Practices for Modern PHP Development](https://www.airpair.com/php/posts/best-practices-for-modern-php-development)
 
+## Javascript
+  * [watchmecode.net](https://sub.watchmecode.net/)
+
 ## Laravel
   * [dunebook.com](http://dunebook.com/category/useful-resources-for-laravel/)
   * [laraveldaily.com](http://laraveldaily.com)
