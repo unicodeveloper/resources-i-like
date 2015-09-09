@@ -5,6 +5,9 @@
   * [PHP The Right Way](http://www.phptherightway.com)
   * [PHP Dependency Injection](http://php-di.org/)
 
+### PHP Packages For Everyone
+  * [PHP Database Migrations for Everyone](https://github.com/robmorgan/phinx)
+
 ### Specific Resource
   * [Great, Gentle and Subtle Introduction to PHP](http://daylerees.com/php-pandas/)
   * [Dependency Injection Example using PHP](https://github.com/daylerees/dependency-injection-example)
