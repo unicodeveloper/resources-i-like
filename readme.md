@@ -8,6 +8,7 @@
 ### PHP Packages For Everyone
   * [PHP Database Migrations for Everyone](https://github.com/robmorgan/phinx)
   * [PHP Library for the Vimeo API](https://github.com/vimeo/vimeo.php)
+  * [PHP Library for reading and writing spreadsheet files](https://github.com/PHPOffice/PHPExcel)
 
 ### Specific Resource
   * [Great, Gentle and Subtle Introduction to PHP](http://daylerees.com/php-pandas/)
