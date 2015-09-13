@@ -35,6 +35,7 @@
   * [rebuildinglaravel.com](http://rebuildinglaravel.com/)
 
 ### Tools I have Found Useful For Quick Saas Apps ( RAD )
+  * [Laravel Doctrine - Drop Doctrine Support into your Laravel Apps](http://www.laraveldoctrine.org/)
   * [Importing and Exporting Excel and CSV files for Laravel](https://github.com/Maatwebsite/Laravel-Excel)
   * [Laravel 5 package that makes using popular video service - Vimeo painless](https://github.com/vinkla/vimeo)
   * [Laravel 5 package that makes OAuth authentication against several providers dead simple](https://github.com/adamwathan/eloquent-oauth-l5)
