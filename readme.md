@@ -14,6 +14,7 @@
   * [Small PHP Library to generate YouTube-like hashids from one or many numbers. Very good for Obfuscating User IDS](https://github.com/ivanakimov/hashids.php)
 
 ### Specific Resource
+  * [PHP Package Checklist for Building Awesome and Modern PHP Packages](http://phppackagechecklist.com/#1,2,3,4,5,6,7,8,9,10,11,12,13,14)
   * [Great, Gentle and Subtle Introduction to PHP](http://daylerees.com/php-pandas/)
   * [Dependency Injection Example using PHP](https://github.com/daylerees/dependency-injection-example)
   * [Test Driven Development Example using PHP](https://github.com/daylerees/test-driven-development-example)
