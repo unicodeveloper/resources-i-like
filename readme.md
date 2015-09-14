@@ -18,6 +18,7 @@
   * [Nodejs-Free PHP Front end Asset Management](http://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node)
   * [PHP Cheatsheet](http://www.blueshoes.org/en/developer/php_cheat_sheet )
   * [Best Practices for Modern PHP Development](https://www.airpair.com/php/posts/best-practices-for-modern-php-development)
+  * [How to Create a PSR-4 PHP Package](http://culttt.com/2014/05/07/create-psr-4-php-package/)
 
 ## Javascript
   * [watchmecode.net](https://sub.watchmecode.net/)
