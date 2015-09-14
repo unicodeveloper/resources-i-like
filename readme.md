@@ -10,6 +10,7 @@
   * [PHP Library for the Vimeo API](https://github.com/vimeo/vimeo.php)
   * [PHP Library for reading and writing spreadsheet files](https://github.com/PHPOffice/PHPExcel)
   * [Laravel Blade for Non-Laravel Projects](https://github.com/jenssegers/blade)
+  * [Flexible Access Control List Package For Authorization, Roles and Permissions (PHP 5.4+)](https://github.com/BeatSwitch/lock)
 
 ### Specific Resource
   * [Great, Gentle and Subtle Introduction to PHP](http://daylerees.com/php-pandas/)
