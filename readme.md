@@ -58,6 +58,7 @@
   * [Video Tut - Get Up and Running With Laravel 5 and Docker](https://www.youtube.com/watch?v=3YQsHe6oF80)
   * [Up and Running with Laravel on Heroku](http://ryankent.ca/getting-started-with-laravel-and-php-on-heroku/)
   * [Deploying a Laravel application to Heroku](http://www.easylaravelbook.com/blog/2015/01/31/deploying-a-laravel-application-to-heroku/)
+  * [Setting Up a Password Reminder Service in Laravel](http://culttt.com/2015/03/02/setting-up-a-password-reminder-service/)
 
 
 ## Ionic
