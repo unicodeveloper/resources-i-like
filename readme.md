@@ -43,6 +43,7 @@
   * [Laravel 5 package that makes using popular video service - Vimeo painless](https://github.com/vinkla/vimeo)
   * [Laravel 5 package that makes OAuth authentication against several providers dead simple](https://github.com/adamwathan/eloquent-oauth-l5)
   * [Laravel Socialite](https://github.com/laravel/socialite)
+  * [Unique Obsfucated IDs for your Laravel Applications](https://github.com/vinkla/hashids)
   * [A collection of providers for Laravel Socialite](http://socialiteproviders.github.io/)
 
 ### Specific Resource
