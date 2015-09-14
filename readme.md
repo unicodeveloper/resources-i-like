@@ -46,6 +46,7 @@
   * [Laravel Socialite](https://github.com/laravel/socialite)
   * [Unique Obsfucated IDs for your Laravel Applications](https://github.com/vinkla/hashids)
   * [A collection of providers for Laravel Socialite](http://socialiteproviders.github.io/)
+  * [Cache your Entire Response to Speed Up your Laravel App](https://github.com/spatie/laravel-responsecache)
 
 ### Specific Resource
   * [Adding OAuth to a Laravel Application](http://culttt.com/2015/08/17/adding-oauth-to-a-laravel-api/)
