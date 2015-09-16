@@ -52,6 +52,7 @@
 ### Specific Resource
   * [Adding OAuth to a Laravel Application](http://culttt.com/2015/08/17/adding-oauth-to-a-laravel-api/)
   * [How To Set Up Your Mac Local PHP Development](http://ericlbarnes.com/set-mac-local-php-development/)
+  * [Creating Packages in Laravel](https://murze.be/2015/05/creating-packages/)
   * [Creating Your First Laravel 5 Package](http://goodheads.io/2015/06/19/creating-your-first-laravel-5-package/)
   * [Creating a Laravel 5 Package - 5 part Tutorial Series](https://laravel-news.com/2015/09/5-part-tutorial-series-on-creating-a-laravel-5-package/)
   * [Mac Yosemite Dev Machine Setup](https://gist.github.com/taylorotwell/db67dd369b00022850b4)
