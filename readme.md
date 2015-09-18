@@ -97,6 +97,7 @@
 
 ### Specific Resource
 * [Getting Solid at git rebase and merge](https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa)
+* [Merge or Rebase - SourceTree](https://blog.sourcetreeapp.com/2012/08/21/merge-or-rebase/)
 
 ## DevOps
  * [High Scalability](https://highscalability.wordpress.com/)
