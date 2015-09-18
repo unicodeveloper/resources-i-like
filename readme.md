@@ -50,6 +50,7 @@
   * [Cache your Entire Response to Speed Up your Laravel App](https://github.com/spatie/laravel-responsecache)
 
 ### Specific Resource
+  * [Learn about the new ACL features in Laravel](https://laravel-news.com/2015/09/3-resources-to-learn-about-the-new-acl-features-in-laravel/)
   * [Adding OAuth to a Laravel Application](http://culttt.com/2015/08/17/adding-oauth-to-a-laravel-api/)
   * [How To Set Up Your Mac Local PHP Development](http://ericlbarnes.com/set-mac-local-php-development/)
   * [Creating Packages in Laravel](https://murze.be/2015/05/creating-packages/)
