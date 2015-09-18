@@ -27,6 +27,7 @@
   * [watchmecode.net](https://sub.watchmecode.net/)
 
 ## Laravel
+
   * [dunebook.com](http://dunebook.com/category/useful-resources-for-laravel/)
   * [laraveldaily.com](http://laraveldaily.com)
   * [learninglaravel.net](http://learninglaravel.net)
@@ -89,6 +90,10 @@
 
 ## Development Workflow
  * [Level up your development workflow with Github and Pivotal Tracker](http://blog.pivotal.io/labs/labs/level-up-your-development-workflow-with-github-pivotal-tracker)
+
+## Git
+
+ * [git-attitude.fr](http://www.git-attitude.fr/)
 
 ## DevOps
  * [High Scalability](https://highscalability.wordpress.com/)
