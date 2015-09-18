@@ -95,6 +95,9 @@
 
  * [git-attitude.fr](http://www.git-attitude.fr/)
 
+### Specific Resource
+* [Getting Solid at git rebase and merge](https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa)
+
 ## DevOps
  * [High Scalability](https://highscalability.wordpress.com/)
  * [Highly Scalable](http://highscalability.com/)
