@@ -26,6 +26,12 @@
 ## Javascript
   * [watchmecode.net](https://sub.watchmecode.net/)
 
+### AngularJS
+
+#### AngularJS Directives I have Found Useful for Quick Saas Apps
+
+  * [Autocomplete and Mention Directive - mentio ](http://jeff-collins.github.io/ment.io/#/)
+
 ## Laravel
 
   * [dunebook.com](http://dunebook.com/category/useful-resources-for-laravel/)
