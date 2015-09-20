@@ -48,6 +48,7 @@
   * [rebuildinglaravel.com](http://rebuildinglaravel.com/)
 
 ### Tools I have Found Useful For Quick Saas Apps ( RAD )
+  * [Elasticquent - Makes working with ElasticSearch and Eloquent Models easy](https://github.com/elasticquent/Elasticquent)
   * [ElasticCat - Map Elastic Search Results to Eloquent Models](https://github.com/argb/elastic-cat)
   * [Laravel Smart Search](https://github.com/msurguy/laravel-smart-search)
   * [Laravel Doctrine - Drop Doctrine Support into your Laravel Apps](http://www.laraveldoctrine.org/)
