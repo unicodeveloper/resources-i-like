@@ -106,6 +106,9 @@
  * [git-attitude.fr](http://www.git-attitude.fr/)
 
 ### Specific Resource
+* [Visual way to learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+
+### Specific Resource
 * [Getting Solid at git rebase and merge](https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa)
 * [Merge or Rebase - SourceTree](https://blog.sourcetreeapp.com/2012/08/21/merge-or-rebase/)
 
