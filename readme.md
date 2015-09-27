@@ -124,5 +124,8 @@
 
  * [Command line Power User](http://commandlinepoweruser.com/)
 
+### Specific Resource
+ * [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins#frameworks)
+
 ## Open Source
  * [Up for Grabs : Open Source Projects that require contribution](http://up-for-grabs.net/#/)
