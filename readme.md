@@ -115,9 +115,14 @@
 * [Merge or Rebase - SourceTree](https://blog.sourcetreeapp.com/2012/08/21/merge-or-rebase/)
 
 ## DevOps
+
  * [High Scalability](https://highscalability.wordpress.com/)
  * [Highly Scalable](http://highscalability.com/)
  * [Ops School](http://www.opsschool.org)
+
+## Commandline
+
+ * [Command line Power User](http://commandlinepoweruser.com/)
 
 ## Open Source
  * [Up for Grabs : Open Source Projects that require contribution](http://up-for-grabs.net/#/)
