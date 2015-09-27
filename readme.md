@@ -123,6 +123,7 @@
 ## Commandline
 
  * [Command line Power User](http://commandlinepoweruser.com/)
+ * [Repository of Dotfiles](http://dotfiles.github.io/)
 
 ### Specific Resource
  * [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins#frameworks)
