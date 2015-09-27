@@ -6,6 +6,7 @@
   * [PHP Dependency Injection](http://php-di.org/)
 
 ### PHP Packages For Everyone
+  * [PHP Library for parsing, formatting, storing and validating international phone numbers.](https://github.com/giggsey/libphonenumber-for-php)
   * [Better Markdown Parser in PHP](https://github.com/erusev/parsedown)
   * [Laravel 5 helper function for Non-Laravel Applications](https://github.com/rappasoft/laravel-helpers)
   * [PHP Database Migrations for Everyone](https://github.com/robmorgan/phinx)
@@ -123,7 +124,7 @@
 ## Commandline
 
  * [Command line Power User](http://commandlinepoweruser.com/)
- * [Repository of Dotfiles](http://dotfiles.github.io/)
+ * [Repository of Dotfiles  ](http://dotfiles.github.io/)
 
 ### Specific Resource
  * [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins#frameworks)
