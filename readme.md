@@ -6,6 +6,7 @@
   * [PHP Dependency Injection](http://php-di.org/)
 
 ### PHP Packages For Everyone
+  * [Better Markdown Parser in PHP](https://github.com/erusev/parsedown)
   * [Laravel 5 helper function for Non-Laravel Applications](https://github.com/rappasoft/laravel-helpers)
   * [PHP Database Migrations for Everyone](https://github.com/robmorgan/phinx)
   * [PHP Library for the Vimeo API](https://github.com/vimeo/vimeo.php)
