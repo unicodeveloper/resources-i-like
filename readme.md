@@ -6,6 +6,7 @@
   * [PHP Dependency Injection](http://php-di.org/)
 
 ### PHP Packages For Everyone
+  * [PHP Library to add colors in your CLI Scripts](https://github.com/kevinlebrun/colors.php)
   * [PHP Library for parsing, formatting, storing and validating international phone numbers.](https://github.com/giggsey/libphonenumber-for-php)
   * [Better Markdown Parser in PHP](https://github.com/erusev/parsedown)
   * [Laravel 5 helper function for Non-Laravel Applications](https://github.com/rappasoft/laravel-helpers)
