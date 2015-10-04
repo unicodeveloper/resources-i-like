@@ -55,6 +55,7 @@
   * [rebuildinglaravel.com](http://rebuildinglaravel.com/)
 
 ### Tools I have Found Useful For Quick Saas Apps ( RAD )
+  * [Laravel Crawler Detect - Laravel 5 Wrapper for the Crawler Detect PHP Library](https://github.com/JayBizzle/Laravel-Crawler-Detect)
   * [Laravel Phone - Phone number validation Package for Laravel 4 and 5](https://github.com/Propaganistas/Laravel-Phone)
   * [Elasticquent - Makes working with ElasticSearch and Eloquent Models easy](https://github.com/elasticquent/Elasticquent)
   * [ElasticCat - Map Elastic Search Results to Eloquent Models](https://github.com/argb/elastic-cat)
