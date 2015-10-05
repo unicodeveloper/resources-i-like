@@ -40,6 +40,10 @@
 
   * [Autocomplete and Mention Directive - mentio ](http://jeff-collins.github.io/ment.io/#/)
 
+### JQuery
+
+  * [datatables.net](http://datatables.net/)
+
 ## Laravel
 
   * [dunebook.com](http://dunebook.com/category/useful-resources-for-laravel/)
