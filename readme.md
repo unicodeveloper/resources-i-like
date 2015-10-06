@@ -137,6 +137,7 @@
  * [Product Backlog Refinement](http://www.scruminc.com/product-backlog-refinement/)
  * [Potentially Shippable product](http://www.scruminc.com/potentially-shippable-product/)
  * [Product Backlog Items](http://www.scruminc.com/product-backlog-item-pbi/)
+ * [Well Formed Stories](http://blog.pivotal.io/labs/labs/well-formed-stories)
 
 ## Git
 
@@ -168,4 +169,8 @@
 
 ## Regex
  * [Regex One](http://regexone.com/)
+
+## Design Patterns
+ * [2 Design Patterns that will make your applications better](http://ryantablada.com/post/two-design-patterns-that-will-make-your-applications-better)
+ * [Reusable Repository Design in Laravel](http://slashnode.com/reusable-repository-design-in-laravel/)
 
