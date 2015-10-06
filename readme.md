@@ -114,8 +114,29 @@
 ### Specific Resource
  * [Database Modelling Answers to several Systems](http://www.databaseanswers.org/data_models/)
 
-## Development Workflow
+## Scrum / Development Workflow
  * [Level up your development workflow with Github and Pivotal Tracker](http://blog.pivotal.io/labs/labs/level-up-your-development-workflow-with-github-pivotal-tracker)
+
+### Specific Resource
+ * [The basics of Scrum](http://www.scruminc.com/wp-content/uploads/2014/06/The-Basics-of-Scrum.pdf)
+ * [Scrum Fundamentals](http://www.scruminc.com/scrum-fundamentals/)
+ * [Definition of Ready](http://www.scruminc.com/definition-of-ready/)
+ * [Definition of Done](http://www.scruminc.com/definition-of-done/)
+ * [Scrum Team](http://www.scruminc.com/scrum-team/)
+ * [Scrum Master](http://www.scruminc.com/scrum-master/)
+ * [Product Owner](http://www.scruminc.com/product-owner/)
+ * [Product Backlog](http://www.scruminc.com/product-backlog/)
+ * [Sprint](http://www.scruminc.com/sprint/)
+ * [Sprint burndown Chart](http://www.scruminc.com/sprint-burndown-chart/)
+ * [Sprint Planning](http://www.scruminc.com/sprint-planning/)
+ * [Sprint backlog](http://www.scruminc.com/sprint-backlog/)
+ * [Sprint review](http://www.scruminc.com/sprint-review/)
+ * [Scrum Management](http://www.scruminc.com/scrum-management/)
+ * [Agile Defense](http://www.scruminc.com/agile-defense/)
+ * [Velocity](http://www.scruminc.com/velocity/)
+ * [Product Backlog Refinement](http://www.scruminc.com/product-backlog-refinement/)
+ * [Potentially Shippable product](http://www.scruminc.com/potentially-shippable-product/)
+ * [Product Backlog Items](http://www.scruminc.com/product-backlog-item-pbi/)
 
 ## Git
 
@@ -147,3 +168,4 @@
 
 ## Regex
  * [Regex One](http://regexone.com/)
+
