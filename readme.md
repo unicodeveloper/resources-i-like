@@ -21,7 +21,7 @@
   * [Small PHP Library to generate YouTube-like hashids from one or many numbers. Very good for Obfuscating User IDS](https://github.com/ivanakimov/hashids.php)
 
 ### Specific Resource
-  * [The 12 Factor PHP app](http://slashnode.com/the-12-factor-php-app-part-1/)
+  * [The 12 Factor PHP app](http://slashnode.com/the-12-factor-php-app-part-1/  )
   * [PHP Design Patterns](http://www.fluffycat.com/PHP-Design-Patterns/)
   * [PHP Package Checklist for Building Awesome and Modern PHP Packages](http://phppackagechecklist.com/#1,2,3,4,5,6,7,8,9,10,11,12,13,14)
   * [Great, Gentle and Subtle Introduction to PHP](http://daylerees.com/php-pandas/)
