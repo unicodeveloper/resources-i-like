@@ -34,6 +34,7 @@
 
 ## Javascript
   * [watchmecode.net](https://sub.watchmecode.net/)
+  * [Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links)
 
 ### AngularJS
 
