@@ -21,6 +21,7 @@
   * [Small PHP Library to generate YouTube-like hashids from one or many numbers. Very good for Obfuscating User IDS](https://github.com/ivanakimov/hashids.php)
 
 ### Specific Resource
+  * [Design Patterns in PHP - Practical Examples](https://github.com/domnikl/DesignPatternsPHP)
   * [What is Dependency Injection? PHP Example](http://fabien.potencier.org/what-is-dependency-injection.html)
   * [The 12 Factor PHP app](http://slashnode.com/the-12-factor-php-app-part-1/  )
   * [PHP Design Patterns](http://www.fluffycat.com/PHP-Design-Patterns/)
