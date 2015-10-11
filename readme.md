@@ -40,6 +40,7 @@
   * [Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links)
 
 ### AngularJS
+  * [egghead.io](https://egghead.io/technologies/angularjs)
 
 #### AngularJS Directives I have Found Useful for Quick Saas Apps
 
