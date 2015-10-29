@@ -5,8 +5,9 @@
 ## PHP
 
   * [PHP The Right Way](http://www.phptherightway.com)
-  * [PHP Dependency Injection](http://php-di.org/)
-  * [phpenthusiast.com](http://phpenthusiast.com/)
+  * [PHP Dependency Injection](http://php-di.org)
+  * [phpenthusiast.com](http://phpenthusiast.com)
+  * [php-books.com](http://php-books.com/)
 
 ### PHP Packages For Everyone
   * [Crawler Detector - PHP Library that detects over 390 bots/crawlers/spiders](https://github.com/JayBizzle/Crawler-Detect)
