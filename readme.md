@@ -8,6 +8,7 @@
   * [PHP Dependency Injection](http://php-di.org)
   * [phpenthusiast.com](http://phpenthusiast.com)
   * [php-books.com](http://php-books.com/)
+  * [goodheads.io](http://goodheads.io)
 
 ### PHP Packages For Everyone
   * [Crawler Detector - PHP Library that detects over 390 bots/crawlers/spiders](https://github.com/JayBizzle/Crawler-Detect)
