@@ -26,6 +26,8 @@
 ### Specific Resource
   * [Design Patterns in PHP - Practical Examples](https://github.com/domnikl/DesignPatternsPHP)
   * [Awesome PHP - Several Mind Blowing PHP Resources](https://github.com/ziadoz/awesome-php)
+  * [What to Expect in PHP 7 - Part 1](https://blog.engineyard.com/2015/what-to-expect-php-7)
+  * [What to Expect in PHP 7 - Part 2](https://blog.engineyard.com/2015/what-to-expect-php-7-2)
   * [Guide to Using PHP 7](http://daylerees.com/php-pandas-php7)
   * [What is Dependency Injection? PHP Example](http://fabien.potencier.org/what-is-dependency-injection.html)
   * [The 12 Factor PHP app](http://slashnode.com/the-12-factor-php-app-part-1/  )
