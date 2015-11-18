@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
-# Learning Resources I Like
+# Awesome Learning Resources I Like
 
 ## PHP
 
