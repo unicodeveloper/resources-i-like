@@ -3,7 +3,6 @@
 # Awesome Learning Resources I Like
 
 ## PHP
-
   * [PHP The Right Way](http://www.phptherightway.com)
   * [PHP Dependency Injection](http://php-di.org)
   * [phpenthusiast.com](http://phpenthusiast.com)
@@ -58,7 +57,6 @@
   * [datatables.net](http://datatables.net/)
 
 ## Laravel
-
   * [dunebook.com](http://dunebook.com/category/useful-resources-for-laravel/)
   * [laraveldaily.com](http://laraveldaily.com)
   * [learninglaravel.net](http://learninglaravel.net)
@@ -112,6 +110,13 @@
 
 
 ## Ionic
+  * [raymondcamden.com](http://www.raymondcamden.com/)
+  * [mcgivery.com/](http://mcgivery.com/)
+  * [joshmorony.com](http://www.joshmorony.com/category/ionic-tutorials/)
+  * [gajotres.net](http://www.gajotres.net/)
+  * [devdactic.com](https://devdactic.com/)
+  * [blog.nraboy.com](https://blog.nraboy.com/)
+  * [gonehybrid.com](http://gonehybrid.com/)
 
 ### Specific Resource
   * [170+ Ionic Framework Resources](http://mcgivery.com/100-ionic-framework-resources/)
