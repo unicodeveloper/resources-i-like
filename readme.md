@@ -119,7 +119,13 @@
   * [gonehybrid.com](http://gonehybrid.com/)
 
 ### Specific Resource
+  * [Ionic Adventures](https://github.com/juarezpaf/ionic-adventures)
   * [170+ Ionic Framework Resources](http://mcgivery.com/100-ionic-framework-resources/)
+  * [Ionic SocketIO Chat Application Tutorial](https://www.airpair.com/ionic-framework/posts/ionic-socketio-chat-application-tutorial)
+  * [Create a File Browser Using Ionic Framework](https://www.airpair.com/ionic-framework/posts/ionic-file-browser-app)
+  * [The Definitive Ionic Starter Guide](https://www.airpair.com/ionic-framework/posts/the-definitive-ionic-starter-guide)
+  * [Building Real-Time, Multi-Platform Mobile Applications Using Ionic and Firebase](http://www.toptal.com/front-end/building-multi-platform-real-time-mobile-applications-using-ionic-framework-and-firebase)
+  * [Build a Real Time Hybrid App with Ionic and Firebase](https://www.airpair.com/angularjs/posts/build-a-real-time-hybrid-app-with-ionic-firebase)
   * [Using Local Notifications in Your Ionic Framework App](http://devdactic.com/local-notifications-ionic/)
   * [How to handle User Authentication With AngularJs in your Ionic App](http://devdactic.com/user-auth-angularjs-ionic/)
   * [Ultimate angularjs and Ionic Performance Cheat Sheet](http://julienrenaux.fr/2015/08/24/ultimate-angularjs-and-ionic-performance-cheat-sheet/)
