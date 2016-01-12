@@ -200,3 +200,11 @@
  * [2 Design Patterns that will make your applications better](http://ryantablada.com/post/two-design-patterns-that-will-make-your-applications-better)
  * [Reusable Repository Design in Laravel](http://slashnode.com/reusable-repository-design-in-laravel/)
 
+## How can I thank you?
+
+Why not star the github repo? I'd love the attention! Why not share the link for this repository on Twitter or HackerNews? Spread the word!
+
+Don't forget to [follow me on twitter](https://twitter.com/unicodeveloper)!
+
+Thanks!
+Prosper Otemuyiwa.
