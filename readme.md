@@ -40,6 +40,7 @@
   * [Best Practices for Modern PHP Development](https://www.airpair.com/php/posts/best-practices-for-modern-php-development)
   * [How to Create a PSR-4 PHP Package](http://culttt.com/2014/05/07/create-psr-4-php-package/)
   * [Formatting Exception Messages](http://rosstuck.com/formatting-exception-messages/)
+  
 
 ## Javascript
   * [watchmecode.net](https://sub.watchmecode.net/)
@@ -108,6 +109,9 @@
   * [Setting Up a Password Reminder Service in Laravel](http://culttt.com/2015/03/02/setting-up-a-password-reminder-service/)
   * [Good Introduction to Implementing Twitter Following Model in your Application](http://culttt.com/2013/06/03/creating-the-twitter-following-model-in-laravel-4/)
   * [Test Driven Laravel From Scratch](http://adamwathan.me/2016/01/11/test-driven-laravel-from-scratch/)
+
+### Search - Specific Resource
+  * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
 
 
 ## Ionic
