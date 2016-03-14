@@ -109,6 +109,7 @@
   * [Setting Up a Password Reminder Service in Laravel](http://culttt.com/2015/03/02/setting-up-a-password-reminder-service/)
   * [Good Introduction to Implementing Twitter Following Model in your Application](http://culttt.com/2013/06/03/creating-the-twitter-following-model-in-laravel-4/)
   * [Test Driven Laravel From Scratch](http://adamwathan.me/2016/01/11/test-driven-laravel-from-scratch/)
+  * [Creating a Password less login system in Laravel](http://blog.tighten.co/creating-a-password-less-medium-style-email-only-authentication-system-in-laravel?utm_source=twitter&utm_medium=social&utm_campaign=tweetPosts)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
