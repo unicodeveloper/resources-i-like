@@ -203,6 +203,9 @@
 ## Design Patterns
  * [2 Design Patterns that will make your applications better](http://ryantablada.com/post/two-design-patterns-that-will-make-your-applications-better)
  * [Reusable Repository Design in Laravel](http://slashnode.com/reusable-repository-design-in-laravel/)
+ 
+## Better Programming, Better development teams, Better Product
+* [Giving Better Code Reviews](https://medium.com/@mrjoelkemp/giving-better-code-reviews-16109e0fdd36#.de615s9i6)
 
 ## How can I thank you?
 
