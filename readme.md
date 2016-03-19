@@ -40,6 +40,7 @@
   * [Best Practices for Modern PHP Development](https://www.airpair.com/php/posts/best-practices-for-modern-php-development)
   * [How to Create a PSR-4 PHP Package](http://culttt.com/2014/05/07/create-psr-4-php-package/)
   * [Formatting Exception Messages](http://rosstuck.com/formatting-exception-messages/)
+  * [Scaling Wordpress with HHVM on heroku](https://substrakt.com/scaling-wordpress-with-hhvm-on-heroku/)
   
 
 ## Javascript
