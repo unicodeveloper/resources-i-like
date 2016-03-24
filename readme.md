@@ -210,6 +210,7 @@
  
 ## Better Programming, Better development teams, Better Product
 * [Giving Better Code Reviews](https://medium.com/@mrjoelkemp/giving-better-code-reviews-16109e0fdd36#.de615s9i6)
+* [How to write a Great Error message](https://medium.com/@thomasfuchs/how-to-write-an-error-message-883718173322#.rdv2usryh)
 
 ## How can I thank you?
 
