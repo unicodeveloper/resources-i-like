@@ -179,8 +179,6 @@
 
 ### Specific Resource
 * [Visual way to learn Git Branching](http://pcottle.github.io/learnGitBranching/)
-
-### Specific Resource
 * [Getting Solid at git rebase and merge](https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa)
 * [Merge or Rebase - SourceTree](https://blog.sourcetreeapp.com/2012/08/21/merge-or-rebase/)
 
@@ -211,6 +209,7 @@
 ## Better Programming, Better development teams, Better Product
 * [Giving Better Code Reviews](https://medium.com/@mrjoelkemp/giving-better-code-reviews-16109e0fdd36#.de615s9i6)
 * [How to write a Great Error message](https://medium.com/@thomasfuchs/how-to-write-an-error-message-883718173322#.rdv2usryh)
+* [Strategies for Organizing Code](https://medium.com/@msandin/strategies-for-organizing-code-2c9d690b6f33#.e66qd6273)
 
 ## How can I thank you?
 
