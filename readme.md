@@ -199,6 +199,7 @@
 
 ## Open Source
  * [Up for Grabs : Open Source Projects that require contribution](http://up-for-grabs.net/#/)
+ * [How to be an Open Source Gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)
 
 ## Regex
  * [Regex One](http://regexone.com/)
