@@ -213,6 +213,9 @@
 * [How to write a Great Error message](https://medium.com/@thomasfuchs/how-to-write-an-error-message-883718173322#.rdv2usryh)
 * [Strategies for Organizing Code](https://medium.com/@msandin/strategies-for-organizing-code-2c9d690b6f33#.e66qd6273)
 
+## Nice & Terrific Hacks
+* [Slack Quick Switcher Hack](https://gist.github.com/benvan/9111039)
+
 ## How can I thank you?
 
 Why not star the github repo? I'd love the attention! Why not share the link for this repository on Twitter or HackerNews? Spread the word!
