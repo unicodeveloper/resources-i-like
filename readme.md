@@ -77,6 +77,7 @@
   * [JWT Auth for Laravel and Lumen - Makes Auth for Microservices and API a breeeze](https://github.com/generationtux/jwt-artisan)
   * [Laravel Crawler Detect - Laravel 5 Wrapper for the Crawler Detect PHP Library](https://github.com/JayBizzle/Laravel-Crawler-Detect)
   * [Laravel Tagging](https://github.com/rtconner/laravel-tagging)
+  * [Laravel Commentable 1](https://github.com/RomainLanz/laravel-commentable)
   * [Laravel Phone - Phone number validation Package for Laravel 4 and 5](https://github.com/Propaganistas/Laravel-Phone)
   * [Elasticquent - Makes working with ElasticSearch and Eloquent Models easy](https://github.com/elasticquent/Elasticquent)
   * [ElasticCat - Map Elastic Search Results to Eloquent Models](https://github.com/argb/elastic-cat)
