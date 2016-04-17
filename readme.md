@@ -99,6 +99,7 @@
 
 ### Specific Resource
   * [Get going with Laravel on Docker](http://pathfinder.space/get-going-with-laravel-on-docker/)
+  * [Solving the search problem with laravel and tntsearch](https://medium.com/@tntstudiohr/solving-the-search-problem-with-laravel-and-tntsearch-dfa16aa9173b#.g8ciu3qvt)
   * [Building Real-time Laravel Apps with Pusher](https://pusher-community.github.io/real-time-laravel/index.html)
   * [Learn about the new ACL features in Laravel](https://laravel-news.com/2015/09/3-resources-to-learn-about-the-new-acl-features-in-laravel/)
   * [Adding OAuth to a Laravel Application](http://culttt.com/2015/08/17/adding-oauth-to-a-laravel-api/)
