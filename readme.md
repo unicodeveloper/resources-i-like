@@ -76,6 +76,7 @@
   * [Sending Template Emails through Mandrill in Laravel](http://culttt.com/2015/10/12/sending-template-emails-through-mandrill-in-laravel/)
   * [JWT Auth for Laravel and Lumen - Makes Auth for Microservices and API a breeeze](https://github.com/generationtux/jwt-artisan)
   * [Laravel Crawler Detect - Laravel 5 Wrapper for the Crawler Detect PHP Library](https://github.com/JayBizzle/Laravel-Crawler-Detect)
+  * [Teamwork](https://github.com/mpociot/teamwork)
   * [Laravel Tagging](https://github.com/rtconner/laravel-tagging)
   * [Laravel Commentable 1](https://github.com/RomainLanz/laravel-commentable)
   * [Laravel Commentable 2](https://github.com/DraperStudio/Laravel-Commentable)
