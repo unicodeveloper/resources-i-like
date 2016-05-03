@@ -2,6 +2,27 @@
 
 # Awesome Learning Resources I Like
 
+## Table of Contents
+
+- [PHP](#php)
+- [PHP Packages for Everyone](#php-packages-for-everyone)
+- [Javascript](#javascript)
+- [Laravel](#laravel)
+- [Ionic](#ionic)
+- [Successful Developer Strategies](#successful-developer-strategies)
+- [Database](#database)
+- [Scrum](#scrum-development-workflow)
+- [Git](#git)
+- [DevOps](#devops)
+- [Commandline](#commandline)
+- [Open Source](#open-source)
+- [Regex](#regex)
+- [Design Patterns](#design-patterns)
+- [Better Programming, Better development teams, Better Product](#better-programming-better-development-teams-better-product)
+- [Nice & Terrific Hacks](#nice-and-terrific-hacks)
+
+
+
 ## PHP
   * [PHP The Right Way](http://www.phptherightway.com)
   * [PHP Dependency Injection](http://php-di.org)
@@ -160,6 +181,7 @@
 ## Successful Developer Strategies
   * [Successful Developer Career Strategies](http://www.outlierdeveloper.com/qa-successful-developer-career-strategies/)
   * [Advice for Aspiring Programmers](https://abdulapopoola.com/2016/05/02/advice-for-aspiring-programmers/?blogsub=confirming#blog_subscription-4)
+  * [Software Developer Resume Anti Patterns](https://medium.com/@mhriess/software-developer-resume-anti-patterns-4e906f2314cd#.17hihnysz)
 
 ## Database
 
