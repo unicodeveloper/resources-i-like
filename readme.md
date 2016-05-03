@@ -50,6 +50,7 @@
 
 ### AngularJS
   * [egghead.io](https://egghead.io/technologies/angularjs)
+  * [A guide to transclusion in AngularJS](http://teropa.info/blog/2015/06/09/transclusion.html)
 
 #### AngularJS Directives I have Found Useful for Quick Saas Apps
 
