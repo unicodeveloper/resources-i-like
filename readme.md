@@ -19,7 +19,7 @@
 - [Regex](#regex)
 - [Design Patterns](#design-patterns)
 - [Better Programming, Better development teams, Better Product](#better-programming-better-development-teams-better-product)
-- [Nice & Terrific Hacks](#nice-and-terrific-hacks)
+- [Nice & Terrific Hacks](#nice-terrific-hacks)
 
 
 
