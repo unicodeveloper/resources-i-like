@@ -159,6 +159,7 @@
 
 ## Successful Developer Strategies
   * [Successful Developer Career Strategies](http://www.outlierdeveloper.com/qa-successful-developer-career-strategies/)
+  * [Advice for Aspiring Programmers](https://abdulapopoola.com/2016/05/02/advice-for-aspiring-programmers/?blogsub=confirming#blog_subscription-4)
 
 ## Database
 
