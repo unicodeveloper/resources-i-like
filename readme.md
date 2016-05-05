@@ -128,6 +128,7 @@
   * [Generate Fake Localized Data with Laravel](https://medium.com/laravel-news/fake-localized-data-and-laravel-c4cdbecb2c31#.4x9hmvva9)
   * [Solving the search problem with laravel and tntsearch](https://medium.com/@tntstudiohr/solving-the-search-problem-with-laravel-and-tntsearch-dfa16aa9173b#.g8ciu3qvt)
   * [Building Real-time Laravel Apps with Pusher](https://pusher-community.github.io/real-time-laravel/index.html)
+  * [Fix HTTP Error 413 Request Entity too Large Problem](https://mhdzaherghaibeh.name/2016/05/03/fix-http-error-413-request-entity-too-large-problem/)
   * [Learn about the new ACL features in Laravel](https://laravel-news.com/2015/09/3-resources-to-learn-about-the-new-acl-features-in-laravel/)
   * [Adding OAuth to a Laravel Application](http://culttt.com/2015/08/17/adding-oauth-to-a-laravel-api/)
   * [How To Set Up Your Mac Local PHP Development](http://ericlbarnes.com/set-mac-local-php-development/)
