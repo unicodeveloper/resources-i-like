@@ -68,6 +68,7 @@
   * [watchmecode.net](https://sub.watchmecode.net/)
   * [Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links)
   * [Single Piece Of Javascript on Hacker News](http://blog.watchandcode.com/2016/03/17/the-single-piece-of-javascript-on-hacker-news/?utm_content=buffer89633&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+  * [Simplified JS Jargon](http://jargon.js.org/)
 
 ### AngularJS
   * [egghead.io](https://egghead.io/technologies/angularjs)
