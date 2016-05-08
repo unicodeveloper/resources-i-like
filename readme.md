@@ -153,6 +153,7 @@
   * [10 less known but awesome laravel collection methods](http://laraveldaily.com/10-less-known-but-awesome-laravel-collections-methods/?utm_content=buffer89887&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
   * [Email Verification With Laravel](http://bensmith.io/email-verification-with-laravel)
   * [How to add tagging to your Laravel App](https://laravel-news.com/2015/10/how-to-add-tagging-to-your-laravel-app/)
+  * [The Magic behind Laravel Valet](http://themsaid.github.io/magic-behind-laravel-valet-20160506/)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
