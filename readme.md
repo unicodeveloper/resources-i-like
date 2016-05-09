@@ -95,6 +95,7 @@
   * [laracasts.com](https://laracasts.com)
   * [goodheads.io](http://goodheads.io)
   * [rebuildinglaravel.com](http://rebuildinglaravel.com/)
+  * [devdojo.com](https://devdojo.com/)
 
 ### Tools I have Found Useful For Quick Saas Apps ( RAD )
   * [Sending Template Emails through Mandrill in Laravel](http://culttt.com/2015/10/12/sending-template-emails-through-mandrill-in-laravel/)
