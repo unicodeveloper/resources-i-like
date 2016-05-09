@@ -157,6 +157,7 @@
   * [Email Verification With Laravel](http://bensmith.io/email-verification-with-laravel)
   * [How to add tagging to your Laravel App](https://laravel-news.com/2015/10/how-to-add-tagging-to-your-laravel-app/)
   * [The Magic behind Laravel Valet](http://themsaid.github.io/magic-behind-laravel-valet-20160506/)
+  * [Introduction to Laravel Valet](https://dotdev.co/laravel-valet-ab9e745dd6f0#.a8zku1fmm)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
