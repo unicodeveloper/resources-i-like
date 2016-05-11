@@ -34,6 +34,7 @@
   * [Crawler Detector - PHP Library that detects over 390 bots/crawlers/spiders](https://github.com/JayBizzle/Crawler-Detect)
   * [PHP Library to add colors in your CLI Scripts](https://github.com/kevinlebrun/colors.php)
   * [PHP Library for parsing, formatting, storing and validating international phone numbers.](https://github.com/giggsey/libphonenumber-for-php)
+  * [PHP Package for dealing with queues and background job processing](https://github.com/bernardphp/bernard)
   * [Better Markdown Parser in PHP](https://github.com/erusev/parsedown)
   * [Laravel 5 helper function for Non-Laravel Applications](https://github.com/rappasoft/laravel-helpers)
   * [PHP Database Migrations for Everyone](https://github.com/robmorgan/phinx)
