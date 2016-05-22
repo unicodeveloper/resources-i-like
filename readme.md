@@ -71,10 +71,6 @@
   * [Single Piece Of Javascript on Hacker News](http://blog.watchandcode.com/2016/03/17/the-single-piece-of-javascript-on-hacker-news/?utm_content=buffer89633&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
   * [Simplified JS Jargon](http://jargon.js.org/)
   * [Prototypal Inheritance Explained](https://medium.com/@kevincennis/prototypal-inheritance-781bccc97edb#.4c6jk1wm3)
- 
-#### Javascript Libraries I have Found Useful for Saas Apps
- * [Fine Uploader](https://github.com/FineUploader/fine-uploader)
- 
 
 ### AngularJS
   * [egghead.io](https://egghead.io/technologies/angularjs)
@@ -164,6 +160,7 @@
   * [How to add tagging to your Laravel App](https://laravel-news.com/2015/10/how-to-add-tagging-to-your-laravel-app/)
   * [The Magic behind Laravel Valet](http://themsaid.github.io/magic-behind-laravel-valet-20160506/)
   * [Introduction to Laravel Valet](https://dotdev.co/laravel-valet-ab9e745dd6f0#.a8zku1fmm)
+  * [Writing Advanced Eloquent Search Query Filters](https://dotdev.co/writing-advanced-eloquent-search-query-filters-de8b6c2598db#.jvxqc6hn5)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
