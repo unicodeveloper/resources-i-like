@@ -76,6 +76,7 @@
   * [egghead.io](https://egghead.io/technologies/angularjs)
   * [A guide to transclusion in AngularJS](http://teropa.info/blog/2015/06/09/transclusion.html)
   * [Build Your Own Simplified AngularJS in 200 lines of Code](http://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/)
+  * [Build a real time scheduling app using angularjs and firebase](https://scotch.io/tutorials/build-a-real-time-scheduling-app-using-angularjs-and-firebase)
 
 #### AngularJS Directives I have Found Useful for Quick Saas Apps
 
