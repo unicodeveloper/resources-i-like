@@ -164,6 +164,7 @@
   * [The Magic behind Laravel Valet](http://themsaid.github.io/magic-behind-laravel-valet-20160506/)
   * [Introduction to Laravel Valet](https://dotdev.co/laravel-valet-ab9e745dd6f0#.a8zku1fmm)
   * [Writing Advanced Eloquent Search Query Filters](https://dotdev.co/writing-advanced-eloquent-search-query-filters-de8b6c2598db#.jvxqc6hn5)
+  * [Sharing data between views using Laravel view composers](https://scotch.io/tutorials/sharing-data-between-views-using-laravel-view-composers?utm_campaign=Laravel%20News&utm_medium=email&utm_source=ln105)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
