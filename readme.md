@@ -131,6 +131,7 @@
 
 ### Specific Resource
   * [Get going with Laravel on Docker](http://pathfinder.space/get-going-with-laravel-on-docker/)
+  * [Adding custom profile fields to Laravel Spark](https://spark.laravel.com/docs/1.0/adding-profile-fields?utm_campaign=Laravel%20News&utm_medium=email&utm_source=ln105)
   * [Generate Fake Localized Data with Laravel](https://medium.com/laravel-news/fake-localized-data-and-laravel-c4cdbecb2c31#.4x9hmvva9)
   * [Solving the search problem with laravel and tntsearch](https://medium.com/@tntstudiohr/solving-the-search-problem-with-laravel-and-tntsearch-dfa16aa9173b#.g8ciu3qvt)
   * [Building Real-time Laravel Apps with Pusher](https://pusher-community.github.io/real-time-laravel/index.html)
