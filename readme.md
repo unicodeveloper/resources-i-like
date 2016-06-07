@@ -198,6 +198,7 @@
   * [Successful Developer Career Strategies](http://www.outlierdeveloper.com/qa-successful-developer-career-strategies/)
   * [Advice for Aspiring Programmers](https://abdulapopoola.com/2016/05/02/advice-for-aspiring-programmers/?blogsub=confirming#blog_subscription-4)
   * [Software Developer Resume Anti Patterns](https://medium.com/@mhriess/software-developer-resume-anti-patterns-4e906f2314cd#.17hihnysz)
+  * [What are the things required to become a hardcore programmer?](https://www.quora.com/What-are-the-things-required-to-become-a-hardcore-programmer)
 
 ## Database
 
