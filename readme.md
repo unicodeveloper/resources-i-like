@@ -82,6 +82,12 @@
 
   * [Autocomplete and Mention Directive - mentio ](http://jeff-collins.github.io/ment.io/#/)
 
+### ReactJS
+
+
+#### Specific Resource
+ * [9 things every ReactJS beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know) 
+
 ### JQuery
 
   * [datatables.net](http://datatables.net/)
