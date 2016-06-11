@@ -20,6 +20,7 @@
 - [Design Patterns](#design-patterns)
 - [Better Programming, Better development teams, Better Product](#better-programming-better-development-teams-better-product)
 - [Nice & Terrific Hacks](#nice-terrific-hacks)
+- [Community Building](#community-building)
 
 
 
@@ -278,6 +279,9 @@
 
 ## Nice & Terrific Hacks
 * [Slack Quick Switcher Hack](https://gist.github.com/benvan/9111039)
+
+## Community Building
+* [Your Blog is the engine of Community](https://medium.com/@shanselman/your-blog-is-the-engine-of-community-cfbb21a5ae80#.tetie83sw)
 
 ## How can I thank you?
 
