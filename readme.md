@@ -122,6 +122,7 @@
   * [Laravel Friendships](https://github.com/hootlex/laravel-friendships)
   * [Laravel Moderation](https://github.com/hootlex/laravel-moderation)
   * [Laravel ecommerce](https://github.com/aimeos/aimeos-laravel)
+  * [Entrust - A succinct and flexible way to add Role-based Permissions to Laravel 5.](https://github.com/Zizaco/entrust)
   * [Laravel Phone - Phone number validation Package for Laravel 4 and 5](https://github.com/Propaganistas/Laravel-Phone)
   * [Elasticquent - Makes working with ElasticSearch and Eloquent Models easy](https://github.com/elasticquent/Elasticquent)
   * [ElasticCat - Map Elastic Search Results to Eloquent Models](https://github.com/argb/elastic-cat)
