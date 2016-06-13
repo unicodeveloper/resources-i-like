@@ -176,6 +176,7 @@
   * [A Package to manage events on google calendar](https://murze.be/2016/05/package-manage-events-google-calendar/)
   * [Why you shouldn't set global variables in base controller](http://laraveldaily.com/global-variables-in-base-controller/)
   * [Avoiding the burden of file uploads](https://cwhite.me/avoiding-the-burden-of-file-uploads/)
+  * [Simple Vue.js pagination with Laravel](https://dotdev.co/simple-vue-js-pagination-with-laravel-33b7cfbb5ccc#.azss64yo3)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
