@@ -175,6 +175,7 @@
   * [Sharing data between views using Laravel view composers](https://scotch.io/tutorials/sharing-data-between-views-using-laravel-view-composers?utm_campaign=Laravel%20News&utm_medium=email&utm_source=ln105)
   * [A Package to manage events on google calendar](https://murze.be/2016/05/package-manage-events-google-calendar/)
   * [Why you shouldn't set global variables in base controller](http://laraveldaily.com/global-variables-in-base-controller/)
+  * [Avoiding the burden of file uploads](https://cwhite.me/avoiding-the-burden-of-file-uploads/)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
