@@ -23,7 +23,6 @@
 - [Community Building](#community-building)
 
 
-
 ## PHP
   * [PHP The Right Way](http://www.phptherightway.com)
   * [PHP Dependency Injection](http://php-di.org)
