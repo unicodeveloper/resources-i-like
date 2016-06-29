@@ -77,6 +77,7 @@
   * [A guide to transclusion in AngularJS](http://teropa.info/blog/2015/06/09/transclusion.html)
   * [Build Your Own Simplified AngularJS in 200 lines of Code](http://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/)
   * [Build a real time scheduling app using angularjs and firebase](https://scotch.io/tutorials/build-a-real-time-scheduling-app-using-angularjs-and-firebase)
+  * [Properly set environment variables for Angular apps with Gulp ng config](https://scotch.io/tutorials/properly-set-environment-variables-for-angular-apps-with-gulp-ng-config)
 
 #### AngularJS Directives I have Found Useful for Quick Saas Apps
 
