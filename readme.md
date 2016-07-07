@@ -136,6 +136,7 @@
   * [Unique Obsfucated IDs for your Laravel Applications](https://github.com/vinkla/hashids)
   * [A collection of providers for Laravel Socialite](http://socialiteproviders.github.io/)
   * [Cache your Entire Response to Speed Up your Laravel App](https://github.com/spatie/laravel-responsecache)
+  * [Introducing Laravel Passwore v1.0](http://goodheads.io/2016/07/03/introducing-laravel-password-v1-0/)
 
 ### Specific Resource
   * [Get going with Laravel on Docker](http://pathfinder.space/get-going-with-laravel-on-docker/)
