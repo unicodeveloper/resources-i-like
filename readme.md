@@ -9,6 +9,7 @@
 - [Javascript](#javascript)
 - [Laravel](#laravel)
 - [Ionic](#ionic)
+- [Firebase](#firebase)
 - [Successful Developer Strategies](#successful-developer-strategies)
 - [Database](#database)
 - [Scrum](#scrum-development-workflow)
@@ -204,6 +205,11 @@
   * [How to handle User Authentication With AngularJs in your Ionic App](http://devdactic.com/user-auth-angularjs-ionic/)
   * [Ultimate angularjs and Ionic Performance Cheat Sheet](http://julienrenaux.fr/2015/08/24/ultimate-angularjs-and-ionic-performance-cheat-sheet/)
   * [Awesome Ionic](https://github.com/Alexintosh/Awesome-Ionic)
+  
+## Firebase
+
+### Specific Resource
+ * [Getting Started with File Storage with Firebase](https://www.youtube.com/watch?v=SpxHVrpfGgU)
 
 ## Successful Developer Strategies
   * [Successful Developer Career Strategies](http://www.outlierdeveloper.com/qa-successful-developer-career-strategies/)
