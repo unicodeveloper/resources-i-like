@@ -180,6 +180,7 @@
   * [Avoiding the burden of file uploads](https://cwhite.me/avoiding-the-burden-of-file-uploads/)
   * [Simple Vue.js pagination with Laravel](https://dotdev.co/simple-vue-js-pagination-with-laravel-33b7cfbb5ccc#.azss64yo3)
   * [Authentication Improvements in Laravel 5.3](https://josephsilber.com/posts/2016/07/10/authentication-improvements-in-laravel-5-3)
+  * [Laravel/MySQL JSON documents faster lookup using generated columns](http://themsaid.com/laravel-mysql-json-colum-fast-lookup-20160709/)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
