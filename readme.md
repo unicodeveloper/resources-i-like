@@ -190,6 +190,7 @@
   * [Laravel/MySQL JSON documents faster lookup using generated columns](http://themsaid.com/laravel-mysql-json-colum-fast-lookup-20160709/)
   * [Implementing smart search with Laravel and typeaheadjs](https://scotch.io/tutorials/implementing-smart-search-with-laravel-and-typeahead-js)
   * [Setting up multi-auth in Laravel 5.2](https://metricloop.com/blog/setting-up-multi-auth-in-laravel-52)
+  * [Deep Dive into Laravel Echo](https://mattstauffer.co/blog/introducing-laravel-echo)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
