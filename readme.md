@@ -193,6 +193,7 @@
   * [Implementing smart search with Laravel and typeaheadjs](https://scotch.io/tutorials/implementing-smart-search-with-laravel-and-typeahead-js)
   * [Setting up multi-auth in Laravel 5.2](https://metricloop.com/blog/setting-up-multi-auth-in-laravel-52)
   * [Deep Dive into Laravel Echo](https://mattstauffer.co/blog/introducing-laravel-echo)
+  * [5.3 feature announcements from Laracon](https://mattstauffer.co/blog/5-3-feature-announcement-notes-from-laracon)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
