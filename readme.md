@@ -80,6 +80,7 @@
   * [Build Your Own Simplified AngularJS in 200 lines of Code](http://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/)
   * [Build a real time scheduling app using angularjs and firebase](https://scotch.io/tutorials/build-a-real-time-scheduling-app-using-angularjs-and-firebase)
   * [Properly set environment variables for Angular apps with Gulp ng config](https://scotch.io/tutorials/properly-set-environment-variables-for-angular-apps-with-gulp-ng-config)
+  * [Creating you first real world angular 2 app from authentication to..](https://auth0.com/blog/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/)
 
 #### AngularJS Directives I have Found Useful for Quick Saas Apps
 
