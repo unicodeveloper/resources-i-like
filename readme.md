@@ -196,6 +196,7 @@
   * [Setting up multi-auth in Laravel 5.2](https://metricloop.com/blog/setting-up-multi-auth-in-laravel-52)
   * [Deep Dive into Laravel Echo](https://mattstauffer.co/blog/introducing-laravel-echo)
   * [5.3 feature announcements from Laracon](https://mattstauffer.co/blog/5-3-feature-announcement-notes-from-laracon)
+  * [Creating your first Laravel app and adding authentication](https://auth0.com/blog/creating-your-first-laravel-app-and-adding-authentication/)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
