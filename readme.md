@@ -123,6 +123,7 @@
 
 ## Scrum / Development Workflow
  * [Level up your development workflow with Github and Pivotal Tracker](http://blog.pivotal.io/labs/labs/level-up-your-development-workflow-with-github-pivotal-tracker)
+ * [Building your own Development Environment](https://www.smashingmagazine.com/2015/07/development-to-deployment-workflow/)
 
 ### Specific Resource
  * [The basics of Scrum](http://www.scruminc.com/wp-content/uploads/2014/06/The-Basics-of-Scrum.pdf)
