@@ -197,6 +197,7 @@
   * [Deep Dive into Laravel Echo](https://mattstauffer.co/blog/introducing-laravel-echo)
   * [5.3 feature announcements from Laracon](https://mattstauffer.co/blog/5-3-feature-announcement-notes-from-laracon)
   * [Creating your first Laravel app and adding authentication](https://auth0.com/blog/creating-your-first-laravel-app-and-adding-authentication/)
+  * [Building a single page app from scratch with vuejs and Laravel](http://taha-sh.com/blog/building-a-single-page-application-from-scratch-with-vuejs-and-laravel)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
