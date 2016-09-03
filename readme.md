@@ -94,6 +94,7 @@
   * [Creating a simple shopping cart with ReactJS and Flux](https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux)
   * [Build a real time twitter stream with node and reactjs](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
   * [Bootstrapping a React Project](https://auth0.com/blog/bootstrapping-a-react-project/)
+  * [ReactJs Components: Learning the basics](https://scotch.io/tutorials/reactjs-components-learning-the-basics)
 
 
 
