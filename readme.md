@@ -83,6 +83,7 @@
   * [Creating you first real world angular 2 app from authentication to..](https://auth0.com/blog/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/)
   * [Learn the ins and outs of form validation with Angular 2](https://scotch.io/tutorials/angular-2-form-validation)
   * [Use @NgModule to Manage Dependencies in your Angular 2 Apps](https://auth0.com/blog/angular-2-ngmodules/)
+  * [Understanding Angular 2 Change Detection](https://auth0.com/blog/understanding-angular-2-change-detection/)
 
 #### AngularJS Directives I have Found Useful for Quick Saas Apps
 
