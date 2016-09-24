@@ -204,6 +204,7 @@
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
+  * [Build Search Functionality with Laravel Scout & VueJs](https://scotch.io/tutorials/build-search-functionality-with-laravel-scout-and-vue-js)
 
 
 ## Ionic
