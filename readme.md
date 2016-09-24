@@ -88,6 +88,7 @@
 
 ### ReactJS
   * [reactforbeginners.com](https://reactforbeginners.com)
+  * [learnredux.com](http://learnredux.com/)
   
 ### Specific Resources for ReactJS
   * [ReactJS Introduction for people who know just enough JQuery to get by](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
