@@ -304,6 +304,7 @@
  * [Up for Grabs : Open Source Projects that require contribution](http://up-for-grabs.net/#/)
  * [How to be an Open Source Gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)
  * [How talks affect an Open Source Project](https://medium.com/developer-relations/how-talks-affect-an-open-source-project-e4dd1db81a6d#.hoitc2f7d)
+ * [Contributing to your first open source project: A Practical approach](https://medium.com/@AceKYD/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae#.voh2zlj0o)
 
 ## Regex
  * [Regex One](http://regexone.com/)
