@@ -236,6 +236,7 @@
 ### Specific Resource
  * [Getting Started with File Storage with Firebase](https://www.youtube.com/watch?v=SpxHVrpfGgU)
  * [Firebase: Building a realtime App](https://www.airpair.com/firebase/posts/firebase-building-realtime-app)
+ * []()
 
 ## Successful Developer Strategies
   * [Successful Developer Career Strategies](http://www.outlierdeveloper.com/qa-successful-developer-career-strategies/)
@@ -243,6 +244,7 @@
   * [Software Developer Resume Anti Patterns](https://medium.com/@mhriess/software-developer-resume-anti-patterns-4e906f2314cd#.17hihnysz)
   * [What are the things required to become a hardcore programmer?](https://www.quora.com/What-are-the-things-required-to-become-a-hardcore-programmer)
   * [Finding time to become a better developer](https://medium.freecodecamp.com/finding-time-to-become-a-better-developer-eebc154881b2#.mjn6rpelt)
+  * [One way to greatness: Pick Yourself](https://medium.freecodecamp.com/one-way-to-greatness-pick-yourself-31945487731b)
 
 ## Database
 
