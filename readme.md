@@ -99,6 +99,7 @@
   * [Build a real time twitter stream with node and reactjs](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
   * [Bootstrapping a React Project](https://auth0.com/blog/bootstrapping-a-react-project/)
   * [ReactJs Components: Learning the basics](https://scotch.io/tutorials/reactjs-components-learning-the-basics)
+  * [ReactJS for Stupid People](blog.andrewray.me/reactjs-for-stupid-people/)
 
 
 
