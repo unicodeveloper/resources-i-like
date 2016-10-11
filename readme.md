@@ -206,6 +206,7 @@
   * [Creating your first Laravel app and adding authentication](https://auth0.com/blog/creating-your-first-laravel-app-and-adding-authentication/)
   * [Building a single page app from scratch with vuejs and Laravel](http://taha-sh.com/blog/building-a-single-page-application-from-scratch-with-vuejs-and-laravel)
   * [Tracking if a user is online in Laravel](https://erikbelusic.com/tracking-if-a-user-is-online-in-laravel/)
+  * [Understanding the Laravel service Container](https://dotdev.co/understanding-laravel-service-container-bd488ca05280#.j8m80swcl)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
