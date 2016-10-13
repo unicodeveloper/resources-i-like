@@ -220,7 +220,7 @@
 
 ## Ionic
   * [raymondcamden.com](http://www.raymondcamden.com/)
-  * [mcgivery.com/](http://mcgivery.com/)
+  * [mcgivery.com](http://mcgivery.com/)
   * [joshmorony.com](http://www.joshmorony.com/category/ionic-tutorials/)
   * [gajotres.net](http://www.gajotres.net/)
   * [devdactic.com](https://devdactic.com/)
@@ -342,6 +342,7 @@
 
 ## Progressive Web Apps
 * [Progressive Web apps with React - Part 1](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12#.92byl0ok8)
+* [Progressive Web apps with React - Part 2](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-2-page-load-performance-33b932d97cf2#.xalsng8kr)
 
 ## How can I thank you?
 
