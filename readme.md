@@ -81,14 +81,18 @@
   * [Build Your Own Simplified AngularJS in 200 lines of Code](http://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/)
   * [Build a real time scheduling app using angularjs and firebase](https://scotch.io/tutorials/build-a-real-time-scheduling-app-using-angularjs-and-firebase)
   * [Properly set environment variables for Angular apps with Gulp ng config](https://scotch.io/tutorials/properly-set-environment-variables-for-angular-apps-with-gulp-ng-config)
-  * [Creating you first real world angular 2 app from authentication to..](https://auth0.com/blog/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/)
-  * [Learn the ins and outs of form validation with Angular 2](https://scotch.io/tutorials/angular-2-form-validation)
-  * [Use @NgModule to Manage Dependencies in your Angular 2 Apps](https://auth0.com/blog/angular-2-ngmodules/)
-  * [Understanding Angular 2 Change Detection](https://auth0.com/blog/understanding-angular-2-change-detection/)
+
 
 #### AngularJS Directives I have Found Useful for Quick Saas Apps
 
   * [Autocomplete and Mention Directive - mentio ](http://jeff-collins.github.io/ment.io/#/)
+  
+### Angular 2
+  * [builtwithangular2.com](http://builtwithangular2.com/)
+  * [Creating you first real world angular 2 app from authentication to..](https://auth0.com/blog/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/)
+  * [Learn the ins and outs of form validation with Angular 2](https://scotch.io/tutorials/angular-2-form-validation)
+  * [Use @NgModule to Manage Dependencies in your Angular 2 Apps](https://auth0.com/blog/angular-2-ngmodules/)
+  * [Understanding Angular 2 Change Detection](https://auth0.com/blog/understanding-angular-2-change-detection/)
 
 ### ReactJS
   * [reactforbeginners.com](https://reactforbeginners.com)
