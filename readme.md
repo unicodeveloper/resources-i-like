@@ -23,6 +23,7 @@
 - [Nice & Terrific Hacks](#nice-terrific-hacks)
 - [Community Building](#community-building)
 - [Interview Preparation for Developers](#interview-preparation-for-developers)
+- [Progressive Web Apps](#progressive-web-apps)
 
 
 ## PHP
@@ -338,6 +339,9 @@
 
 ## Interview Preparation for Developers
 * [Google Interview University](https://github.com/jwasham/google-interview-university)
+
+## Progressive Web Apps
+* [Progressive Web apps with React - Part 1](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12#.92byl0ok8)
 
 ## How can I thank you?
 
