@@ -343,6 +343,7 @@
 ## Progressive Web Apps
 * [Progressive Web apps with React - Part 1](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12#.92byl0ok8)
 * [Progressive Web apps with React - Part 2](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-2-page-load-performance-33b932d97cf2#.xalsng8kr)
+* [Progressive Web apps with React - Part 3](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-3-offline-support-and-network-resilience-c84db889162c#.hhs60ouei)
 
 ## How can I thank you?
 
