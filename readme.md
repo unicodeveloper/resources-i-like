@@ -95,6 +95,7 @@
   * [Learn the ins and outs of form validation with Angular 2](https://scotch.io/tutorials/angular-2-form-validation)
   * [Use @NgModule to Manage Dependencies in your Angular 2 Apps](https://auth0.com/blog/angular-2-ngmodules/)
   * [Understanding Angular 2 Change Detection](https://auth0.com/blog/understanding-angular-2-change-detection/)
+  * [30 Learning resources for mastering Angular 2](http://tutorialzine.com/2016/09/30-learning-resources-for-mastering-angular-2/)
 
 ### ReactJS
   * [reactforbeginners.com](https://reactforbeginners.com)
