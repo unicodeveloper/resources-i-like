@@ -347,6 +347,7 @@
 * [Progressive Web apps with React - Part 2](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-2-page-load-performance-33b932d97cf2#.xalsng8kr)
 * [Progressive Web apps with React - Part 3](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-3-offline-support-and-network-resilience-c84db889162c#.hhs60ouei)
 * [Progressive Web apps with React - Part 4](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-4-site-is-progressively-enhanced-b5ad7cf7a447#.9yg9btmnn)
+* [How to set up a basic Service Worker(With Caching) ](https://www.youtube.com/watch?v=BfL3pprhnms)
 
 ## How can I thank you?
 
