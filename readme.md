@@ -348,6 +348,7 @@
 * [Progressive Web apps with React - Part 3](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-3-offline-support-and-network-resilience-c84db889162c#.hhs60ouei)
 * [Progressive Web apps with React - Part 4](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-4-site-is-progressively-enhanced-b5ad7cf7a447#.9yg9btmnn)
 * [How to set up a basic Service Worker(With Caching) ](https://www.youtube.com/watch?v=BfL3pprhnms)
+* [Offline first with Service Worker - Part 1](https://bitsofco.de/bitsofcode-pwa-part-1-offline-first-with-service-worker/)
 
 ## How can I thank you?
 
