@@ -108,7 +108,7 @@
   * [Bootstrapping a React Project](https://auth0.com/blog/bootstrapping-a-react-project/)
   * [ReactJs Components: Learning the basics](https://scotch.io/tutorials/reactjs-components-learning-the-basics)
   * [ReactJS for Stupid People](blog.andrewray.me/reactjs-for-stupid-people/)
-
+  * [React Daily UI - Sign Up Form](https://www.fullstackreact.com/react-daily-ui/001-sign-up-form/)
 
 
 #### Specific Resource
