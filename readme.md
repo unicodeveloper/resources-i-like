@@ -110,6 +110,7 @@
   * [ReactJS for Stupid People](blog.andrewray.me/reactjs-for-stupid-people/)
   * [React Daily UI - Sign Up Form](https://www.fullstackreact.com/react-daily-ui/001-sign-up-form/)
   * [React Daily UI - Checkout ](https://www.fullstackreact.com/react-daily-ui/002-checkout/)
+  * [React Daily UI - Landing Page](https://www.fullstackreact.com/react-daily-ui/003-landing-page/)
 
 
 #### Specific Resource
