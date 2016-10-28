@@ -165,6 +165,7 @@
   * [A collection of providers for Laravel Socialite](http://socialiteproviders.github.io/)
   * [Cache your Entire Response to Speed Up your Laravel App](https://github.com/spatie/laravel-responsecache)
   * [Introducing Laravel Password v1.0](http://goodheads.io/2016/07/03/introducing-laravel-password-v1-0/)
+  * [Multi-library Chart Package to create interactive charts using Laravel](https://github.com/ConsoleTVs/Charts)
 
 ### Specific Resource
   * [Get going with Laravel on Docker](http://pathfinder.space/get-going-with-laravel-on-docker/)
