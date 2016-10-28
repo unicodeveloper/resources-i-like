@@ -219,6 +219,7 @@
   * [Scaling Laravel using AWS Elastic Beanstalk Part 1: Setting up Laravel](https://deliciousbrains.com/scaling-laravel-aws-elastic-beanstalk-part-1-setting-up-laravel/)
   * [Parsing Yaml Files in Laravel 5](https://medium.com/@calina_t/parsing-yaml-files-in-laravel-5-bca2ead5242e#.qxqvmroyf)
   * [How to: Soft Deleting and Restoring in Laravel](https://metricloop.com/blog/how-to-soft-deleting-and-restoring-in-laravel)
+  * [Crud Operations using Jquery, Ajax Laravel 5.3](http://way2php.com/crud-operations-using-jquery-ajax-laravel-5-3/)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
