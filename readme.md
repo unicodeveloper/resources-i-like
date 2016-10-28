@@ -217,6 +217,7 @@
   * [Tracking if a user is online in Laravel](https://erikbelusic.com/tracking-if-a-user-is-online-in-laravel/)
   * [Understanding the Laravel service Container](https://dotdev.co/understanding-laravel-service-container-bd488ca05280#.j8m80swcl)
   * [Scaling Laravel using AWS Elastic Beanstalk Part 1: Setting up Laravel](https://deliciousbrains.com/scaling-laravel-aws-elastic-beanstalk-part-1-setting-up-laravel/)
+  * [Parsing Yaml Files in Laravel 5](https://medium.com/@calina_t/parsing-yaml-files-in-laravel-5-bca2ead5242e#.qxqvmroyf)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
