@@ -358,6 +358,7 @@
 * [How to set up a basic Service Worker(With Caching) ](https://www.youtube.com/watch?v=BfL3pprhnms)
 * [Offline first with Service Worker - Part 1](https://bitsofco.de/bitsofcode-pwa-part-1-offline-first-with-service-worker/)
 * [Instant Loading with IndexedDB -  Part 2](https://bitsofco.de/bitsofcode-pwa-part-2-instant-loading-with-indexeddb/)
+* [Push Notifications on the Web - Part 3](https://bitsofco.de/bitsofcode-pwa-part-3-push-notifications/)
 
 ## How can I thank you?
 
