@@ -76,6 +76,7 @@
   * [Prototypal Inheritance Explained](https://medium.com/@kevincennis/prototypal-inheritance-781bccc97edb#.4c6jk1wm3)
   * [How to develop a package for Github's Atom Code Editor](https://www.sitepoint.com/how-to-write-a-syntax-highlighting-package-for-atom/)
   * [10 Things I learned from the JQuery Source](https://www.youtube.com/watch?v=i_qE1iAmjFg)
+  * [Universal JavaScript](https://medium.com/@mjackson/universal-javascript-4761051b7ae9#.m7pm3ma24)
 
 ### AngularJS
   * [egghead.io](https://egghead.io/technologies/angularjs)
