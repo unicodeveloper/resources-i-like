@@ -72,6 +72,7 @@
 ## Javascript
   * [watchmecode.net](https://sub.watchmecode.net/)
   * [Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links)
+  * [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
   * [Single Piece Of Javascript on Hacker News](http://blog.watchandcode.com/2016/03/17/the-single-piece-of-javascript-on-hacker-news/?utm_content=buffer89633&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
   * [Simplified JS Jargon](http://jargon.js.org/)
   * [Prototypal Inheritance Explained](https://medium.com/@kevincennis/prototypal-inheritance-781bccc97edb#.4c6jk1wm3)
