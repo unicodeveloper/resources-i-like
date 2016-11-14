@@ -224,6 +224,7 @@
   * [How to: Soft Deleting and Restoring in Laravel](https://metricloop.com/blog/how-to-soft-deleting-and-restoring-in-laravel)
   * [Crud Operations using Jquery, Ajax Laravel 5.3](http://way2php.com/crud-operations-using-jquery-ajax-laravel-5-3/)
   * [Throttle Password Reset](https://alfrednutile.info/posts/194)
+  * [Higher Order Messaging Implementation feature](https://laravel-news.com/2016/11/higher-order-messaging/)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
