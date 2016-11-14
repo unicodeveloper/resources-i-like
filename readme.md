@@ -312,6 +312,7 @@
 * [Visual way to learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 * [Getting Solid at git rebase and merge](https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa)
 * [Merge or Rebase - SourceTree](https://blog.sourcetreeapp.com/2012/08/21/merge-or-rebase/)
+* [Git Subsplit - Splitting out a directory to its own Git Repository](https://dotdev.co/splitting-out-a-directory-to-its-own-git-repository-3e5dc410871b#.f34ik4d64)
 
 ## DevOps
 
