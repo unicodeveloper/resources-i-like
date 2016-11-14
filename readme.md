@@ -80,6 +80,7 @@
   * [10 Things I learned from the JQuery Source](https://www.youtube.com/watch?v=i_qE1iAmjFg)
   * [Universal JavaScript](https://medium.com/@mjackson/universal-javascript-4761051b7ae9#.m7pm3ma24)
   * [A Study Plan To Cure JavaScript](https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1#.so3c4gmq4)
+  * [Modular JavaScript - Practical ES6](https://github.com/mjavascript/practical-es6)
 
 ### AngularJS
   * [egghead.io](https://egghead.io/technologies/angularjs)
