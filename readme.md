@@ -262,7 +262,7 @@
 ### Specific Resource
  * [Getting Started with File Storage with Firebase](https://www.youtube.com/watch?v=SpxHVrpfGgU)
  * [Firebase: Building a realtime App](https://www.airpair.com/firebase/posts/firebase-building-realtime-app)
- * []()
+ * [Firebase Database for SQL Developers Series](https://www.youtube.com/watch?v=SfenWGeHarE)
 
 ## Successful Developer Strategies
   * [Successful Developer Career Strategies](http://www.outlierdeveloper.com/qa-successful-developer-career-strategies/)
