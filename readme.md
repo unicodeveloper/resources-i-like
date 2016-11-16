@@ -228,6 +228,7 @@
   * [Crud Operations using Jquery, Ajax Laravel 5.3](http://way2php.com/crud-operations-using-jquery-ajax-laravel-5-3/)
   * [Throttle Password Reset](https://alfrednutile.info/posts/194)
   * [Higher Order Messaging Implementation feature](https://laravel-news.com/2016/11/higher-order-messaging/)
+  * [Laravel Spark Tests Code - All Spark Integration Tests](https://github.com/laravel/spark-tests/tree/3.0/tests)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
