@@ -233,6 +233,7 @@
   * [Higher Order Messaging Implementation feature](https://laravel-news.com/2016/11/higher-order-messaging/)
   * [Laravel Spark Tests Code - All Spark Integration Tests](https://github.com/laravel/spark-tests/tree/3.0/tests)
   * [2FA in Laravel with Google Authenticator](https://www.sitepoint.com/2fa-in-laravel-with-google-authenticator-get-secure/)
+  * [Multi-tenant Saas API using Laravel - Setting Up](http://ralphowino.com/blog/multi-tenant-saas-api-using-laravel-setting-up/)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
