@@ -81,6 +81,7 @@
   * [Universal JavaScript](https://medium.com/@mjackson/universal-javascript-4761051b7ae9#.m7pm3ma24)
   * [A Study Plan To Cure JavaScript](https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1#.so3c4gmq4)
   * [Modular JavaScript - Practical ES6](https://github.com/mjavascript/practical-es6)
+  * [Webpack - The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.hi0vtrl30)
 
 ### AngularJS
   * [egghead.io](https://egghead.io/technologies/angularjs)
