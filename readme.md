@@ -82,6 +82,7 @@
   * [A Study Plan To Cure JavaScript](https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1#.so3c4gmq4)
   * [Modular JavaScript - Practical ES6](https://github.com/mjavascript/practical-es6)
   * [Webpack - The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.hi0vtrl30)
+  * [Building and Authenticating a NodeJS app](https://auth0.com/blog/building-and-authenticating-nodejs-apps/)
 
 ### AngularJS
   * [egghead.io](https://egghead.io/technologies/angularjs)
