@@ -241,6 +241,7 @@
   * [Multi-tenant Saas API using Laravel - Setting Up](http://ralphowino.com/blog/multi-tenant-saas-api-using-laravel-setting-up/)
   * [Getting Started with Pusher and Laravel Echo](https://www.youtube.com/watch?v=Qoti7G-tjN8&feature=youtu.be)
   * [10 days of Laravel 5 - Building a Laravel Survey App](https://blog.khophi.co/10-days-laravel-5-laravel-survey-app/)
+  * [Laravel and AWS](https://vimeo.com/190974122)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
