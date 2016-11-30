@@ -178,6 +178,7 @@
   * [Multi-library Chart Package to create interactive charts using Laravel](https://github.com/ConsoleTVs/Charts)
   * [A Sequel Pro bundle to generate Laravel migration files from existing tables.](https://github.com/cviebrock/sequel-pro-laravel-export)
   * [Laravel Followers](https://github.com/skybluesofa/laravel-followers)
+  * [Laravel Queue Clear](https://github.com/morrislaptop/laravel-queue-clear)
 
 ### Specific Resource
   * [Get going with Laravel on Docker](http://pathfinder.space/get-going-with-laravel-on-docker/)
