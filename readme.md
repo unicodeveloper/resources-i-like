@@ -242,6 +242,7 @@
   * [Getting Started with Pusher and Laravel Echo](https://www.youtube.com/watch?v=Qoti7G-tjN8&feature=youtu.be)
   * [10 days of Laravel 5 - Building a Laravel Survey App](https://blog.khophi.co/10-days-laravel-5-laravel-survey-app/)
   * [Laravel and AWS](https://vimeo.com/190974122)
+  * [Laravel 5 Instagram API tutorial](http://itsolutionstuff.com/post/laravel-5-instagram-api-tutorial-with-exampleexample.html)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
