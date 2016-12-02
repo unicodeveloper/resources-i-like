@@ -122,10 +122,7 @@
   * [React Daily UI - Checkout ](https://www.fullstackreact.com/react-daily-ui/002-checkout/)
   * [React Daily UI - Landing Page](https://www.fullstackreact.com/react-daily-ui/003-landing-page/)
   * [A practical guide to Redux](http://lorenstewart.me/2016/11/27/a-practical-guide-to-redux/)
-
-
-#### Specific Resource
- * [9 things every ReactJS beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know) 
+  * [9 things every ReactJS beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know) 
 
 ### JQuery
 
