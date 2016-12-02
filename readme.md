@@ -121,6 +121,7 @@
   * [React Daily UI - Sign Up Form](https://www.fullstackreact.com/react-daily-ui/001-sign-up-form/)
   * [React Daily UI - Checkout ](https://www.fullstackreact.com/react-daily-ui/002-checkout/)
   * [React Daily UI - Landing Page](https://www.fullstackreact.com/react-daily-ui/003-landing-page/)
+  * [A practical guide to Redux](http://lorenstewart.me/2016/11/27/a-practical-guide-to-redux/)
 
 
 #### Specific Resource
