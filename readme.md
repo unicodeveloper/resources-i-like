@@ -387,6 +387,7 @@
 
 ## Security
 * [A definitive guide to Form based website authentication](http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication)
+* [Elaborate Security Guide For Developers](https://github.com/FallibleInc/security-guide-for-developers)
 
 ## How can I thank you?
 
