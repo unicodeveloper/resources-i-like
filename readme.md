@@ -24,6 +24,7 @@
 - [Community Building](#community-building)
 - [Interview Preparation for Developers](#interview-preparation-for-developers)
 - [Progressive Web Apps](#progressive-web-apps)
+- [Security](#security)
 
 
 ## PHP
@@ -383,6 +384,9 @@
 * [Offline first with Service Worker - Part 1](https://bitsofco.de/bitsofcode-pwa-part-1-offline-first-with-service-worker/)
 * [Instant Loading with IndexedDB -  Part 2](https://bitsofco.de/bitsofcode-pwa-part-2-instant-loading-with-indexeddb/)
 * [Push Notifications on the Web - Part 3](https://bitsofco.de/bitsofcode-pwa-part-3-push-notifications/)
+
+## Security
+* [A definitive guide to Form based website authentication](http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication)
 
 ## How can I thank you?
 
