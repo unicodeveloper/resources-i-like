@@ -24,8 +24,8 @@
 - [Nice & Terrific Hacks](#nice-terrific-hacks)
 - [Community Building](#community-building)
 - [Interview Preparation for Developers](#interview-preparation-for-developers)
-- [Progressive Web Apps](#progressive-web-apps)
 - [Security](#security)
+- [Progressive Web Apps](#progressive-web-apps)
 
 
 ## PHP
