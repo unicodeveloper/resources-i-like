@@ -7,6 +7,7 @@
 - [PHP](#php)
 - [PHP Packages for Everyone](#php-packages-for-everyone)
 - [Javascript](#javascript)
+- [RxJS](#rxjs)
 - [Laravel](#laravel)
 - [Ionic](#ionic)
 - [Firebase](#firebase)
@@ -84,6 +85,9 @@
   * [Modular JavaScript - Practical ES6](https://github.com/mjavascript/practical-es6)
   * [Webpack - The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.hi0vtrl30)
   * [Building and Authenticating a NodeJS app](https://auth0.com/blog/building-and-authenticating-nodejs-apps/)
+  
+### RxJS
+  * [https://xgrommx.github.io](https://xgrommx.github.io/rx-book/index.html)
 
 ### AngularJS
   * [egghead.io](https://egghead.io/technologies/angularjs)
