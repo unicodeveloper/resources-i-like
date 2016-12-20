@@ -349,7 +349,6 @@
 
  * [Command line Power User](http://commandlinepoweruser.com/)
  * [Repository of Dotfiles  ](http://dotfiles.github.io/)
- * [Add test command line](http://commandline.com)
 
 ### Specific Resource
  * [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins#frameworks)
