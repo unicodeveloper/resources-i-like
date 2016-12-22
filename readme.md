@@ -251,6 +251,7 @@
   * [Laravel and AWS](https://vimeo.com/190974122)
   * [Laravel 5 Instagram API tutorial](http://itsolutionstuff.com/post/laravel-5-instagram-api-tutorial-with-exampleexample.html)
   * [Testing Laravel Middleware](http://matthewdaly.co.uk/blog/2016/11/29/testing-laravel-middleware/#.WD4IzZqynr4.twitter)
+  * [Overriding Laravels Helper functions](https://murze.be/2016/12/overriding-laravels-helper-functions/)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
