@@ -71,6 +71,7 @@
   * [Formatting Exception Messages](http://rosstuck.com/formatting-exception-messages/)
   * [Scaling Wordpress with HHVM on heroku](https://substrakt.com/scaling-wordpress-with-hhvm-on-heroku/)
   * [A magic memoization function](https://murze.be/2016/11/magic-memoization-function/)
+  * [Building PHP Projects on AWS Codebuild](https://benramsey.com/blog/2016/12/aws-codebuild-php)
 
 ## Javascript
   * [watchmecode.net](https://sub.watchmecode.net/)
