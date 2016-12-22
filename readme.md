@@ -188,6 +188,7 @@
 
 ### Specific Resource
   * [Get going with Laravel on Docker](http://pathfinder.space/get-going-with-laravel-on-docker/)
+  * [Developing Laravel applications with Docker](https://medium.com/@mrfoh/developing-laravel-applications-with-docker-7324c0a0789a#.sqhx2ilx5)
   * [Adding custom profile fields to Laravel Spark](https://spark.laravel.com/docs/1.0/adding-profile-fields?utm_campaign=Laravel%20News&utm_medium=email&utm_source=ln105)
   * [Generate Fake Localized Data with Laravel](https://medium.com/laravel-news/fake-localized-data-and-laravel-c4cdbecb2c31#.4x9hmvva9)
   * [Solving the search problem with laravel and tntsearch](https://medium.com/@tntstudiohr/solving-the-search-problem-with-laravel-and-tntsearch-dfa16aa9173b#.g8ciu3qvt)
