@@ -6,6 +6,7 @@
 
 - [PHP](#php)
 - [PHP Packages for Everyone](#php-packages-for-everyone)
+- [Python]
 - [Javascript](#javascript)
 - [RxJS](#rxjs)
 - [Laravel](#laravel)
@@ -36,6 +37,14 @@
   * [goodheads.io](http://goodheads.io)
   * [phpdeveloper.org](https://phpdeveloper.org)
   * [killerphp.com](http://www.killerphp.com)
+
+## PYTHON
+  * [Full Stack Python](https://www.fullstackpython.com/best-python-resources.html)
+  * [Python for web developers](http://www.mattmakai.com/learning-python-for-non-developers.html)
+  * [Python Podcasts] (https://dbader.org/blog/ultimate-list-of-python-podcasts)
+  * [Full Stack Python (video)](http://pyvideo.org/pycon-us-2014/so-you-want-to-be-a-full-stack-developer-how-to.html)
+  * [
+
 
 ### PHP Packages For Everyone
   * [Crawler Detector - PHP Library that detects over 390 bots/crawlers/spiders](https://github.com/JayBizzle/Crawler-Detect)
@@ -72,6 +81,9 @@
   * [Scaling Wordpress with HHVM on heroku](https://substrakt.com/scaling-wordpress-with-hhvm-on-heroku/)
   * [A magic memoization function](https://murze.be/2016/11/magic-memoization-function/)
   * [Building PHP Projects on AWS Codebuild](https://benramsey.com/blog/2016/12/aws-codebuild-php)
+  * [Code Linting with Python](https://dbader.org/blog/python-code-linting)
+  * [Why python!!](https://iluxonchik.github.io/why-you-should-learn-python/)
+
 
 ## Javascript
   * [watchmecode.net](https://sub.watchmecode.net/)
