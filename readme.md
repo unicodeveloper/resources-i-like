@@ -87,6 +87,7 @@
   * [Modular JavaScript - Practical ES6](https://github.com/mjavascript/practical-es6)
   * [Webpack - The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.hi0vtrl30)
   * [Building and Authenticating a NodeJS app](https://auth0.com/blog/building-and-authenticating-nodejs-apps/)
+  * [Top JavaScript frameworks to learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.t16ln0o9w)
   
 ### RxJS
   * [https://xgrommx.github.io](https://xgrommx.github.io/rx-book/index.html)
