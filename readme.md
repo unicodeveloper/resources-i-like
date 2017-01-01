@@ -6,7 +6,7 @@
 
 - [PHP](#php)
 - [PHP Packages for Everyone](#php-packages-for-everyone)
-- [Python]
+- [Python](#python)
 - [Javascript](#javascript)
 - [RxJS](#rxjs)
 - [Laravel](#laravel)
