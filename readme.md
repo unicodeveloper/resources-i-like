@@ -314,6 +314,7 @@
   
 ## Developer Inspiring Stories 
   * [Sebastian Mckenzie's 2015 In Review](https://medium.com/@sebmck/2015-in-review-51ac7035e272#.f5u4kzhjg)
+  * [John Morony - Developing Authority: Year in Review 2016](http://developingauthority.com/year-in-review-2016/)
 
 ## Database
 
