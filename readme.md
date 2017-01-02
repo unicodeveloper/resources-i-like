@@ -7,7 +7,7 @@
 - [PHP](#php)
 - [PHP Packages for Everyone](#php-packages-for-everyone)
 - [Python](#python)
-- [Javascript](#javascript)
+- [JavaScript](#javascript)
 - [RxJS](#rxjs)
 - [Laravel](#laravel)
 - [Ionic](#ionic)
@@ -85,7 +85,7 @@
   * [Why python!!](https://iluxonchik.github.io/why-you-should-learn-python/)
 
 
-## Javascript
+## JavaScript
   * [watchmecode.net](https://sub.watchmecode.net/)
   * [Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links)
   * [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
@@ -100,6 +100,7 @@
   * [Webpack - The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.hi0vtrl30)
   * [Building and Authenticating a NodeJS app](https://auth0.com/blog/building-and-authenticating-nodejs-apps/)
   * [Top JavaScript frameworks to learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.t16ln0o9w)
+  * [How I converted my React App to VanillasJS and whether or not it was a terrible idea](https://hackernoon.com/how-i-converted-my-react-app-to-vanillajs-and-whether-or-not-it-was-a-terrible-idea-4b14b1b2faff#.7gb0eskuw)
   
 ### RxJS
   * [https://xgrommx.github.io](https://xgrommx.github.io/rx-book/index.html)
