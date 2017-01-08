@@ -121,7 +121,7 @@
   * [Autocomplete and Mention Directive - mentio](http://jeff-collins.github.io/ment.io/#/)
   
 ### Angular 2
-  * [builtwithangular2.com](http://builtwithangular2.com/)
+  * [Angular Expo - Showcase of Angular 2 webapps](http://angularexpo.com/)
   * [Creating you first real world angular 2 app from authentication to..](https://auth0.com/blog/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/)
   * [Learn the ins and outs of form validation with Angular 2](https://scotch.io/tutorials/angular-2-form-validation)
   * [Use @NgModule to Manage Dependencies in your Angular 2 Apps](https://auth0.com/blog/angular-2-ngmodules/)
