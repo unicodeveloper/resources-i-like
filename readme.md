@@ -43,6 +43,9 @@
   * [Python for web developers](http://www.mattmakai.com/learning-python-for-non-developers.html)
   * [Python Podcasts] (https://dbader.org/blog/ultimate-list-of-python-podcasts)
   * [Full Stack Python (video)](http://pyvideo.org/pycon-us-2014/so-you-want-to-be-a-full-stack-developer-how-to.html)
+  * [Learn Python - Free Interactive Python Tutorial](https://learnpython.org)
+  * [Learn Python the Hard Way](https://learnpythonthehardway.org/book)
+  * [Codecademy Learn Python](https://www.codecademy.com/learn/python)
  
 
 
@@ -285,6 +288,7 @@
   * [devdactic.com](https://devdactic.com/)
   * [blog.nraboy.com](https://blog.nraboy.com/)
   * [gonehybrid.com](http://gonehybrid.com/)
+  * [Mastering the Ionic Framework](https://thinkster.io/topics/ionic)
 
 ### Specific Resource
   * [Ionic Adventures](https://github.com/juarezpaf/ionic-adventures)
