@@ -315,6 +315,7 @@
   * [One way to greatness: Pick Yourself](https://medium.freecodecamp.com/one-way-to-greatness-pick-yourself-31945487731b)
   * [The Software Developer's Library: A treasure trive of books for people who love code](https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b#.5xcdwzaam)
   * [Learn to code, 13 tips that could save you years of effort](https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.j5wmlp7gp)
+  * [Getting to 10x Results. What any developer can learn from the best!](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef#.1b1w14tq3)
   
 ## Developer Inspiring Stories 
   * [Sebastian Mckenzie's 2015 In Review](https://medium.com/@sebmck/2015-in-review-51ac7035e272#.f5u4kzhjg)
