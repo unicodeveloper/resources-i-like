@@ -313,6 +313,7 @@
   * [What are the things required to become a hardcore programmer?](https://www.quora.com/What-are-the-things-required-to-become-a-hardcore-programmer)
   * [Finding time to become a better developer](https://medium.freecodecamp.com/finding-time-to-become-a-better-developer-eebc154881b2#.mjn6rpelt)
   * [One way to greatness: Pick Yourself](https://medium.freecodecamp.com/one-way-to-greatness-pick-yourself-31945487731b)
+  * [The Software Developer's Library: A treasure trive of books for people who love code](https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b#.5xcdwzaam)
   
 ## Developer Inspiring Stories 
   * [Sebastian Mckenzie's 2015 In Review](https://medium.com/@sebmck/2015-in-review-51ac7035e272#.f5u4kzhjg)
