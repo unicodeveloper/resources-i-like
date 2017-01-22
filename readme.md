@@ -202,6 +202,7 @@
   * [A Sequel Pro bundle to generate Laravel migration files from existing tables.](https://github.com/cviebrock/sequel-pro-laravel-export)
   * [Laravel Followers](https://github.com/skybluesofa/laravel-followers)
   * [Laravel Queue Clear](https://github.com/morrislaptop/laravel-queue-clear)
+  * [PostrgeSQL Full Text Search Engine for Laravel Scout](https://github.com/pmatseykanets/laravel-scout-postgres)
 
 ### Specific Resource
   * [Get going with Laravel on Docker](http://pathfinder.space/get-going-with-laravel-on-docker/)
