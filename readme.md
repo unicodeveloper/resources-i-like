@@ -128,6 +128,7 @@
   * [Understanding Angular 2 Change Detection](https://auth0.com/blog/understanding-angular-2-change-detection/)
   * [30 Learning resources for mastering Angular 2](http://tutorialzine.com/2016/09/30-learning-resources-for-mastering-angular-2/)
   * [Angular Universal for the rest of us](https://medium.com/google-developer-experts/angular-universal-for-the-rest-of-us-922ca8bac84#.21b2t7v99)
+  * [Getting Started With Angular 2](https://school.scotch.io/getting-started-with-angular-2)
 
 ### ReactJS
   * [reactforbeginners.com](https://reactforbeginners.com)
