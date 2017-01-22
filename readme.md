@@ -62,6 +62,7 @@
   * [Laravel Blade for Non-Laravel Projects](https://github.com/jenssegers/blade)
   * [Flexible Access Control List Package For Authorization, Roles and Permissions (PHP 5.4+)](https://github.com/BeatSwitch/lock)
   * [Small PHP Library to generate YouTube-like hashids from one or many numbers. Very good for Obfuscating User IDS](https://github.com/ivanakimov/hashids.php)
+  * [PHP Package for working with the Twitter Streaming API](https://github.com/spatie/twitter-streaming-api)
 
 ### Specific Resource
   * [Design Patterns in PHP - Practical Examples](https://github.com/domnikl/DesignPatternsPHP)
