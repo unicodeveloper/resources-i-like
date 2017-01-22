@@ -382,6 +382,7 @@
  * [How talks affect an Open Source Project](https://medium.com/developer-relations/how-talks-affect-an-open-source-project-e4dd1db81a6d#.hoitc2f7d)
  * [Contributing to your first open source project: A Practical approach](https://medium.com/@AceKYD/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae#.voh2zlj0o)
  * [List Of Public JSON APIs](https://github.com/toddmotto/public-apis)
+ * [99 [Pr]-oblems: A beginners guide to open source](https://medium.com/clarifai-champions/99-pr-oblems-a-beginners-guide-to-open-source-abc1b867385a#.1qy4f66gq)
 
 ## Regex
  * [Regex One](http://regexone.com/)
