@@ -106,6 +106,7 @@
   * [Top JavaScript frameworks to learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.t16ln0o9w)
   * [How I converted my React App to VanillasJS and whether or not it was a terrible idea](https://hackernoon.com/how-i-converted-my-react-app-to-vanillajs-and-whether-or-not-it-was-a-terrible-idea-4b14b1b2faff#.7gb0eskuw)
   * [How to build your own Uber for X app - Part 1](https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-33237955e253#.mr5gbpne0)
+  * [How to build your own Uber for X app - Part 2](https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-part-2-8ba6ffa2573d#.z3q534o3s)
   
 ### RxJS
   * [https://xgrommx.github.io](https://xgrommx.github.io/rx-book/index.html)
