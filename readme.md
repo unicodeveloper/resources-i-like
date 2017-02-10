@@ -108,6 +108,7 @@
   * [How to build your own Uber for X app - Part 1](https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-33237955e253#.mr5gbpne0)
   * [How to build your own Uber for X app - Part 2](https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-part-2-8ba6ffa2573d#.z3q534o3s)
   * [Next on NextJS](https://jsmantra.com/next-on-next-js-1a134505f346#.sf2f64u4r)
+  * [JavaScript Startup Performance by Addy Osmani](https://medium.com/@addyosmani/javascript-start-up-performance-69200f43b201#.jab5m5557)
   
 ### RxJS
   * [https://xgrommx.github.io](https://xgrommx.github.io/rx-book/index.html)
