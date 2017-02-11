@@ -213,6 +213,7 @@
   * [Laravel Followers](https://github.com/skybluesofa/laravel-followers)
   * [Laravel Queue Clear](https://github.com/morrislaptop/laravel-queue-clear)
   * [PostrgeSQL Full Text Search Engine for Laravel Scout](https://github.com/pmatseykanets/laravel-scout-postgres)
+  * [Laravel Referer](https://github.com/spatie/laravel-referer)
 
 ### Specific Resource
   * [Get going with Laravel on Docker](http://pathfinder.space/get-going-with-laravel-on-docker/)
