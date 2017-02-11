@@ -137,6 +137,7 @@
   * [30 Learning resources for mastering Angular 2](http://tutorialzine.com/2016/09/30-learning-resources-for-mastering-angular-2/)
   * [Angular Universal for the rest of us](https://medium.com/google-developer-experts/angular-universal-for-the-rest-of-us-922ca8bac84#.21b2t7v99)
   * [Getting Started With Angular 2](https://school.scotch.io/getting-started-with-angular-2)
+  * [Setting up an Angular 2 development environment](https://ponyfoo.com/articles/setting-up-angular-2-development-environment)
 
 ### ReactJS
   * [reactforbeginners.com](https://reactforbeginners.com)
