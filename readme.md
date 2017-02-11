@@ -283,6 +283,7 @@
   * [Overriding Laravels Helper functions](https://murze.be/2016/12/overriding-laravels-helper-functions/)
   * [How to auto-validate eloquent models on Laravel 5.3](https://unnikked.ga/how-to-auto-validate-eloquent-models-on-laravel-5-3-47d8f8cc5cdf#.rhg73d11p)
   * [Introducing Laravel Mix - New in Laravel 5.4](https://mattstauffer.co/blog/introducing-laravel-mix-new-in-laravel-5-4)
+  * [How to integrate paypal gateway with Laravel 5.4](http://itsolutionstuff.com/post/how-to-integrate-paypal-payment-gateway-with-laravel54example.html)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
