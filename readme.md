@@ -285,6 +285,7 @@
   * [Introducing Laravel Mix - New in Laravel 5.4](https://mattstauffer.co/blog/introducing-laravel-mix-new-in-laravel-5-4)
   * [How to integrate paypal gateway with Laravel 5.4](http://itsolutionstuff.com/post/how-to-integrate-paypal-payment-gateway-with-laravel54example.html)
   * [Vue 2.0 and Laravel 5.3 Series](https://www.youtube.com/playlist?list=PL3ZhWMazGi9IommUd5zQmjyNeF7s1sP7Y)
+  * [Introducing Laravel Dusk - New in Laravel 5.4](https://mattstauffer.co/blog/introducing-laravel-dusk-new-in-laravel-5-4)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
