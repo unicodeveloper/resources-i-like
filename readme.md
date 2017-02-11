@@ -156,6 +156,7 @@
   * [A practical guide to Redux](http://lorenstewart.me/2016/11/27/a-practical-guide-to-redux/)
   * [9 things every ReactJS beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
   * [React’s Five Fingers of Death. Master these five concepts, then master React.](https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3#.xfbpsi6hf)
+  * [Our best practices for writing React components](https://medium.com/code-life/our-best-practices-for-writing-react-components-dec3eb5c3fc8?imm_mid=0ed2ce&cmp=em-web-na-na-newsltr_20170208#.kbzwqq2ka)
 
 ### JQuery
 
