@@ -158,6 +158,7 @@
   * [React’s Five Fingers of Death. Master these five concepts, then master React.](https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3#.xfbpsi6hf)
   * [Our best practices for writing React components](https://medium.com/code-life/our-best-practices-for-writing-react-components-dec3eb5c3fc8?imm_mid=0ed2ce&cmp=em-web-na-na-newsltr_20170208#.kbzwqq2ka)
   * [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
+  * [The Complete Introduction to React - Version 1](https://btholt.github.io/complete-intro-to-react-v1/)
 
 ### JQuery
 
