@@ -159,6 +159,7 @@
   * [Our best practices for writing React components](https://medium.com/code-life/our-best-practices-for-writing-react-components-dec3eb5c3fc8?imm_mid=0ed2ce&cmp=em-web-na-na-newsltr_20170208#.kbzwqq2ka)
   * [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
   * [The Complete Introduction to React - Version 1](https://btholt.github.io/complete-intro-to-react-v1/)
+  * [The Complete Introduction to React - Version 2](https://btholt.github.io/complete-intro-to-react/all.html)
 
 ### JQuery
 
