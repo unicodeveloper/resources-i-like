@@ -110,6 +110,7 @@
   * [Next on NextJS](https://jsmantra.com/next-on-next-js-1a134505f346#.sf2f64u4r)
   * [JavaScript Startup Performance by Addy Osmani](https://medium.com/@addyosmani/javascript-start-up-performance-69200f43b201#.jab5m5557)
   * [A glossary of modern JavaScript concepts - Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
+  * [Envato Tuts +: Learn Javascript the complete guide](https://code.tutsplus.com/series/learn-javascript-the-complete-guide--cms-1112?ec_unit=header_bar)
   
 ### RxJS
   * [https://xgrommx.github.io](https://xgrommx.github.io/rx-book/index.html)
@@ -328,6 +329,7 @@
  * [Getting Started with File Storage with Firebase](https://www.youtube.com/watch?v=SpxHVrpfGgU)
  * [Firebase: Building a realtime App](https://www.airpair.com/firebase/posts/firebase-building-realtime-app)
  * [Firebase Database for SQL Developers Series](https://www.youtube.com/watch?v=SfenWGeHarE)
+ * [Creating a Web App from Scratch Using Firebase and AngularJS](https://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-angularjs-and-firebase--cms-22391)
 
 ## Successful Developer Strategies
   * [Successful Developer Career Strategies](http://www.outlierdeveloper.com/qa-successful-developer-career-strategies/)
