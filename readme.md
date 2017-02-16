@@ -62,6 +62,7 @@
   * [Laravel Blade for Non-Laravel Projects](https://github.com/jenssegers/blade)
   * [Flexible Access Control List Package For Authorization, Roles and Permissions (PHP 5.4+)](https://github.com/BeatSwitch/lock)
   * [Small PHP Library to generate YouTube-like hashids from one or many numbers. Very good for Obfuscating User IDS](https://github.com/ivanakimov/hashids.php)
+  * [PHP Package for working with the Twitter Streaming API](https://github.com/spatie/twitter-streaming-api)
 
 ### Specific Resource
   * [Design Patterns in PHP - Practical Examples](https://github.com/domnikl/DesignPatternsPHP)
@@ -104,6 +105,11 @@
   * [Building and Authenticating a NodeJS app](https://auth0.com/blog/building-and-authenticating-nodejs-apps/)
   * [Top JavaScript frameworks to learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.t16ln0o9w)
   * [How I converted my React App to VanillasJS and whether or not it was a terrible idea](https://hackernoon.com/how-i-converted-my-react-app-to-vanillajs-and-whether-or-not-it-was-a-terrible-idea-4b14b1b2faff#.7gb0eskuw)
+  * [How to build your own Uber for X app - Part 1](https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-33237955e253#.mr5gbpne0)
+  * [How to build your own Uber for X app - Part 2](https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-part-2-8ba6ffa2573d#.z3q534o3s)
+  * [Next on NextJS](https://jsmantra.com/next-on-next-js-1a134505f346#.sf2f64u4r)
+  * [JavaScript Startup Performance by Addy Osmani](https://medium.com/@addyosmani/javascript-start-up-performance-69200f43b201#.jab5m5557)
+  * [A glossary of modern JavaScript concepts - Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
   
 ### RxJS
   * [https://xgrommx.github.io](https://xgrommx.github.io/rx-book/index.html)
@@ -131,6 +137,8 @@
   * [Understanding Angular 2 Change Detection](https://auth0.com/blog/understanding-angular-2-change-detection/)
   * [30 Learning resources for mastering Angular 2](http://tutorialzine.com/2016/09/30-learning-resources-for-mastering-angular-2/)
   * [Angular Universal for the rest of us](https://medium.com/google-developer-experts/angular-universal-for-the-rest-of-us-922ca8bac84#.21b2t7v99)
+  * [Getting Started With Angular 2](https://school.scotch.io/getting-started-with-angular-2)
+  * [Setting up an Angular 2 development environment](https://ponyfoo.com/articles/setting-up-angular-2-development-environment)
 
 ### ReactJS
   * [reactforbeginners.com](https://reactforbeginners.com)
@@ -149,6 +157,10 @@
   * [A practical guide to Redux](http://lorenstewart.me/2016/11/27/a-practical-guide-to-redux/)
   * [9 things every ReactJS beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
   * [React’s Five Fingers of Death. Master these five concepts, then master React.](https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3#.xfbpsi6hf)
+  * [Our best practices for writing React components](https://medium.com/code-life/our-best-practices-for-writing-react-components-dec3eb5c3fc8?imm_mid=0ed2ce&cmp=em-web-na-na-newsltr_20170208#.kbzwqq2ka)
+  * [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
+  * [The Complete Introduction to React - Version 1](https://btholt.github.io/complete-intro-to-react-v1/)
+  * [The Complete Introduction to React - Version 2](https://btholt.github.io/complete-intro-to-react/all.html)
 
 ### JQuery
 
@@ -204,6 +216,8 @@
   * [A Sequel Pro bundle to generate Laravel migration files from existing tables.](https://github.com/cviebrock/sequel-pro-laravel-export)
   * [Laravel Followers](https://github.com/skybluesofa/laravel-followers)
   * [Laravel Queue Clear](https://github.com/morrislaptop/laravel-queue-clear)
+  * [PostrgeSQL Full Text Search Engine for Laravel Scout](https://github.com/pmatseykanets/laravel-scout-postgres)
+  * [Laravel Referer](https://github.com/spatie/laravel-referer)
 
 ### Specific Resource
   * [Get going with Laravel on Docker](http://pathfinder.space/get-going-with-laravel-on-docker/)
@@ -271,6 +285,11 @@
   * [Laravel 5 Instagram API tutorial](http://itsolutionstuff.com/post/laravel-5-instagram-api-tutorial-with-exampleexample.html)
   * [Testing Laravel Middleware](http://matthewdaly.co.uk/blog/2016/11/29/testing-laravel-middleware/#.WD4IzZqynr4.twitter)
   * [Overriding Laravels Helper functions](https://murze.be/2016/12/overriding-laravels-helper-functions/)
+  * [How to auto-validate eloquent models on Laravel 5.3](https://unnikked.ga/how-to-auto-validate-eloquent-models-on-laravel-5-3-47d8f8cc5cdf#.rhg73d11p)
+  * [Introducing Laravel Mix - New in Laravel 5.4](https://mattstauffer.co/blog/introducing-laravel-mix-new-in-laravel-5-4)
+  * [How to integrate paypal gateway with Laravel 5.4](http://itsolutionstuff.com/post/how-to-integrate-paypal-payment-gateway-with-laravel54example.html)
+  * [Vue 2.0 and Laravel 5.3 Series](https://www.youtube.com/playlist?list=PL3ZhWMazGi9IommUd5zQmjyNeF7s1sP7Y)
+  * [Introducing Laravel Dusk - New in Laravel 5.4](https://mattstauffer.co/blog/introducing-laravel-dusk-new-in-laravel-5-4)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
@@ -317,6 +336,9 @@
   * [What are the things required to become a hardcore programmer?](https://www.quora.com/What-are-the-things-required-to-become-a-hardcore-programmer)
   * [Finding time to become a better developer](https://medium.freecodecamp.com/finding-time-to-become-a-better-developer-eebc154881b2#.mjn6rpelt)
   * [One way to greatness: Pick Yourself](https://medium.freecodecamp.com/one-way-to-greatness-pick-yourself-31945487731b)
+  * [The Software Developer's Library: A treasure trive of books for people who love code](https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b#.5xcdwzaam)
+  * [Learn to code, 13 tips that could save you years of effort](https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.j5wmlp7gp)
+  * [Getting to 10x Results. What any developer can learn from the best!](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef#.1b1w14tq3)
   
 ## Developer Inspiring Stories 
   * [Sebastian Mckenzie's 2015 In Review](https://medium.com/@sebmck/2015-in-review-51ac7035e272#.f5u4kzhjg)
@@ -383,6 +405,8 @@
  * [How talks affect an Open Source Project](https://medium.com/developer-relations/how-talks-affect-an-open-source-project-e4dd1db81a6d#.hoitc2f7d)
  * [Contributing to your first open source project: A Practical approach](https://medium.com/@AceKYD/contributing-to-your-first-open-source-project-a-practical-approach-1928c4cbdae#.voh2zlj0o)
  * [List Of Public JSON APIs](https://github.com/toddmotto/public-apis)
+ * [99 [Pr]-oblems: A beginners guide to open source](https://medium.com/clarifai-champions/99-pr-oblems-a-beginners-guide-to-open-source-abc1b867385a#.1qy4f66gq)
+ * [Opensource Guide](https://opensource.guide/)
 
 ## Regex
  * [Regex One](http://regexone.com/)
