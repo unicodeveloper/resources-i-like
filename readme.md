@@ -140,6 +140,7 @@
   * [Angular Universal for the rest of us](https://medium.com/google-developer-experts/angular-universal-for-the-rest-of-us-922ca8bac84#.21b2t7v99)
   * [Getting Started With Angular 2](https://school.scotch.io/getting-started-with-angular-2)
   * [Setting up an Angular 2 development environment](https://ponyfoo.com/articles/setting-up-angular-2-development-environment)
+  * [Setting up your first Angular (2) Project Using Angular Material (2)](https://medium.com/@ladyleet/setting-up-your-first-angular-2-project-using-angular-material2-5db18a174165#.52sh28t9o)
 
 ### ReactJS
   * [reactforbeginners.com](https://reactforbeginners.com)
