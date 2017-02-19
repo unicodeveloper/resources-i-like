@@ -85,8 +85,7 @@
   * [Scaling Wordpress with HHVM on heroku](https://substrakt.com/scaling-wordpress-with-hhvm-on-heroku/)
   * [A magic memoization function](https://murze.be/2016/11/magic-memoization-function/)
   * [Building PHP Projects on AWS Codebuild](https://benramsey.com/blog/2016/12/aws-codebuild-php)
-  * [Code Linting with Python](https://dbader.org/blog/python-code-linting)
-  * [Why python!!](https://iluxonchik.github.io/why-you-should-learn-python/)
+  * [Streamed File Zipping and Downloading in PHP](https://medium.com/weebly-engineering/streamed-file-zipping-and-downloading-in-php-1fb59b0a5b79#.12cjrniaz)
 
 
 ## JavaScript
