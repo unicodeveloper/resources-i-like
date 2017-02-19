@@ -296,6 +296,7 @@
   * [Vue 2.0 and Laravel 5.3 Series](https://www.youtube.com/playlist?list=PL3ZhWMazGi9IommUd5zQmjyNeF7s1sP7Y)
   * [Introducing Laravel Dusk - New in Laravel 5.4](https://mattstauffer.co/blog/introducing-laravel-dusk-new-in-laravel-5-4)
   * [Integrating Laravel and Flarum](https://wogan.blog/2017/02/12/integrating-laravel-and-flarum/)
+  * [Understanding the Laravel Macroable trait](https://unnikked.ga/understanding-the-laravel-macroable-trait-dab051f09172#.le9dgvs7j)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
