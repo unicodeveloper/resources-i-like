@@ -300,6 +300,7 @@
   * [50 Laravel Tricks](https://murze.be/2015/11/50-laravel-tricks/)
   * [Login With Email Or Username (In One Field)](http://laraveldaily.com/laravel-login-email-username-one-field/)
   * [Model Default Ordering: Assigning Global Scope](http://laraveldaily.com/model-default-ordering-assigning-global-scope/)
+  * [Autocomplete using Laravel and VueJS](https://medium.com/@jagadeshanh/autocomplete-using-laravel-and-vuejs-b892f104372d#.5k93o4wet)
 
 
 ## Ionic
