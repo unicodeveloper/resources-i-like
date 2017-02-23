@@ -297,6 +297,7 @@
   * [Introducing Laravel Dusk - New in Laravel 5.4](https://mattstauffer.co/blog/introducing-laravel-dusk-new-in-laravel-5-4)
   * [Integrating Laravel and Flarum](https://wogan.blog/2017/02/12/integrating-laravel-and-flarum/)
   * [Understanding the Laravel Macroable trait](https://unnikked.ga/understanding-the-laravel-macroable-trait-dab051f09172#.le9dgvs7j)
+  * [Upload Multiple Files in Laravel 5.4](http://laraveldaily.com/upload-multiple-files-laravel-5-4/)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
