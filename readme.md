@@ -124,6 +124,7 @@
   * [Migrating an Angular 1 app to Angular 2 - Part 1](https://auth0.com/blog/migrating-an-angular-1-app-to-angular-2-part-1/)
   * [Migrating an Angular 1 app to Angular 2 - Part 2](https://auth0.com/blog/migrating-an-angular-1-app-to-angular-2-part-2/)
   * [Migrating an Angular 1 app to Angular 2 - Part 3](https://auth0.com/blog/migrating-an-angular-1-app-to-angular-2-part-3/)
+  * [From Angular.module to NgModule](http://developer.telerik.com/topics/web-development/angular-module-ngmodule/)
 
 
 #### AngularJS Directives I have Found Useful for Quick Saas Apps
