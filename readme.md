@@ -457,6 +457,7 @@
 ## Security
 * [A definitive guide to Form based website authentication](http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication)
 * [Elaborate Security Guide For Developers](https://github.com/FallibleInc/security-guide-for-developers)
+* [Cross Site Request Forgery is dead](https://scotthelme.co.uk/csrf-is-dead/)
 
 ## How can I thank you?
 
