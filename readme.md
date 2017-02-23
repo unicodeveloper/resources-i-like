@@ -298,7 +298,8 @@
   * [Integrating Laravel and Flarum](https://wogan.blog/2017/02/12/integrating-laravel-and-flarum/)
   * [Understanding the Laravel Macroable trait](https://unnikked.ga/understanding-the-laravel-macroable-trait-dab051f09172#.le9dgvs7j)
   * [Upload Multiple Files in Laravel 5.4](http://laraveldaily.com/upload-multiple-files-laravel-5-4/)
-  * [Non-breaking, SEO friendly urls in Laravel](https://sebastiandedeyne.com/posts/2017/non-breaking-seo-friendly-urls-in-laravel
+  * [Non-breaking, SEO friendly urls in Laravel](https://sebastiandedeyne.com/posts/2017/non-breaking-seo-friendly-urls-in-laravel)
+  * [Image Upload and Validation using Laravel and VueJS](https://medium.com/@jagadeshanh/image-upload-and-validation-using-laravel-and-vuejs-e71e0f094fbb#.y6rcd3dgp)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
