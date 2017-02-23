@@ -143,6 +143,7 @@
   * [Setting up your first Angular (2) Project Using Angular Material (2)](https://medium.com/@ladyleet/setting-up-your-first-angular-2-project-using-angular-material2-5db18a174165#.52sh28t9o)
   * [Using Angular Material 2 components in your angular 2 project - Intro: Custom styles buttons](https://medium.com/@ladyleet/using-angular-material2-components-in-your-angular-2-project-intro-custom-styles-buttons-d2178e4b45c5#.2gbgd2yft)
   * [Making Your Anuglar App fast](https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html)
+  * [Building Real World, Production Quality Apps With Angular 2](https://thinkster.io/tutorials/building-real-world-angular-2-apps)
 
 ### ReactJS
   * [reactforbeginners.com](https://reactforbeginners.com)
