@@ -110,6 +110,7 @@
   * [JavaScript Startup Performance by Addy Osmani](https://medium.com/@addyosmani/javascript-start-up-performance-69200f43b201#.jab5m5557)
   * [A glossary of modern JavaScript concepts - Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
   * [Webpack is not the only way - Introducing Fusebox](https://medium.com/fusebox/webpack-is-not-the-only-way-6ddb67e99be9#.o1x67tavo)
+  * [JavaScript's journey through 2016](http://developer.telerik.com/topics/web-development/javascripts-journey-2016/)
   
 ### RxJS
   * [https://xgrommx.github.io](https://xgrommx.github.io/rx-book/index.html)
