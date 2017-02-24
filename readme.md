@@ -85,8 +85,7 @@
   * [Scaling Wordpress with HHVM on heroku](https://substrakt.com/scaling-wordpress-with-hhvm-on-heroku/)
   * [A magic memoization function](https://murze.be/2016/11/magic-memoization-function/)
   * [Building PHP Projects on AWS Codebuild](https://benramsey.com/blog/2016/12/aws-codebuild-php)
-  * [Code Linting with Python](https://dbader.org/blog/python-code-linting)
-  * [Why python!!](https://iluxonchik.github.io/why-you-should-learn-python/)
+  * [Streamed File Zipping and Downloading in PHP](https://medium.com/weebly-engineering/streamed-file-zipping-and-downloading-in-php-1fb59b0a5b79#.12cjrniaz)
 
 
 ## JavaScript
@@ -110,7 +109,8 @@
   * [Next on NextJS](https://jsmantra.com/next-on-next-js-1a134505f346#.sf2f64u4r)
   * [JavaScript Startup Performance by Addy Osmani](https://medium.com/@addyosmani/javascript-start-up-performance-69200f43b201#.jab5m5557)
   * [A glossary of modern JavaScript concepts - Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
-  * [Envato Tuts +: Learn Javascript the complete guide](https://code.tutsplus.com/series/learn-javascript-the-complete-guide--cms-1112?ec_unit=header_bar)
+  * [Webpack is not the only way - Introducing Fusebox](https://medium.com/fusebox/webpack-is-not-the-only-way-6ddb67e99be9#.o1x67tavo)
+  * [JavaScript's journey through 2016](http://developer.telerik.com/topics/web-development/javascripts-journey-2016/)
   
 ### RxJS
   * [https://xgrommx.github.io](https://xgrommx.github.io/rx-book/index.html)
@@ -124,6 +124,7 @@
   * [Migrating an Angular 1 app to Angular 2 - Part 1](https://auth0.com/blog/migrating-an-angular-1-app-to-angular-2-part-1/)
   * [Migrating an Angular 1 app to Angular 2 - Part 2](https://auth0.com/blog/migrating-an-angular-1-app-to-angular-2-part-2/)
   * [Migrating an Angular 1 app to Angular 2 - Part 3](https://auth0.com/blog/migrating-an-angular-1-app-to-angular-2-part-3/)
+  * [From Angular.module to NgModule](http://developer.telerik.com/topics/web-development/angular-module-ngmodule/)
 
 
 #### AngularJS Directives I have Found Useful for Quick Saas Apps
@@ -140,6 +141,10 @@
   * [Angular Universal for the rest of us](https://medium.com/google-developer-experts/angular-universal-for-the-rest-of-us-922ca8bac84#.21b2t7v99)
   * [Getting Started With Angular 2](https://school.scotch.io/getting-started-with-angular-2)
   * [Setting up an Angular 2 development environment](https://ponyfoo.com/articles/setting-up-angular-2-development-environment)
+  * [Setting up your first Angular (2) Project Using Angular Material (2)](https://medium.com/@ladyleet/setting-up-your-first-angular-2-project-using-angular-material2-5db18a174165#.52sh28t9o)
+  * [Using Angular Material 2 components in your angular 2 project - Intro: Custom styles buttons](https://medium.com/@ladyleet/using-angular-material2-components-in-your-angular-2-project-intro-custom-styles-buttons-d2178e4b45c5#.2gbgd2yft)
+  * [Making Your Anuglar App fast](https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html)
+  * [Building Real World, Production Quality Apps With Angular 2](https://thinkster.io/tutorials/building-real-world-angular-2-apps)
 
 ### ReactJS
   * [reactforbeginners.com](https://reactforbeginners.com)
@@ -219,6 +224,7 @@
   * [Laravel Queue Clear](https://github.com/morrislaptop/laravel-queue-clear)
   * [PostrgeSQL Full Text Search Engine for Laravel Scout](https://github.com/pmatseykanets/laravel-scout-postgres)
   * [Laravel Referer](https://github.com/spatie/laravel-referer)
+  * [Laravel Impersonate](https://github.com/404labfr/laravel-impersonate)
 
 ### Specific Resource
   * [Get going with Laravel on Docker](http://pathfinder.space/get-going-with-laravel-on-docker/)
@@ -272,6 +278,8 @@
   * [Tracking if a user is online in Laravel](https://erikbelusic.com/tracking-if-a-user-is-online-in-laravel/)
   * [Understanding the Laravel service Container](https://dotdev.co/understanding-laravel-service-container-bd488ca05280#.j8m80swcl)
   * [Scaling Laravel using AWS Elastic Beanstalk Part 1: Setting up Laravel](https://deliciousbrains.com/scaling-laravel-aws-elastic-beanstalk-part-1-setting-up-laravel/)
+  * [Scaling Laravel using AWS Elastic Beanstalk Part 2: Setting up VPC, RDS, Elasticache](https://deliciousbrains.com/scaling-laravel-using-aws-elastic-beanstalk-part-2-setting-up-vpc-rds-elasticache/)
+  * [Scaling Laravel using AWS Elastic Beanstalk Part 3: Setting up Elastic Beanstalk](https://deliciousbrains.com/scaling-laravel-using-aws-elastic-beanstalk-part-3-setting-elastic-beanstalk/)
   * [Parsing Yaml Files in Laravel 5](https://medium.com/@calina_t/parsing-yaml-files-in-laravel-5-bca2ead5242e#.qxqvmroyf)
   * [How to: Soft Deleting and Restoring in Laravel](https://metricloop.com/blog/how-to-soft-deleting-and-restoring-in-laravel)
   * [Crud Operations using Jquery, Ajax Laravel 5.3](http://way2php.com/crud-operations-using-jquery-ajax-laravel-5-3/)
@@ -291,6 +299,11 @@
   * [How to integrate paypal gateway with Laravel 5.4](http://itsolutionstuff.com/post/how-to-integrate-paypal-payment-gateway-with-laravel54example.html)
   * [Vue 2.0 and Laravel 5.3 Series](https://www.youtube.com/playlist?list=PL3ZhWMazGi9IommUd5zQmjyNeF7s1sP7Y)
   * [Introducing Laravel Dusk - New in Laravel 5.4](https://mattstauffer.co/blog/introducing-laravel-dusk-new-in-laravel-5-4)
+  * [Integrating Laravel and Flarum](https://wogan.blog/2017/02/12/integrating-laravel-and-flarum/)
+  * [Understanding the Laravel Macroable trait](https://unnikked.ga/understanding-the-laravel-macroable-trait-dab051f09172#.le9dgvs7j)
+  * [Upload Multiple Files in Laravel 5.4](http://laraveldaily.com/upload-multiple-files-laravel-5-4/)
+  * [Non-breaking, SEO friendly urls in Laravel](https://sebastiandedeyne.com/posts/2017/non-breaking-seo-friendly-urls-in-laravel)
+  * [Image Upload and Validation using Laravel and VueJS](https://medium.com/@jagadeshanh/image-upload-and-validation-using-laravel-and-vuejs-e71e0f094fbb#.y6rcd3dgp)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
@@ -298,6 +311,7 @@
   * [50 Laravel Tricks](https://murze.be/2015/11/50-laravel-tricks/)
   * [Login With Email Or Username (In One Field)](http://laraveldaily.com/laravel-login-email-username-one-field/)
   * [Model Default Ordering: Assigning Global Scope](http://laraveldaily.com/model-default-ordering-assigning-global-scope/)
+  * [Autocomplete using Laravel and VueJS](https://medium.com/@jagadeshanh/autocomplete-using-laravel-and-vuejs-b892f104372d#.5k93o4wet)
 
 
 ## Ionic
@@ -422,6 +436,7 @@
 * [How to write a Great Error message](https://medium.com/@thomasfuchs/how-to-write-an-error-message-883718173322#.rdv2usryh)
 * [Strategies for Organizing Code](https://medium.com/@msandin/strategies-for-organizing-code-2c9d690b6f33#.e66qd6273)
 * [Designing great API docs](http://blog.parse.com/learn/engineering/designing-great-api-docs/)
+* [Why every element of SOLID is wrong](https://speakerdeck.com/tastapod/why-every-element-of-solid-is-wrong)
 
 ## Nice & Terrific Hacks
 * [Slack Quick Switcher Hack](https://gist.github.com/benvan/9111039)
@@ -445,6 +460,7 @@
 ## Security
 * [A definitive guide to Form based website authentication](http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication)
 * [Elaborate Security Guide For Developers](https://github.com/FallibleInc/security-guide-for-developers)
+* [Cross Site Request Forgery is dead](https://scotthelme.co.uk/csrf-is-dead/)
 
 ## How can I thank you?
 
