@@ -46,8 +46,6 @@
   * [Learn Python - Free Interactive Python Tutorial](https://learnpython.org)
   * [Learn Python the Hard Way](https://learnpythonthehardway.org/book)
   * [Codecademy Learn Python](https://www.codecademy.com/learn/python)
- 
-
 
 ### PHP Packages For Everyone
   * [Crawler Detector - PHP Library that detects over 390 bots/crawlers/spiders](https://github.com/JayBizzle/Crawler-Detect)
@@ -437,6 +435,7 @@
 * [Strategies for Organizing Code](https://medium.com/@msandin/strategies-for-organizing-code-2c9d690b6f33#.e66qd6273)
 * [Designing great API docs](http://blog.parse.com/learn/engineering/designing-great-api-docs/)
 * [Why every element of SOLID is wrong](https://speakerdeck.com/tastapod/why-every-element-of-solid-is-wrong)
+* [What makes a Senior Software Engineer](https://dev.to/klnusbaum/what-makes-a-senior-software-engineer)
 
 ## Nice & Terrific Hacks
 * [Slack Quick Switcher Hack](https://gist.github.com/benvan/9111039)
