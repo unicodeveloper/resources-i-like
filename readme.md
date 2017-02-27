@@ -111,6 +111,7 @@
   * [JavaScript's journey through 2016](http://developer.telerik.com/topics/web-development/javascripts-journey-2016/)
   * [ECMAScript® Language Specification - 5.1](http://www.ecma-international.org/ecma-262/5.1/)
   * [ECMAScript 6 Language Specification (ES2015)](http://www.ecma-international.org/ecma-262/6.0/)
+  * [ECMAScript 7 Language Specification (ES2016)](http://www.ecma-international.org/ecma-262/7.0/)
   
 ### RxJS
   * [https://xgrommx.github.io](https://xgrommx.github.io/rx-book/index.html)
