@@ -109,6 +109,7 @@
   * [A glossary of modern JavaScript concepts - Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
   * [Webpack is not the only way - Introducing Fusebox](https://medium.com/fusebox/webpack-is-not-the-only-way-6ddb67e99be9#.o1x67tavo)
   * [JavaScript's journey through 2016](http://developer.telerik.com/topics/web-development/javascripts-journey-2016/)
+  * [ECMAScript® Language Specification - 5.1](http://www.ecma-international.org/ecma-262/5.1/)
   
 ### RxJS
   * [https://xgrommx.github.io](https://xgrommx.github.io/rx-book/index.html)
