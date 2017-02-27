@@ -461,6 +461,9 @@
 * [Elaborate Security Guide For Developers](https://github.com/FallibleInc/security-guide-for-developers)
 * [Cross Site Request Forgery is dead](https://scotthelme.co.uk/csrf-is-dead/)
 
+## Authentication
+ * [Auth Boss](https://github.com/teesloane/Auth-Boss)
+
 ## How can I thank you?
 
 Why not star the github repo? I'd love the attention! Why not share the link for this repository on Twitter or HackerNews? Spread the word!
