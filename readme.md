@@ -169,6 +169,7 @@
   * [The Complete Introduction to React - Version 1](https://btholt.github.io/complete-intro-to-react-v1/)
   * [The Complete Introduction to React - Version 2](https://btholt.github.io/complete-intro-to-react/all.html)
   * [ReactJS Authentication Tutorial](https://auth0.com/blog/reactjs-authentication-tutorial)
+  * [How to build a lightweight Clone of Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
 
 ### JQuery
 
