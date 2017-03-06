@@ -172,6 +172,7 @@
   * [ReactJS Authentication Tutorial](https://auth0.com/blog/reactjs-authentication-tutorial)
   * [How to build a lightweight Clone of Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
   * [How does React decide to re-render a component?](http://lucybain.com/blog/2017/react-js-when-to-rerender/)
+  * [Functional SetState is the future of React](https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b#.ezv0onhhn)
 
 ### JQuery
 
