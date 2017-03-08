@@ -174,6 +174,7 @@
   * [How does React decide to re-render a component?](http://lucybain.com/blog/2017/react-js-when-to-rerender/)
   * [Functional SetState is the future of React](https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b#.ezv0onhhn)
   * [How to use Redux on highly scalable JavaScript Applications](https://medium.com/@alexmngn/how-to-use-redux-on-highly-scalable-javascript-applications-4e4b8cb5ef38#.s2y7315jw)
+  * [How to better organize your React applications](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1#.q0xovz4ue)
 
 ### JQuery
 
