@@ -114,6 +114,7 @@
   * [JavaScript's journey through 2016](http://developer.telerik.com/topics/web-development/javascripts-journey-2016/)
   * [A detailed introduction to Webpack](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/)
   * [Three Ways of Understanding Promises](http://www.2ality.com/2016/10/understanding-promises.html)
+  * [ES6 Features: 10 Use cases for proxy](http://dealwithjs.io/es6-features-10-use-cases-for-proxy/)
   
 ### RxJS
   * [https://xgrommx.github.io](https://xgrommx.github.io/rx-book/index.html)
