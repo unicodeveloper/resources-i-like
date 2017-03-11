@@ -113,6 +113,7 @@
   * [Webpack is not the only way - Introducing Fusebox](https://medium.com/fusebox/webpack-is-not-the-only-way-6ddb67e99be9#.o1x67tavo)
   * [JavaScript's journey through 2016](http://developer.telerik.com/topics/web-development/javascripts-journey-2016/)
   * [A detailed introduction to Webpack](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/)
+  * [Three Ways of Understanding Promises](http://www.2ality.com/2016/10/understanding-promises.html)
   
 ### RxJS
   * [https://xgrommx.github.io](https://xgrommx.github.io/rx-book/index.html)
