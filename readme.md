@@ -128,6 +128,7 @@
   * [Migrating an Angular 1 app to Angular 2 - Part 2](https://auth0.com/blog/migrating-an-angular-1-app-to-angular-2-part-2/)
   * [Migrating an Angular 1 app to Angular 2 - Part 3](https://auth0.com/blog/migrating-an-angular-1-app-to-angular-2-part-3/)
   * [From Angular.module to NgModule](http://developer.telerik.com/topics/web-development/angular-module-ngmodule/)
+  * [Testing Routes in Angular 2](https://semaphoreci.com/community/tutorials/testing-routes-in-angular-2)
 
 
 #### AngularJS Directives I have Found Useful for Quick Saas Apps
