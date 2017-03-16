@@ -181,6 +181,7 @@
   
  ### Specific Resources for React Native
   * [The essential boilerplate to authenticate users on your react native app](https://medium.com/@alexmngn/the-essential-boilerplate-to-authenticate-users-on-your-react-native-app-f7a8e0e04a42#.7gfgzbzif)
+  * [React Native App Stack - March 2017](https://medium.com/react-native-development/react-native-app-stack-march-2017-f7605e02d46f?imm_mid=0eeb35&cmp=em-web-na-na-newsltr_20170315#.oqzvlr3cx)
 
 ### JQuery
 
