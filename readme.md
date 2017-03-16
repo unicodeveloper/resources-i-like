@@ -178,6 +178,7 @@
   * [Functional SetState is the future of React](https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b#.ezv0onhhn)
   * [How to use Redux on highly scalable JavaScript Applications](https://medium.com/@alexmngn/how-to-use-redux-on-highly-scalable-javascript-applications-4e4b8cb5ef38#.s2y7315jw)
   * [How to better organize your React applications](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1#.q0xovz4ue)
+  * [Passing data between react components](https://medium.com/@ruthmpardee/passing-data-between-react-components-103ad82ebd17#.c5g694n2g)
   
  ### Specific Resources for React Native
   * [The essential boilerplate to authenticate users on your react native app](https://medium.com/@alexmngn/the-essential-boilerplate-to-authenticate-users-on-your-react-native-app-f7a8e0e04a42#.7gfgzbzif)
