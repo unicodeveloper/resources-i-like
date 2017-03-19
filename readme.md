@@ -460,6 +460,7 @@
 * [Designing great API docs](http://blog.parse.com/learn/engineering/designing-great-api-docs/)
 * [Why every element of SOLID is wrong](https://speakerdeck.com/tastapod/why-every-element-of-solid-is-wrong)
 * [What makes a Senior Software Engineer](https://dev.to/klnusbaum/what-makes-a-senior-software-engineer)
+* [Learning how to learn - The most important developer skill](https://medium.freecodecamp.com/learning-how-to-learn-the-most-important-developer-skill-7bf62dfaf67d#.tjo9nc9zk)
 
 ## Nice & Terrific Hacks
 * [Slack Quick Switcher Hack](https://gist.github.com/benvan/9111039)
