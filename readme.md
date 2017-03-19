@@ -116,6 +116,7 @@
   * [Three Ways of Understanding Promises](http://www.2ality.com/2016/10/understanding-promises.html)
   * [ES6 Features: 10 Use cases for proxy](http://dealwithjs.io/es6-features-10-use-cases-for-proxy/)
   * [Build Live comments feature using JavaScript](https://blog.pusher.com/build-live-comments-feature-using-javascript/)
+  * [JavaScript Modules: A beginner's guide](https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.9wzhl3ii8)
   
 ### RxJS
   * [https://xgrommx.github.io](https://xgrommx.github.io/rx-book/index.html)
