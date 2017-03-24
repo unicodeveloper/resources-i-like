@@ -185,6 +185,7 @@
   * [Passing data between react components](https://medium.com/@ruthmpardee/passing-data-between-react-components-103ad82ebd17#.c5g694n2g)
   * [Surprising Polymorphism in React applications](https://medium.com/@bmeurer/surprising-polymorphism-in-react-applications-63015b50abc#.d7yd4275c)
   * [Internationalization in React](https://medium.freecodecamp.com/internationalization-in-react-7264738274a0#.drrx0ofws)
+  * [React is Slow, React is Fast: Optimizing React Apps in Practice](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba#.lhfmqjxuo)
   
  ### Specific Resources for React Native
   * [The essential boilerplate to authenticate users on your react native app](https://medium.com/@alexmngn/the-essential-boilerplate-to-authenticate-users-on-your-react-native-app-f7a8e0e04a42#.7gfgzbzif)
