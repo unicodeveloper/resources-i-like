@@ -464,6 +464,7 @@
 * [What makes a Senior Software Engineer](https://dev.to/klnusbaum/what-makes-a-senior-software-engineer)
 * [Learning how to learn - The most important developer skill](https://medium.freecodecamp.com/learning-how-to-learn-the-most-important-developer-skill-7bf62dfaf67d#.tjo9nc9zk)
 * [How the Web works - A primer for newcomers to web development or anyone really](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.ky995foe7)
+* [Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap)
 
 ## Nice & Terrific Hacks
 * [Slack Quick Switcher Hack](https://gist.github.com/benvan/9111039)
