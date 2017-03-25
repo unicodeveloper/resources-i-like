@@ -330,6 +330,7 @@
   * [Upload Multiple Files in Laravel 5.4](http://laraveldaily.com/upload-multiple-files-laravel-5-4/)
   * [Non-breaking, SEO friendly urls in Laravel](https://sebastiandedeyne.com/posts/2017/non-breaking-seo-friendly-urls-in-laravel)
   * [Image Upload and Validation using Laravel and VueJS](https://medium.com/@jagadeshanh/image-upload-and-validation-using-laravel-and-vuejs-e71e0f094fbb#.y6rcd3dgp)
+  * [Testing Partial JSON Responses with Laravel](https://laravel-news.com/testing-partial-json)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
