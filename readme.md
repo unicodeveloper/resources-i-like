@@ -497,6 +497,7 @@
 * [A definitive guide to Form based website authentication](http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication)
 * [Elaborate Security Guide For Developers](https://github.com/FallibleInc/security-guide-for-developers)
 * [Cross Site Request Forgery is dead](https://scotthelme.co.uk/csrf-is-dead/)
+* [Preventing cross site attacks using same site cookies](https://blogs.dropbox.com/tech/2017/03/preventing-cross-site-attacks-using-same-site-cookies/)
 
 ## Authentication
  * [Auth Boss](https://github.com/teesloane/Auth-Boss)
