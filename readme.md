@@ -333,6 +333,7 @@
   * [Image Upload and Validation using Laravel and VueJS](https://medium.com/@jagadeshanh/image-upload-and-validation-using-laravel-and-vuejs-e71e0f094fbb#.y6rcd3dgp)
   * [Testing Partial JSON Responses with Laravel](https://laravel-news.com/testing-partial-json)
   * [Laravel 5.4 native User Authentication + Role Authorization](https://medium.com/@ezpabon/laravel-5-4-native-user-authentication-role-authorization-3dbae4049c8a)
+  * [Laravel Translation via Google Spreadsheet](https://medium.com/skyshidigital/laravel-translation-via-google-spreadsheet-9e7b6d9b45b2)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
