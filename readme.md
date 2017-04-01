@@ -332,6 +332,7 @@
   * [Non-breaking, SEO friendly urls in Laravel](https://sebastiandedeyne.com/posts/2017/non-breaking-seo-friendly-urls-in-laravel)
   * [Image Upload and Validation using Laravel and VueJS](https://medium.com/@jagadeshanh/image-upload-and-validation-using-laravel-and-vuejs-e71e0f094fbb#.y6rcd3dgp)
   * [Testing Partial JSON Responses with Laravel](https://laravel-news.com/testing-partial-json)
+  * [Laravel 5.4 native User Authentication + Role Authorization](https://medium.com/@ezpabon/laravel-5-4-native-user-authentication-role-authorization-3dbae4049c8a)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
