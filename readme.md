@@ -338,6 +338,7 @@
   * [Step by Step Guide to Building Your First Laravel Application](https://laravel-news.com/your-first-laravel-application/)
   * [Laravel Dusk Series by DevDojo](https://devdojo.com/series/laravel-dusk/episode/intro)
   * [Building a User Invitation System with Laravel](https://laravel-news.com/user-invitation-system)
+  * [Running Dusk tests on Travis CI and CircleCI](https://laravel-news.com/laravel-dusk-continuous-integration)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
