@@ -335,6 +335,7 @@
   * [Laravel 5.4 native User Authentication + Role Authorization](https://medium.com/@ezpabon/laravel-5-4-native-user-authentication-role-authorization-3dbae4049c8a)
   * [Laravel Translation via Google Spreadsheet](https://medium.com/skyshidigital/laravel-translation-via-google-spreadsheet-9e7b6d9b45b2)
   * [Laravel AJAX File Upload with BlueImp JQuery Library](http://laraveldaily.com/laravel-ajax-file-upload-blueimp-jquery-library/)
+  * [Step by Step Guide to Building Your First Laravel Application](https://laravel-news.com/your-first-laravel-application/)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
