@@ -336,6 +336,7 @@
   * [Laravel Translation via Google Spreadsheet](https://medium.com/skyshidigital/laravel-translation-via-google-spreadsheet-9e7b6d9b45b2)
   * [Laravel AJAX File Upload with BlueImp JQuery Library](http://laraveldaily.com/laravel-ajax-file-upload-blueimp-jquery-library/)
   * [Step by Step Guide to Building Your First Laravel Application](https://laravel-news.com/your-first-laravel-application/)
+  * [Laravel Dusk Series by DevDojo](https://devdojo.com/series/laravel-dusk/episode/intro)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
