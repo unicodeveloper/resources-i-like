@@ -84,6 +84,7 @@
   * [A magic memoization function](https://murze.be/2016/11/magic-memoization-function/)
   * [Building PHP Projects on AWS Codebuild](https://benramsey.com/blog/2016/12/aws-codebuild-php)
   * [Streamed File Zipping and Downloading in PHP](https://medium.com/weebly-engineering/streamed-file-zipping-and-downloading-in-php-1fb59b0a5b79#.12cjrniaz)
+  * [Re-introducing Vagrant: The right way to start PHP](https://www.sitepoint.com/re-introducing-vagrant-right-way-start-php/)
 
 
 ## JavaScript
