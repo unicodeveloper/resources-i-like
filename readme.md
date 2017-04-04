@@ -41,7 +41,7 @@
 ## PYTHON
   * [Full Stack Python](https://www.fullstackpython.com/best-python-resources.html)
   * [Python for web developers](http://www.mattmakai.com/learning-python-for-non-developers.html)
-  * [Python Podcasts] (https://dbader.org/blog/ultimate-list-of-python-podcasts)
+  * [Python Podcasts](https://dbader.org/blog/ultimate-list-of-python-podcasts)
   * [Full Stack Python (video)](http://pyvideo.org/pycon-us-2014/so-you-want-to-be-a-full-stack-developer-how-to.html)
   * [Learn Python - Free Interactive Python Tutorial](https://learnpython.org)
   * [Learn Python the Hard Way](https://learnpythonthehardway.org/book)
