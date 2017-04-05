@@ -27,6 +27,7 @@
 - [Interview Preparation for Developers](#interview-preparation-for-developers)
 - [Security](#security)
 - [Progressive Web Apps](#progressive-web-apps)
+- [Frontend Development](#frontend-development)
 
 
 ## PHP
@@ -510,6 +511,9 @@
 
 ## Authentication
  * [Auth Boss](https://github.com/teesloane/Auth-Boss)
+ 
+## Frontend Development
+ * [The Frontend Development Handbook](https://frontendmasters.com/books/front-end-handbook/2017/)
 
 ## How can I thank you?
 
