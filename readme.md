@@ -518,6 +518,9 @@
  
 ## Frontend Development
  * [The Frontend Development Handbook](https://frontendmasters.com/books/front-end-handbook/2017/)
+ 
+## Chrome Dev Tools
+ * [Preload, Prefetch and Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
 
 ## How can I thank you?
 
