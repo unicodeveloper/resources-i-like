@@ -28,6 +28,7 @@
 - [Security](#security)
 - [Progressive Web Apps](#progressive-web-apps)
 - [Frontend Development](#frontend-development)
+- [Chrome Dev Tools)(#chrome-dev-tools)
 
 
 ## PHP
