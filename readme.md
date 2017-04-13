@@ -509,7 +509,8 @@
 * [Rethinking Offline First sync for Service Workers](https://medium.com/offline-camp/rethinking-offline-first-sync-for-service-workers-da4727b6dee)
 * [Offline first for everyday developers quickly](https://medium.com/offline-camp/offline-first-for-everyday-developers-quickly-fbd0dd59c55e)
 * [Twitter lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
-* [Offline Sync for Progressive Web Apps]https://medium.com/ibm-watson-data-lab/offline-sync-for-progressive-web-apps-ccab6bf6db17()
+* [Offline Sync for Progressive Web Apps](https://medium.com/ibm-watson-data-lab/offline-sync-for-progressive-web-apps-ccab6bf6db17)
+* [Offline first Podcasts](https://medium.com/offline-camp/offline-first-podcasts-d0be01721ee6)
 
 ## Security
 * [A definitive guide to Form based website authentication](http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication)
