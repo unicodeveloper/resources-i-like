@@ -507,6 +507,7 @@
 * [Progressive Web App libraries in Production](https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34?imm_mid=0eeb35&cmp=em-web-na-na-newsltr_20170315#.vhk6dvnlx)
 * [Introducing Redux Offline-first Architecture for Progressive Web Applications & React](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
 * [Rethinking Offline First sync for Service Workers](https://medium.com/offline-camp/rethinking-offline-first-sync-for-service-workers-da4727b6dee)
+* [Offline first for everyday developers quickly](https://medium.com/offline-camp/offline-first-for-everyday-developers-quickly-fbd0dd59c55e)
 
 ## Security
 * [A definitive guide to Form based website authentication](http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication)
