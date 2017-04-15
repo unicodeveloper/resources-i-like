@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+- [GraphQL](#graphql)
 - [PHP](#php)
 - [PHP Packages for Everyone](#php-packages-for-everyone)
 - [Python](#python)
@@ -30,6 +31,8 @@
 - [Frontend Development](#frontend-development)
 - [Chrome Dev Tools](#chrome-dev-tools)
 
+## GraphQl
+  * [So what is this GraphQL thing?](https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf) 
 
 ## PHP
   * [PHP The Right Way](http://www.phptherightway.com)
