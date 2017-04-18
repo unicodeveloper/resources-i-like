@@ -534,6 +534,7 @@
  * [How to build a realtime chart using Laravel and Pusher](https://blog.pusher.com/build-realtime-chart-using-laravel-pusher/)
  * [How to update a user’s status in realtime in JavaScript](https://blog.pusher.com/update-users-status-realtime-javascript/)
  * [How to build a collaborative note app using Laravel](https://blog.pusher.com/build-collaborative-note-app-using-laravel/)
+ * [How to build a collaborative text editor with JavaScript](https://blog.pusher.com/build-collaborative-text-editor-javascript/)
 
 ## How can I thank you?
 
