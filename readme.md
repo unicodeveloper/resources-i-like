@@ -532,6 +532,7 @@
  
 ## Realtime
  * [How to build a realtime chart using Laravel and Pusher](https://blog.pusher.com/build-realtime-chart-using-laravel-pusher/)
+ * [How to update a user’s status in realtime in JavaScript](https://blog.pusher.com/update-users-status-realtime-javascript/)
 
 ## How can I thank you?
 
