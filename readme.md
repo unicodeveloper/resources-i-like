@@ -529,6 +529,9 @@
  
 ## Chrome Dev Tools
  * [Preload, Prefetch and Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
+ 
+## Realtime
+ * [How to build a realtime chart using Laravel and Pusher](https://blog.pusher.com/build-realtime-chart-using-laravel-pusher/)
 
 ## How can I thank you?
 
