@@ -348,6 +348,7 @@
   * [Building a User Invitation System with Laravel](https://laravel-news.com/user-invitation-system)
   * [Running Dusk tests on Travis CI and CircleCI](https://laravel-news.com/laravel-dusk-continuous-integration)
   * [How to build youtube like app with Laravel and Vuejs](http://www.qcode.in/youtube-like-app-vue-js-laravel/)
+  * [An Introduction to Laravel Authorization Gates](https://laravel-news.com/authorization-gates)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
