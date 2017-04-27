@@ -350,6 +350,7 @@
   * [Running Dusk tests on Travis CI and CircleCI](https://laravel-news.com/laravel-dusk-continuous-integration)
   * [How to build youtube like app with Laravel and Vuejs](http://www.qcode.in/youtube-like-app-vue-js-laravel/)
   * [An Introduction to Laravel Authorization Gates](https://laravel-news.com/authorization-gates)
+  * [Building an Interactive Voice Response System with Laravel and Nexmo](https://laravel-news.com/laravel-hotline-ivr)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
