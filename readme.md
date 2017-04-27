@@ -125,6 +125,7 @@
   * [JavaScript Modules: A beginner's guide](https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.9wzhl3ii8)
   * [How to manage JavaScript fatigue](https://auth0.com/blog/how-to-manage-javascript-fatigue/#)
   * [The habits of effective JavaScript developers](http://thefullstack.xyz/effective-javascript-developers/)
+  * [An Overview of JavaScript testing in 2017](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a?imm_mid=0f12fb&cmp=em-web-na-na-newsltr_20170426)
   
 ### RxJS
   * [https://xgrommx.github.io](https://xgrommx.github.io/rx-book/index.html)
