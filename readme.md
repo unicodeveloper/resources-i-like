@@ -200,6 +200,7 @@
   * [React is Slow, React is Fast: Optimizing React Apps in Practice](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba#.lhfmqjxuo)
   * [Navigating React's setState()](https://medium.com/javascript-scene/setstate-gate-abc10a9b2d82)
   * [The Benefits of Server side rendering over client side rendering](https://medium.com/walmartlabs/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8)
+  * [How to build yourself a Redux](https://zapier.com/engineering/how-to-build-redux)
   
  ### Specific Resources for React Native
   * [The essential boilerplate to authenticate users on your react native app](https://medium.com/@alexmngn/the-essential-boilerplate-to-authenticate-users-on-your-react-native-app-f7a8e0e04a42#.7gfgzbzif)
