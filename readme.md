@@ -27,9 +27,11 @@
 - [Community Building](#community-building)
 - [Interview Preparation for Developers](#interview-preparation-for-developers)
 - [Security](#security)
+- [Scaling](#scaling)
 - [Progressive Web Apps](#progressive-web-apps)
 - [Frontend Development](#frontend-development)
 - [Chrome Dev Tools](#chrome-dev-tools)
+- [Stories from the Trenches](#stories-from-the-trenches)
 
 ## GraphQl
   * [So what is this GraphQL thing?](https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf) 
@@ -539,6 +541,9 @@
  * [How to update a user’s status in realtime in JavaScript](https://blog.pusher.com/update-users-status-realtime-javascript/)
  * [How to build a collaborative note app using Laravel](https://blog.pusher.com/build-collaborative-note-app-using-laravel/)
  * [How to build a collaborative text editor with JavaScript](https://blog.pusher.com/build-collaborative-text-editor-javascript/)
+
+## Stories From The Trenches
+ * [How we fine-tuned HAProxy to achieve 2,000,000 concurrent SSL connections](https://medium.freecodecamp.com/how-we-fine-tuned-haproxy-to-achieve-2-000-000-concurrent-ssl-connections-d017e61a4d27)
 
 ## How can I thank you?
 
