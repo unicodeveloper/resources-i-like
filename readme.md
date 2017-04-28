@@ -32,6 +32,7 @@
 - [Frontend Development](#frontend-development)
 - [Chrome Dev Tools](#chrome-dev-tools)
 - [Stories from the Trenches](#stories-from-the-trenches)
+- [Conference Talks](#conference-talks)
 
 ## GraphQl
   * [So what is this GraphQL thing?](https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf) 
@@ -544,6 +545,9 @@
 
 ## Stories From The Trenches
  * [How we fine-tuned HAProxy to achieve 2,000,000 concurrent SSL connections](https://medium.freecodecamp.com/how-we-fine-tuned-haproxy-to-achieve-2-000-000-concurrent-ssl-connections-d017e61a4d27)
+ 
+## Conference Talks
+ * [JavaScript is a Buffet, not the enemy](https://youtu.be/rfgXKJPMCos)
 
 ## How can I thank you?
 
