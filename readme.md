@@ -523,6 +523,7 @@
 * [Offline Sync for Progressive Web Apps](https://medium.com/ibm-watson-data-lab/offline-sync-for-progressive-web-apps-ccab6bf6db17)
 * [Offline first Podcasts](https://medium.com/offline-camp/offline-first-podcasts-d0be01721ee6)
 * [Build your first progressive web app with React](https://engineering.musefind.com/build-your-first-progressive-web-app-with-react-8e1449c575cd)
+* [Progressive Web Apps Training Course by Google](https://developers.google.com/web/ilt/pwa/)
 
 ## Security
 * [A definitive guide to Form based website authentication](http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication)
