@@ -265,6 +265,7 @@
   * [PostrgeSQL Full Text Search Engine for Laravel Scout](https://github.com/pmatseykanets/laravel-scout-postgres)
   * [Laravel Referer](https://github.com/spatie/laravel-referer)
   * [Laravel Impersonate](https://github.com/404labfr/laravel-impersonate)
+  * [LaraCSV - A Laravel package to easily generate CSV files from Eloquent model](https://github.com/usmanhalalit/laracsv)
 
 ### Specific Resource
   * [Get going with Laravel on Docker](http://pathfinder.space/get-going-with-laravel-on-docker/)
