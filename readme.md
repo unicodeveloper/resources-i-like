@@ -364,6 +364,7 @@
   * [Login With Email Or Username (In One Field)](http://laraveldaily.com/laravel-login-email-username-one-field/)
   * [Model Default Ordering: Assigning Global Scope](http://laraveldaily.com/model-default-ordering-assigning-global-scope/)
   * [Autocomplete using Laravel and VueJS](https://medium.com/@jagadeshanh/autocomplete-using-laravel-and-vuejs-b892f104372d#.5k93o4wet)
+  * [How make Laravel and ElasticSearch become friends](https://medium.com/@babenko.i.a/how-to-make-laravel-and-elasticsearch-become-friends-55ed7690331c)
 
 
 ## Ionic
