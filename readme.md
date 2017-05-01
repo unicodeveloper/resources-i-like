@@ -266,6 +266,7 @@
   * [Laravel Referer](https://github.com/spatie/laravel-referer)
   * [Laravel Impersonate](https://github.com/404labfr/laravel-impersonate)
   * [LaraCSV - A Laravel package to easily generate CSV files from Eloquent model](https://github.com/usmanhalalit/laracsv)
+  * [Limit access to your Laravel applications by using invite codes ](https://github.com/clarkeash/doorman)
 
 ### Specific Resource
   * [Get going with Laravel on Docker](http://pathfinder.space/get-going-with-laravel-on-docker/)
