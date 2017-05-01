@@ -33,6 +33,7 @@
 - [Chrome Dev Tools](#chrome-dev-tools)
 - [Stories from the Trenches](#stories-from-the-trenches)
 - [Conference Talks](#conference-talks)
+- [Remote Work](#remote-work)
 
 ## GraphQl
   * [So what is this GraphQL thing?](https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf) 
@@ -555,6 +556,9 @@
 ## Conference Talks
  * [JavaScript is a Buffet, not the enemy - Chris Heilmann](https://youtu.be/rfgXKJPMCos)
  * [Everything is a plugin! Mastering webpack from the inside out - Sean Larkin](https://www.youtube.com/watch?v=4tQiJaFzuJ8)
+ 
+## Remote Work
+ * []()
 
 ## How can I thank you?
 
