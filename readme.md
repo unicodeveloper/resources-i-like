@@ -544,6 +544,7 @@
  
 ## Chrome Dev Tools
  * [Preload, Prefetch and Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
+ * [Getting Started With Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome)
  
 ## Realtime
  * [How to build a realtime chart using Laravel and Pusher](https://blog.pusher.com/build-realtime-chart-using-laravel-pusher/)
