@@ -131,6 +131,7 @@
   * [The habits of effective JavaScript developers](http://thefullstack.xyz/effective-javascript-developers/)
   * [An Overview of JavaScript testing in 2017](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a?imm_mid=0f12fb&cmp=em-web-na-na-newsltr_20170426)
   * [JavaScript: Arrow Functions for Beginners](https://hackernoon.com/javascript-arrow-functions-for-beginners-926947fc0cdc)
+  * [Understanding Nodejs Event driven Architecture](https://medium.freecodecamp.com/understanding-node-js-event-driven-architecture-223292fcbc2d)
   
 ### RxJS
   * [https://xgrommx.github.io](https://xgrommx.github.io/rx-book/index.html)
