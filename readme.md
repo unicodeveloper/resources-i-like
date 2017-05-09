@@ -360,6 +360,7 @@
   * [How to build youtube like app with Laravel and Vuejs](http://www.qcode.in/youtube-like-app-vue-js-laravel/)
   * [An Introduction to Laravel Authorization Gates](https://laravel-news.com/authorization-gates)
   * [Building an Interactive Voice Response System with Laravel and Nexmo](https://laravel-news.com/laravel-hotline-ivr)
+  * [Rebuild Twitter with Laravel — User and Authentication - Part 1](https://medium.com/@just4sky/rebuild-twitter-with-laravel-user-and-authentication-9b0adb392dc6)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
