@@ -36,7 +36,8 @@
 - [Remote Work](#remote-work)
 
 ## GraphQl
-  * [So what is this GraphQL thing?](https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf) 
+  * [So what is this GraphQL thing?](https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf)
+  * [Give it a REST: use GraphQL for your APIs](https://medium.freecodecamp.com/give-it-a-rest-use-graphql-for-your-apis-40a2761e6336)
 
 ## PHP
   * [PHP The Right Way](http://www.phptherightway.com)
