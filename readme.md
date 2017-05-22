@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+- [GraphQL](#graphql)
 - [PHP](#php)
 - [PHP Packages for Everyone](#php-packages-for-everyone)
 - [Python](#python)
@@ -26,8 +27,16 @@
 - [Community Building](#community-building)
 - [Interview Preparation for Developers](#interview-preparation-for-developers)
 - [Security](#security)
+- [Scaling](#scaling)
 - [Progressive Web Apps](#progressive-web-apps)
+- [Frontend Development](#frontend-development)
+- [Chrome Dev Tools](#chrome-dev-tools)
+- [Stories from the Trenches](#stories-from-the-trenches)
+- [Conference Talks](#conference-talks)
+- [Remote Work](#remote-work)
 
+## GraphQl
+  * [So what is this GraphQL thing?](https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf) 
 
 ## PHP
   * [PHP The Right Way](http://www.phptherightway.com)
@@ -41,7 +50,7 @@
 ## PYTHON
   * [Full Stack Python](https://www.fullstackpython.com/best-python-resources.html)
   * [Python for web developers](http://www.mattmakai.com/learning-python-for-non-developers.html)
-  * [Python Podcasts] (https://dbader.org/blog/ultimate-list-of-python-podcasts)
+  * [Python Podcasts](https://dbader.org/blog/ultimate-list-of-python-podcasts)
   * [Full Stack Python (video)](http://pyvideo.org/pycon-us-2014/so-you-want-to-be-a-full-stack-developer-how-to.html)
   * [Learn Python - Free Interactive Python Tutorial](https://learnpython.org)
   * [Learn Python the Hard Way](https://learnpythonthehardway.org/book)
@@ -84,6 +93,7 @@
   * [A magic memoization function](https://murze.be/2016/11/magic-memoization-function/)
   * [Building PHP Projects on AWS Codebuild](https://benramsey.com/blog/2016/12/aws-codebuild-php)
   * [Streamed File Zipping and Downloading in PHP](https://medium.com/weebly-engineering/streamed-file-zipping-and-downloading-in-php-1fb59b0a5b79#.12cjrniaz)
+  * [Re-introducing Vagrant: The right way to start PHP](https://www.sitepoint.com/re-introducing-vagrant-right-way-start-php/)
 
 
 ## JavaScript
@@ -119,6 +129,9 @@
   * [JavaScript Modules: A beginner's guide](https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.9wzhl3ii8)
   * [How to manage JavaScript fatigue](https://auth0.com/blog/how-to-manage-javascript-fatigue/#)
   * [The habits of effective JavaScript developers](http://thefullstack.xyz/effective-javascript-developers/)
+  * [An Overview of JavaScript testing in 2017](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a?imm_mid=0f12fb&cmp=em-web-na-na-newsltr_20170426)
+  * [JavaScript: Arrow Functions for Beginners](https://hackernoon.com/javascript-arrow-functions-for-beginners-926947fc0cdc)
+  * [Understanding Nodejs Event driven Architecture](https://medium.freecodecamp.com/understanding-node-js-event-driven-architecture-223292fcbc2d)
   
 ### RxJS
   * [https://xgrommx.github.io](https://xgrommx.github.io/rx-book/index.html)
@@ -155,6 +168,7 @@
   * [Making Your Anuglar App fast](https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html)
   * [Building Real World, Production Quality Apps With Angular 2](https://thinkster.io/tutorials/building-real-world-angular-2-apps)
   * [Planning an Angular application](http://developer.telerik.com/topics/web-development/planning-an-angular-application/)
+  * [Rangle's Angular 2 Training Book]https://www.gitbook.com/book/rangle-io/ngcourse2/details()
 
 ### ReactJS
   * [reactforbeginners.com](https://reactforbeginners.com)
@@ -188,6 +202,8 @@
   * [Internationalization in React](https://medium.freecodecamp.com/internationalization-in-react-7264738274a0#.drrx0ofws)
   * [React is Slow, React is Fast: Optimizing React Apps in Practice](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba#.lhfmqjxuo)
   * [Navigating React's setState()](https://medium.com/javascript-scene/setstate-gate-abc10a9b2d82)
+  * [The Benefits of Server side rendering over client side rendering](https://medium.com/walmartlabs/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8)
+  * [How to build yourself a Redux](https://zapier.com/engineering/how-to-build-redux)
   
  ### Specific Resources for React Native
   * [The essential boilerplate to authenticate users on your react native app](https://medium.com/@alexmngn/the-essential-boilerplate-to-authenticate-users-on-your-react-native-app-f7a8e0e04a42#.7gfgzbzif)
@@ -252,6 +268,8 @@
   * [PostrgeSQL Full Text Search Engine for Laravel Scout](https://github.com/pmatseykanets/laravel-scout-postgres)
   * [Laravel Referer](https://github.com/spatie/laravel-referer)
   * [Laravel Impersonate](https://github.com/404labfr/laravel-impersonate)
+  * [LaraCSV - A Laravel package to easily generate CSV files from Eloquent model](https://github.com/usmanhalalit/laracsv)
+  * [Limit access to your Laravel applications by using invite codes ](https://github.com/clarkeash/doorman)
 
 ### Specific Resource
   * [Get going with Laravel on Docker](http://pathfinder.space/get-going-with-laravel-on-docker/)
@@ -339,6 +357,12 @@
   * [Laravel Dusk Series by DevDojo](https://devdojo.com/series/laravel-dusk/episode/intro)
   * [Building a User Invitation System with Laravel](https://laravel-news.com/user-invitation-system)
   * [Running Dusk tests on Travis CI and CircleCI](https://laravel-news.com/laravel-dusk-continuous-integration)
+  * [How to build youtube like app with Laravel and Vuejs](http://www.qcode.in/youtube-like-app-vue-js-laravel/)
+  * [An Introduction to Laravel Authorization Gates](https://laravel-news.com/authorization-gates)
+  * [Building an Interactive Voice Response System with Laravel and Nexmo](https://laravel-news.com/laravel-hotline-ivr)
+  * [Rebuild Twitter with Laravel — User and Authentication - Part 1](https://medium.com/@just4sky/rebuild-twitter-with-laravel-user-and-authentication-9b0adb392dc6)
+  * [Rebuild Twitter with Laravel-Followers - Part 2](https://medium.com/@just4sky/rebuild-twitter-with-laravel-followers-fdecaae22499)
+  * [Rebuild Twitter with Laravel — Timeline - Part 3](https://medium.com/@just4sky/rebuild-twitter-with-laravel-timeline-2a2b63ca8e1b)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
@@ -347,6 +371,7 @@
   * [Login With Email Or Username (In One Field)](http://laraveldaily.com/laravel-login-email-username-one-field/)
   * [Model Default Ordering: Assigning Global Scope](http://laraveldaily.com/model-default-ordering-assigning-global-scope/)
   * [Autocomplete using Laravel and VueJS](https://medium.com/@jagadeshanh/autocomplete-using-laravel-and-vuejs-b892f104372d#.5k93o4wet)
+  * [How make Laravel and ElasticSearch become friends](https://medium.com/@babenko.i.a/how-to-make-laravel-and-elasticsearch-become-friends-55ed7690331c)
 
 
 ## Ionic
@@ -500,6 +525,14 @@
 * [Send messages when you are back online with service workers and background sync](https://www.twilio.com/blog/2017/02/send-messages-when-youre-back-online-with-service-workers-and-background-sync.html)
 * [Getting started with the web share API](https://deanhume.com/Home/BlogPost/getting-started-with-the-web-share-api/10156)
 * [Progressive Web App libraries in Production](https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34?imm_mid=0eeb35&cmp=em-web-na-na-newsltr_20170315#.vhk6dvnlx)
+* [Introducing Redux Offline-first Architecture for Progressive Web Applications & React](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
+* [Rethinking Offline First sync for Service Workers](https://medium.com/offline-camp/rethinking-offline-first-sync-for-service-workers-da4727b6dee)
+* [Offline first for everyday developers quickly](https://medium.com/offline-camp/offline-first-for-everyday-developers-quickly-fbd0dd59c55e)
+* [Twitter lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
+* [Offline Sync for Progressive Web Apps](https://medium.com/ibm-watson-data-lab/offline-sync-for-progressive-web-apps-ccab6bf6db17)
+* [Offline first Podcasts](https://medium.com/offline-camp/offline-first-podcasts-d0be01721ee6)
+* [Build your first progressive web app with React](https://engineering.musefind.com/build-your-first-progressive-web-app-with-react-8e1449c575cd)
+* [Progressive Web Apps Training Course by Google](https://developers.google.com/web/ilt/pwa/)
 
 ## Security
 * [A definitive guide to Form based website authentication](http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication)
@@ -509,6 +542,29 @@
 
 ## Authentication
  * [Auth Boss](https://github.com/teesloane/Auth-Boss)
+ 
+## Frontend Development
+ * [The Frontend Development Handbook](https://frontendmasters.com/books/front-end-handbook/2017/)
+ 
+## Chrome Dev Tools
+ * [Preload, Prefetch and Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
+ * [Getting Started With Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome)
+ 
+## Realtime
+ * [How to build a realtime chart using Laravel and Pusher](https://blog.pusher.com/build-realtime-chart-using-laravel-pusher/)
+ * [How to update a user’s status in realtime in JavaScript](https://blog.pusher.com/update-users-status-realtime-javascript/)
+ * [How to build a collaborative note app using Laravel](https://blog.pusher.com/build-collaborative-note-app-using-laravel/)
+ * [How to build a collaborative text editor with JavaScript](https://blog.pusher.com/build-collaborative-text-editor-javascript/)
+
+## Stories From The Trenches
+ * [How we fine-tuned HAProxy to achieve 2,000,000 concurrent SSL connections](https://medium.freecodecamp.com/how-we-fine-tuned-haproxy-to-achieve-2-000-000-concurrent-ssl-connections-d017e61a4d27)
+ 
+## Conference Talks
+ * [JavaScript is a Buffet, not the enemy - Chris Heilmann](https://youtu.be/rfgXKJPMCos)
+ * [Everything is a plugin! Mastering webpack from the inside out - Sean Larkin](https://www.youtube.com/watch?v=4tQiJaFzuJ8)
+ 
+## Remote Work
+ * []()
 
 ## How can I thank you?
 
