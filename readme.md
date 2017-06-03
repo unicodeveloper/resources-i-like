@@ -35,8 +35,9 @@
 - [Conference Talks](#conference-talks)
 - [Remote Work](#remote-work)
 
-## GraphQl
-  * [So what is this GraphQL thing?](https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf) 
+## GraphQL
+  * [So what is this GraphQL thing?](https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf)
+  * [Give it a REST: use GraphQL for your APIs](https://medium.freecodecamp.com/give-it-a-rest-use-graphql-for-your-apis-40a2761e6336)
 
 ## PHP
   * [PHP The Right Way](http://www.phptherightway.com)
@@ -205,7 +206,11 @@
   * [The Benefits of Server side rendering over client side rendering](https://medium.com/walmartlabs/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8)
   * [How to build yourself a Redux](https://zapier.com/engineering/how-to-build-redux)
   
+ ### React Native
+  * [reactnative.training](http://reactnative.training/)
+  
  ### Specific Resources for React Native
+  * [React Native Training - Fundamentals Keynote Slides](https://github.com/react-native-training/fundamentals-slides)
   * [The essential boilerplate to authenticate users on your react native app](https://medium.com/@alexmngn/the-essential-boilerplate-to-authenticate-users-on-your-react-native-app-f7a8e0e04a42#.7gfgzbzif)
   * [React Native App Stack - March 2017](https://medium.com/react-native-development/react-native-app-stack-march-2017-f7605e02d46f?imm_mid=0eeb35&cmp=em-web-na-na-newsltr_20170315#.oqzvlr3cx)
   * [I made React Native fast, you can too!](https://launchdrawer.com/i-made-react-native-fast-you-can-too-9e61c951ce0?imm_mid=0eeb35#.pnmyc991u)
