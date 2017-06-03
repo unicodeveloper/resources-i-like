@@ -9,6 +9,7 @@
 - [PHP Packages for Everyone](#php-packages-for-everyone)
 - [Python](#python)
 - [JavaScript](#javascript)
+- [TypeScript](#typescript)
 - [RxJS](#rxjs)
 - [Laravel](#laravel)
 - [Ionic](#ionic)
@@ -134,6 +135,11 @@
   * [JavaScript: Arrow Functions for Beginners](https://hackernoon.com/javascript-arrow-functions-for-beginners-926947fc0cdc)
   * [Understanding Nodejs Event driven Architecture](https://medium.freecodecamp.com/understanding-node-js-event-driven-architecture-223292fcbc2d)
   
+## TypeScript
+  * [Getting started with TypeScript](https://www.codingforentrepreneurs.com/projects/getting-started-typescript/)
+  * [Learn TypeScript in 30 Minutes](https://tutorialzine.com/2016/07/learn-typescript-in-30-minutes)
+  * [Thinkster.io](https://thinkster.io/tutorials/getting-started-with-typescript)
+
 ### RxJS
   * [https://xgrommx.github.io](https://xgrommx.github.io/rx-book/index.html)
 
