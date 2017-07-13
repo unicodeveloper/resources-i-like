@@ -376,6 +376,7 @@
   * [Rebuild Twitter with Laravel — User and Authentication - Part 1](https://medium.com/@just4sky/rebuild-twitter-with-laravel-user-and-authentication-9b0adb392dc6)
   * [Rebuild Twitter with Laravel-Followers - Part 2](https://medium.com/@just4sky/rebuild-twitter-with-laravel-followers-fdecaae22499)
   * [Rebuild Twitter with Laravel — Timeline - Part 3](https://medium.com/@just4sky/rebuild-twitter-with-laravel-timeline-2a2b63ca8e1b)
+  * [Learn how to Improve the performance of your Laravel app with Performant Laravel](https://laravel-news.com/performant-laravel)
 
 ### Search - Specific Resource
   * [Learning ElasticSearch With Laravel](https://michaelstivala.com/learning-elasticsearch-with-laravel/)
