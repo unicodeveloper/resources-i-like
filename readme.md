@@ -572,7 +572,7 @@
 
 ## Stories From The Trenches
  * [How we fine-tuned HAProxy to achieve 2,000,000 concurrent SSL connections](https://medium.freecodecamp.com/how-we-fine-tuned-haproxy-to-achieve-2-000-000-concurrent-ssl-connections-d017e61a4d27)
- 
+  
 ## Conference Talks
  * [JavaScript is a Buffet, not the enemy - Chris Heilmann](https://youtu.be/rfgXKJPMCos)
  * [Everything is a plugin! Mastering webpack from the inside out - Sean Larkin](https://www.youtube.com/watch?v=4tQiJaFzuJ8)
