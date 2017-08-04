@@ -42,6 +42,7 @@
   * [How to GraphQL: The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
 
 ## PHP
+  * [Cloudways PHP Tutorials](https://www.cloudways.com/blog/php/)
   * [PHP The Right Way](http://www.phptherightway.com)
   * [PHP Dependency Injection](http://php-di.org)
   * [phpenthusiast.com](http://phpenthusiast.com)
@@ -229,6 +230,7 @@
   * [datatables.net](http://datatables.net/)
 
 ## Laravel
+  * [Cloudways Laravel Tutorials](https://www.cloudways.com/blog/laravel/)
   * [dunebook.com](http://dunebook.com/category/useful-resources-for-laravel/)
   * [laraveldaily.com](http://laraveldaily.com)
   * [learninglaravel.net](http://learninglaravel.net)
