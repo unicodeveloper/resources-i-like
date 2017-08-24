@@ -136,7 +136,7 @@
   * [JavaScript: Arrow Functions for Beginners](https://hackernoon.com/javascript-arrow-functions-for-beginners-926947fc0cdc)
   * [Understanding Nodejs Event driven Architecture](https://medium.freecodecamp.com/understanding-node-js-event-driven-architecture-223292fcbc2d)
   * [Bring Laravel Collections to JavaScript with Collect.js](https://laravel-news.com/javascript-collections)
-  * [Javascript 30](https://javascript30.com/)
+  * [JavaScript 30](https://javascript30.com/)
   
 ## TypeScript
   * [Getting started with TypeScript](https://www.codingforentrepreneurs.com/projects/getting-started-typescript/)
