@@ -180,9 +180,9 @@
   * [Making Your Anuglar App fast](https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html)
   * [Building Real World, Production Quality Apps With Angular 2](https://thinkster.io/tutorials/building-real-world-angular-2-apps)
   * [Planning an Angular application](http://developer.telerik.com/topics/web-development/planning-an-angular-application/)
-  * [Learn Angular 2 Development with our Free Course](https://coursetro.com/courses/8/Learn-Angular-2-Development-with-our-Free-Course)
   * [Rangle's Angular 2 Training Book](https://www.gitbook.com/book/rangle-io/ngcourse2/details)
-
+  * [Learn Angular 2 Development with our Free Course](https://coursetro.com/courses/8/Learn-Angular-2-Development-with-our-Free-Course)
+  
 ### ReactJS
   * [reactforbeginners.com](https://reactforbeginners.com)
   * [learnredux.com](http://learnredux.com/)
