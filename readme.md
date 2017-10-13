@@ -439,6 +439,7 @@
   * [Learn to code, 13 tips that could save you years of effort](https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.j5wmlp7gp)
   * [Getting to 10x Results. What any developer can learn from the best!](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef#.1b1w14tq3)
   * [How to become a better developer by coding less](https://www.sitepoint.com/how-to-become-a-better-developer-by-coding-less/)
+  * [How to think like a Programmer](https://medium.freecodecamp.org/how-to-think-like-a-programmer-3ae955d414cd)
   
 ## Developer Inspiring Stories 
   * [Sebastian Mckenzie's 2015 In Review](https://medium.com/@sebmck/2015-in-review-51ac7035e272#.f5u4kzhjg)
