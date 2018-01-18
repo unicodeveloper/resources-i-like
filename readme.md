@@ -220,6 +220,7 @@
   * [Navigating React's setState()](https://medium.com/javascript-scene/setstate-gate-abc10a9b2d82)
   * [The Benefits of Server side rendering over client side rendering](https://medium.com/walmartlabs/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8)
   * [How to build yourself a Redux](https://zapier.com/engineering/how-to-build-redux)
+  * [A Cartoon Introduction to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
   
  ### React Native
   * [reactnative.training](http://reactnative.training/)
