@@ -141,6 +141,7 @@
   * [JavaScript 30](https://javascript30.com/)
   * [Rebuilding Slack’s Emoji Picker in React](https://slack.engineering/rebuilding-slacks-emoji-picker-in-react-bfbd8ce6fbfe)
   * [Keep webpack Fast: A Field Guide for Better Build Performance](https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1)
+  * [How we improved webpack build performance by 95%](https://blog.box.com/blog/how-we-improved-webpack-build-performance-95/)
   
 ## TypeScript
   * [Getting started with TypeScript](https://www.codingforentrepreneurs.com/projects/getting-started-typescript/)
