@@ -11,6 +11,7 @@
 - [JavaScript](#javascript)
 - [TypeScript](#typescript)
 - [RxJS](#rxjs)
+- [Vue](#vue)
 - [Laravel](#laravel)
 - [Ionic](#ionic)
 - [Firebase](#firebase)
@@ -150,6 +151,17 @@
 
 ### RxJS
   * [https://xgrommx.github.io](https://xgrommx.github.io/rx-book/index.html)
+
+
+### Vue
+  * [egghead.io](https://egghead.io/browse/frameworks/vue)
+  * [Introduction to Vue](https://frontendmasters.com/courses/vue/)
+  * [Getting Started With TDD and Vue.js](https://vuejsdevelopers.com/2017/12/25/vue-js-test-driven-development-tdd/)
+  * [Vuejs 2 Authentication Tutorial](https://auth0.com/blog/vuejs2-authentication-tutorial/)
+  * [Authenticating a Vue JS Application With Firebase UI](https://medium.com/dailyjs/authenticating-a-vue-js-application-with-firebase-ui-8870a3a5cff8)
+  * [Simple Modal Notifications in Vue.js with Vue-SweetAlert2](https://alligator.io/vuejs/vue-sweetalert2/)
+  * [Offline First Masonry Grid Showcase with Vue](https://vuejsdevelopers.com/2017/10/09/vue-js-masonary-grid/?ref=madewithvuejs.com)
+  * [Testing Vue](https://madewithvuejs.com/go/testingvue-com)
 
 ### AngularJS
   * [egghead.io](https://egghead.io/technologies/angularjs)
