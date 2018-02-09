@@ -143,6 +143,8 @@
   * [Rebuilding Slack’s Emoji Picker in React](https://slack.engineering/rebuilding-slacks-emoji-picker-in-react-bfbd8ce6fbfe)
   * [Keep webpack Fast: A Field Guide for Better Build Performance](https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1)
   * [How we improved webpack build performance by 95%](https://blog.box.com/blog/how-we-improved-webpack-build-performance-95/)
+  * [ES6 and Beyond Workshop Part 1 at PayPal (Jan 2017)](https://www.youtube.com/watch?v=t3R3R7UyN2Y&t=4844s&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf&index=16)
+  * [ES6 and Beyond Workshop Part 2 at PayPal (March2017)](https://www.youtube.com/watch?v=eOKQDh50ECU&t=16s&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf&index=13)
   
 ## TypeScript
   * [Getting started with TypeScript](https://www.codingforentrepreneurs.com/projects/getting-started-typescript/)
