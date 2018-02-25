@@ -554,6 +554,7 @@
 
 ## Interview Preparation for Developers
 * [Google Interview University](https://github.com/jwasham/google-interview-university)
+* [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
 ## Progressive Web Apps
 * [Progressive Web apps with React - Part 1](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12#.92byl0ok8)
