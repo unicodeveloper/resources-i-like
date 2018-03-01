@@ -13,6 +13,7 @@
 - [RxJS](#rxjs)
 - [Vue](#vue)
 - [Laravel](#laravel)
+- [Machine Learning](#machine-learning)
 - [Ionic](#ionic)
 - [Firebase](#firebase)
 - [Successful Developer Strategies](#successful-developer-strategies)
@@ -413,6 +414,9 @@
   * [Model Default Ordering: Assigning Global Scope](http://laraveldaily.com/model-default-ordering-assigning-global-scope/)
   * [Autocomplete using Laravel and VueJS](https://medium.com/@jagadeshanh/autocomplete-using-laravel-and-vuejs-b892f104372d#.5k93o4wet)
   * [How make Laravel and ElasticSearch become friends](https://medium.com/@babenko.i.a/how-to-make-laravel-and-elasticsearch-become-friends-55ed7690331c)
+  
+## Machine Learning
+  * [Machine Learning - Google Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 
 ## Ionic
