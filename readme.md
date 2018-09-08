@@ -147,6 +147,7 @@
   * [ES6 and Beyond Workshop Part 1 at PayPal (Jan 2017)](https://www.youtube.com/watch?v=t3R3R7UyN2Y&t=4844s&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf&index=16)
   * [ES6 and Beyond Workshop Part 2 at PayPal (March2017)](https://www.youtube.com/watch?v=eOKQDh50ECU&t=16s&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf&index=13)
   * [Motion Graphics about programming](http://reactive.how/)
+  * [Learn about promises before you start using async/await](https://medium.com/@bluepnume/learn-about-promises-before-you-start-using-async-await-eb148164a9c8)
   
 ## TypeScript
   * [Getting started with TypeScript](https://www.codingforentrepreneurs.com/projects/getting-started-typescript/)
