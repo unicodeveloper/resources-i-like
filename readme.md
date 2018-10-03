@@ -149,7 +149,7 @@
   * [Motion Graphics about programming](http://reactive.how/)
   * [Learn about promises before you start using async/await](https://medium.com/@bluepnume/learn-about-promises-before-you-start-using-async-await-eb148164a9c8)
   * [6 reasons why JavaScript's async await blows promises away](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
-  
+
 ## TypeScript
   * [Getting started with TypeScript](https://www.codingforentrepreneurs.com/projects/getting-started-typescript/)
   * [Learn TypeScript in 30 Minutes](https://tutorialzine.com/2016/07/learn-typescript-in-30-minutes)
@@ -185,7 +185,7 @@
 #### AngularJS Directives I have Found Useful for Quick Saas Apps
 
   * [Autocomplete and Mention Directive - mentio](http://jeff-collins.github.io/ment.io/#/)
-  
+
 ### Angular 2
   * [Angular Expo - Showcase of Angular 2 webapps](http://angularexpo.com/)
   * [Creating you first real world angular 2 app from authentication to..](https://auth0.com/blog/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/)
@@ -203,11 +203,12 @@
   * [Planning an Angular application](http://developer.telerik.com/topics/web-development/planning-an-angular-application/)
   * [Rangle's Angular 2 Training Book](https://www.gitbook.com/book/rangle-io/ngcourse2/details)
   * [Learn Angular 2 Development with our Free Course](https://coursetro.com/courses/8/Learn-Angular-2-Development-with-our-Free-Course)
-  
+
 ### ReactJS
   * [reactforbeginners.com](https://reactforbeginners.com)
+  * [react.express](http://www.react.express/)
   * [learnredux.com](http://learnredux.com/)
-  
+
 ### Specific Resources for ReactJS
   * [ReactJS Introduction for people who know just enough JQuery to get by](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
   * [Creating a simple shopping cart with ReactJS and Flux](https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux)
@@ -239,10 +240,10 @@
   * [The Benefits of Server side rendering over client side rendering](https://medium.com/walmartlabs/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8)
   * [How to build yourself a Redux](https://zapier.com/engineering/how-to-build-redux)
   * [A Cartoon Introduction to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
-  
+
  ### React Native
   * [reactnative.training](http://reactnative.training/)
-  
+
  ### Specific Resources for React Native
   * [React Native Training - Fundamentals Keynote Slides](https://github.com/react-native-training/fundamentals-slides)
   * [The essential boilerplate to authenticate users on your react native app](https://medium.com/@alexmngn/the-essential-boilerplate-to-authenticate-users-on-your-react-native-app-f7a8e0e04a42#.7gfgzbzif)
@@ -416,7 +417,7 @@
   * [Model Default Ordering: Assigning Global Scope](http://laraveldaily.com/model-default-ordering-assigning-global-scope/)
   * [Autocomplete using Laravel and VueJS](https://medium.com/@jagadeshanh/autocomplete-using-laravel-and-vuejs-b892f104372d#.5k93o4wet)
   * [How make Laravel and ElasticSearch become friends](https://medium.com/@babenko.i.a/how-to-make-laravel-and-elasticsearch-become-friends-55ed7690331c)
-  
+
 ## Machine Learning
   * [Machine Learning - Google Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
@@ -443,7 +444,7 @@
   * [How to handle User Authentication With AngularJs in your Ionic App](http://devdactic.com/user-auth-angularjs-ionic/)
   * [Ultimate angularjs and Ionic Performance Cheat Sheet](http://julienrenaux.fr/2015/08/24/ultimate-angularjs-and-ionic-performance-cheat-sheet/)
   * [Awesome Ionic](https://github.com/Alexintosh/Awesome-Ionic)
-  
+
 ## Firebase
 
 ### Specific Resource
@@ -466,8 +467,8 @@
   * [How to become a better developer by coding less](https://www.sitepoint.com/how-to-become-a-better-developer-by-coding-less/)
   * [How to think like a Programmer](https://medium.freecodecamp.org/how-to-think-like-a-programmer-3ae955d414cd)
   * [How to write a great resume for software engineers](https://medium.freecodecamp.org/how-to-write-a-great-resume-for-software-engineers-75d514dd8322)
-  
-## Developer Inspiring Stories 
+
+## Developer Inspiring Stories
   * [Sebastian Mckenzie's 2015 In Review](https://medium.com/@sebmck/2015-in-review-51ac7035e272#.f5u4kzhjg)
   * [John Morony - Developing Authority: Year in Review 2016](http://developingauthority.com/year-in-review-2016/)
 
@@ -517,6 +518,7 @@
  * [High Scalability](https://highscalability.wordpress.com/)
  * [Highly Scalable](http://highscalability.com/)
  * [Ops School](http://www.opsschool.org)
+ * [Cron Tasks Schedule](https://crontab.guru/)
 
 ## Commandline
 
@@ -541,7 +543,7 @@
 ## Design Patterns
  * [2 Design Patterns that will make your applications better](http://ryantablada.com/post/two-design-patterns-that-will-make-your-applications-better)
  * [Reusable Repository Design in Laravel](http://slashnode.com/reusable-repository-design-in-laravel/)
- 
+
 ## Better Programming, Better development teams, Better Product
 * [Giving Better Code Reviews](https://medium.com/@mrjoelkemp/giving-better-code-reviews-16109e0fdd36#.de615s9i6)
 * [How to write a Great Error message](https://medium.com/@thomasfuchs/how-to-write-an-error-message-883718173322#.rdv2usryh)
@@ -592,14 +594,14 @@
 
 ## Authentication
  * [Auth Boss](https://github.com/teesloane/Auth-Boss)
- 
+
 ## Frontend Development
  * [The Frontend Development Handbook](https://frontendmasters.com/books/front-end-handbook/2017/)
- 
+
 ## Chrome Dev Tools
  * [Preload, Prefetch and Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
  * [Getting Started With Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome)
- 
+
 ## Realtime
  * [How to build a realtime chart using Laravel and Pusher](https://blog.pusher.com/build-realtime-chart-using-laravel-pusher/)
  * [How to update a user’s status in realtime in JavaScript](https://blog.pusher.com/update-users-status-realtime-javascript/)
@@ -608,11 +610,11 @@
 
 ## Stories From The Trenches
  * [How we fine-tuned HAProxy to achieve 2,000,000 concurrent SSL connections](https://medium.freecodecamp.com/how-we-fine-tuned-haproxy-to-achieve-2-000-000-concurrent-ssl-connections-d017e61a4d27)
- 
+
 ## Conference Talks
  * [JavaScript is a Buffet, not the enemy - Chris Heilmann](https://youtu.be/rfgXKJPMCos)
  * [Everything is a plugin! Mastering webpack from the inside out - Sean Larkin](https://www.youtube.com/watch?v=4tQiJaFzuJ8)
- 
+
 ## Remote Work
  * []()
 
