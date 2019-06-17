@@ -593,6 +593,9 @@
 ## Authentication
  * [Auth Boss](https://github.com/teesloane/Auth-Boss)
  
+## Scaling
+ * [Parallel and High Performance Computing](https://www.manning.com/books/parallel-and-high-performance-computing)
+ 
 ## Frontend Development
  * [The Frontend Development Handbook](https://frontendmasters.com/books/front-end-handbook/2017/)
  
