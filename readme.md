@@ -505,6 +505,7 @@
 ## Git
 
  * [git-attitude.fr](http://www.git-attitude.fr/)
+ * [git - the simple guide](https://rogerdudler.github.io/git-guide/)
 
 ### Specific Resource
 * [Visual way to learn Git Branching](http://pcottle.github.io/learnGitBranching/)
