@@ -614,7 +614,8 @@
  * [Everything is a plugin! Mastering webpack from the inside out - Sean Larkin](https://www.youtube.com/watch?v=4tQiJaFzuJ8)
  
 ## Remote Work
- * []()
+ * [Landing Jobs](https://landing.jobs)
+ * [Remote OK](https://remoteok.io)
 
 ## How can I thank you?
 
