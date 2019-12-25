@@ -239,6 +239,7 @@
   * [The Benefits of Server side rendering over client side rendering](https://medium.com/walmartlabs/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8)
   * [How to build yourself a Redux](https://zapier.com/engineering/how-to-build-redux)
   * [A Cartoon Introduction to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
+  * [Deploying a React App to GitHub Pages](https://github.com/gitname/react-gh-pages)
   
  ### React Native
   * [reactnative.training](http://reactnative.training/)
@@ -505,6 +506,7 @@
 ## Git
 
  * [git-attitude.fr](http://www.git-attitude.fr/)
+ * [git - the simple guide](https://rogerdudler.github.io/git-guide/)
 
 ### Specific Resource
 * [Visual way to learn Git Branching](http://pcottle.github.io/learnGitBranching/)
