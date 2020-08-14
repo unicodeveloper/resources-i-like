@@ -62,6 +62,7 @@
   * [Learn Python - Free Interactive Python Tutorial](https://learnpython.org)
   * [Learn Python the Hard Way](https://learnpythonthehardway.org/book)
   * [Codecademy Learn Python](https://www.codecademy.com/learn/python)
+  * [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 
 ### PHP Packages For Everyone
   * [Crawler Detector - PHP Library that detects over 390 bots/crawlers/spiders](https://github.com/JayBizzle/Crawler-Detect)
