@@ -97,7 +97,7 @@
   * [Best Practices for Modern PHP Development](https://www.airpair.com/php/posts/best-practices-for-modern-php-development)
   * [How to Create a PSR-4 PHP Package](http://culttt.com/2014/05/07/create-psr-4-php-package/)
   * [Formatting Exception Messages](http://rosstuck.com/formatting-exception-messages/)
-  * [Scaling Wordpress with HHVM on heroku](https://substrakt.com/scaling-wordpress-with-hhvm-on-heroku/)
+  * [Scaling Wordpress with HHVM on heroku](https://substrakt.com/journal/scaling-wordpress-with-hhvm-on-heroku/)
   * [A magic memoization function](https://murze.be/2016/11/magic-memoization-function/)
   * [Building PHP Projects on AWS Codebuild](https://benramsey.com/blog/2016/12/aws-codebuild-php)
   * [Streamed File Zipping and Downloading in PHP](https://medium.com/weebly-engineering/streamed-file-zipping-and-downloading-in-php-1fb59b0a5b79#.12cjrniaz)
@@ -125,7 +125,6 @@
   * [How I converted my React App to VanillasJS and whether or not it was a terrible idea](https://hackernoon.com/how-i-converted-my-react-app-to-vanillajs-and-whether-or-not-it-was-a-terrible-idea-4b14b1b2faff#.7gb0eskuw)
   * [How to build your own Uber for X app - Part 1](https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-33237955e253#.mr5gbpne0)
   * [How to build your own Uber for X app - Part 2](https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-part-2-8ba6ffa2573d#.z3q534o3s)
-  * [Next on NextJS](https://jsmantra.com/next-on-next-js-1a134505f346#.sf2f64u4r)
   * [JavaScript Startup Performance by Addy Osmani](https://medium.com/@addyosmani/javascript-start-up-performance-69200f43b201#.jab5m5557)
   * [A glossary of modern JavaScript concepts - Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
   * [Webpack is not the only way - Introducing Fusebox](https://medium.com/fusebox/webpack-is-not-the-only-way-6ddb67e99be9#.o1x67tavo)
@@ -195,7 +194,6 @@
   * [Understanding Angular 2 Change Detection](https://auth0.com/blog/understanding-angular-2-change-detection/)
   * [30 Learning resources for mastering Angular 2](http://tutorialzine.com/2016/09/30-learning-resources-for-mastering-angular-2/)
   * [Angular Universal for the rest of us](https://medium.com/google-developer-experts/angular-universal-for-the-rest-of-us-922ca8bac84#.21b2t7v99)
-  * [Getting Started With Angular 2](https://school.scotch.io/getting-started-with-angular-2)
   * [Setting up an Angular 2 development environment](https://ponyfoo.com/articles/setting-up-angular-2-development-environment)
   * [Setting up your first Angular (2) Project Using Angular Material (2)](https://medium.com/@ladyleet/setting-up-your-first-angular-2-project-using-angular-material2-5db18a174165#.52sh28t9o)
   * [Using Angular Material 2 components in your angular 2 project - Intro: Custom styles buttons](https://medium.com/@ladyleet/using-angular-material2-components-in-your-angular-2-project-intro-custom-styles-buttons-d2178e4b45c5#.2gbgd2yft)
@@ -240,7 +238,6 @@
   * [Navigating React's setState()](https://medium.com/javascript-scene/setstate-gate-abc10a9b2d82)
   * [The Benefits of Server side rendering over client side rendering](https://medium.com/walmartlabs/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8)
   * [How to build yourself a Redux](https://zapier.com/engineering/how-to-build-redux)
-  * [A Cartoon Introduction to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
 
  ### React Native
   * [reactnative.training](http://reactnative.training/)
@@ -282,8 +279,7 @@
   * [Laravel Crawler Detect - Laravel 5 Wrapper for the Crawler Detect PHP Library](https://github.com/JayBizzle/Laravel-Crawler-Detect)
   * [Teamwork](https://github.com/mpociot/teamwork)
   * [Laravel Tagging](https://github.com/rtconner/laravel-tagging)
-  * [Laravel Commentable 1](https://github.com/RomainLanz/laravel-commentable)
-  * [Laravel Commentable 2](https://github.com/DraperStudio/Laravel-Commentable)
+  * [Laravel Commentable](https://github.com/DraperStudio/Laravel-Commentable)
   * [Laravel Likeable](https://github.com/DraperStudio/Laravel-Likeable)
   * [Laravel Messageable](https://github.com/DraperStudio/Laravel-Messageable)
   * [Laravel Friendable](https://github.com/DraperStudio/Laravel-Friendable)
@@ -319,7 +315,7 @@
 ### Specific Resource
   * [Get going with Laravel on Docker](http://pathfinder.space/get-going-with-laravel-on-docker/)
   * [Developing Laravel applications with Docker](https://medium.com/@mrfoh/developing-laravel-applications-with-docker-7324c0a0789a#.sqhx2ilx5)
-  * [Adding custom profile fields to Laravel Spark](https://spark.laravel.com/docs/1.0/adding-profile-fields?utm_campaign=Laravel%20News&utm_medium=email&utm_source=ln105)
+  * [Adding custom profile fields to Laravel Spark](https://spark-classic.laravel.com/docs/1.0/adding-profile-fields)
   * [Generate Fake Localized Data with Laravel](https://medium.com/laravel-news/fake-localized-data-and-laravel-c4cdbecb2c31#.4x9hmvva9)
   * [Solving the search problem with laravel and tntsearch](https://medium.com/@tntstudiohr/solving-the-search-problem-with-laravel-and-tntsearch-dfa16aa9173b#.g8ciu3qvt)
   * [Building Real-time Laravel Apps with Pusher](https://pusher-community.github.io/real-time-laravel/index.html)
@@ -349,7 +345,7 @@
   * [10 less known but awesome laravel collection methods](http://laraveldaily.com/10-less-known-but-awesome-laravel-collections-methods/?utm_content=buffer89887&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
   * [Email Verification With Laravel](http://bensmith.io/email-verification-with-laravel)
   * [How to add tagging to your Laravel App](https://laravel-news.com/2015/10/how-to-add-tagging-to-your-laravel-app/)
-  * [The Magic behind Laravel Valet](http://themsaid.github.io/magic-behind-laravel-valet-20160506/)
+  * [The Magic behind Laravel Valet](https://medium.com/@freekmurze/the-magic-behind-laravel-valet-35cbb9ad8a7b)
   * [Introduction to Laravel Valet](https://dotdev.co/laravel-valet-ab9e745dd6f0#.a8zku1fmm)
   * [Writing Advanced Eloquent Search Query Filters](https://dotdev.co/writing-advanced-eloquent-search-query-filters-de8b6c2598db#.jvxqc6hn5)
   * [Sharing data between views using Laravel view composers](https://scotch.io/tutorials/sharing-data-between-views-using-laravel-view-composers?utm_campaign=Laravel%20News&utm_medium=email&utm_source=ln105)
@@ -365,7 +361,7 @@
   * [5.3 feature announcements from Laracon](https://mattstauffer.co/blog/5-3-feature-announcement-notes-from-laracon)
   * [Creating your first Laravel app and adding authentication](https://auth0.com/blog/creating-your-first-laravel-app-and-adding-authentication/)
   * [Building a single page app from scratch with vuejs and Laravel](http://taha-sh.com/blog/building-a-single-page-application-from-scratch-with-vuejs-and-laravel)
-  * [Tracking if a user is online in Laravel](https://erikbelusic.com/tracking-if-a-user-is-online-in-laravel/)
+  * [Tracking if a user is online in Laravel](https://shouts.dev/determine-user-online-status-in-laravel)
   * [Understanding the Laravel service Container](https://dotdev.co/understanding-laravel-service-container-bd488ca05280#.j8m80swcl)
   * [Scaling Laravel using AWS Elastic Beanstalk Part 1: Setting up Laravel](https://deliciousbrains.com/scaling-laravel-aws-elastic-beanstalk-part-1-setting-up-laravel/)
   * [Scaling Laravel using AWS Elastic Beanstalk Part 2: Setting up VPC, RDS, Elasticache](https://deliciousbrains.com/scaling-laravel-using-aws-elastic-beanstalk-part-2-setting-up-vpc-rds-elasticache/)
@@ -429,7 +425,6 @@
   * [joshmorony.com](http://www.joshmorony.com/category/ionic-tutorials/)
   * [gajotres.net](http://www.gajotres.net/)
   * [devdactic.com](https://devdactic.com/)
-  * [blog.nraboy.com](https://blog.nraboy.com/)
   * [gonehybrid.com](http://gonehybrid.com/)
   * [Mastering the Ionic Framework](https://thinkster.io/topics/ionic)
 
@@ -483,7 +478,6 @@
  * [Building your own Development Environment](https://www.smashingmagazine.com/2015/07/development-to-deployment-workflow/)
 
 ### Specific Resource
- * [The basics of Scrum](http://www.scruminc.com/wp-content/uploads/2014/06/The-Basics-of-Scrum.pdf)
  * [Scrum Fundamentals](http://www.scruminc.com/scrum-fundamentals/)
  * [Definition of Ready](http://www.scruminc.com/definition-of-ready/)
  * [Definition of Done](http://www.scruminc.com/definition-of-done/)
@@ -563,6 +557,7 @@
 * [Your Blog is the engine of Community](https://medium.com/@shanselman/your-blog-is-the-engine-of-community-cfbb21a5ae80#.tetie83sw)
 
 ## Interview Preparation for Developers
+* [Elasticsearch Interview Questions](https://logit.io/blog/post/the-top-50-elk-stack-and-elasticsearch-interview-questions)
 * [Google Interview University](https://github.com/jwasham/google-interview-university)
 * [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 
