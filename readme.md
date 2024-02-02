@@ -618,6 +618,7 @@
 
 ## Remote Work
  * [Landing Jobs](https://landing.jobs)
+ * [OkJob](https://okjob.io/remote-4-day-work-week/)
  * [Remote OK](https://remoteok.io)
 
 ## How can I thank you?
